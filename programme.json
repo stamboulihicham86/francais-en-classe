@@ -19,7 +19,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "A a, B b, C c, D d, E e.",
       "vocabulary": [],
       "lessonPlan": [
@@ -49,6 +49,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-01-Q1",
+          "question": "Quelle est la première lettre du prénom Salma ?",
+          "arabic": "ما هو الحرف الأول من اسم سلمى؟",
+          "darija": "شنو هو أول حرف فسمية سلمى؟",
+          "options": [
+            "S",
+            "M",
+            "A"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-01-Q2",
+          "question": "Quelle lettre minuscule correspond à B ?",
+          "arabic": "ما الحرف الصغير الموافق لـ B؟",
+          "darija": "شنو الحرف الصغير ديال B؟",
+          "options": [
+            "d",
+            "b",
+            "p"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-01-Q3",
+          "question": "Quelle lettre manque dans A M _ N E ?",
+          "arabic": "ما الحرف الناقص في A M _ N E؟",
+          "darija": "شنو الحرف اللي ناقص فـ A M _ N E؟",
+          "options": [
+            "O",
+            "I",
+            "U"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-01-Q4",
+          "question": "Quelle est la dernière lettre du prénom Fatima ?",
+          "arabic": "ما الحرف الأخير في اسم فاطمة؟",
+          "darija": "شنو آخر حرف فسمية فاطمة؟",
+          "options": [
+            "F",
+            "M",
+            "A"
+          ],
+          "correct": 2
+        }
       ]
     },
     {
@@ -67,7 +117,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "A, E, I, O, U et Y sont des voyelles écrites.",
       "vocabulary": [
         "sont",
@@ -101,6 +151,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-02-Q1",
+          "question": "Parmi ces lettres, laquelle est une voyelle ?",
+          "arabic": "أي حرف من هذه الحروف حرف علّة؟",
+          "darija": "أشنو هو حرف العلة من هاد الحروف؟",
+          "options": [
+            "B",
+            "A",
+            "T"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-02-Q2",
+          "question": "Combien de lettres voyelles étudions-nous ici, en comptant Y ?",
+          "arabic": "كم حرف علّة ندرس هنا مع احتساب Y؟",
+          "darija": "شحال من حرف علة كنقراو هنا مع Y؟",
+          "options": [
+            "5",
+            "6",
+            "7"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-02-Q3",
+          "question": "Quelle lettre est une consonne ?",
+          "arabic": "أي حرف من هذه الحروف حرف ساكن؟",
+          "darija": "أشنو هو الحرف الساكن من هادو؟",
+          "options": [
+            "O",
+            "M",
+            "E"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-02-Q4",
+          "question": "Dans le prénom Amine, quelle est la première voyelle ?",
+          "arabic": "ما أول حرف علّة في اسم أمين؟",
+          "darija": "شنو أول حرف علة فسمية أمين؟",
+          "options": [
+            "A",
+            "M",
+            "N"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -119,7 +219,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "A / a ; M / m ; S / s.",
       "vocabulary": [],
       "lessonPlan": [
@@ -149,6 +249,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-03-Q1",
+          "question": "Quelle est la minuscule de M ?",
+          "arabic": "ما الحرف الصغير الموافق لـ M؟",
+          "darija": "شنو الحرف الصغير ديال M؟",
+          "options": [
+            "n",
+            "m",
+            "w"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-03-Q2",
+          "question": "Quelle est la majuscule de s ?",
+          "arabic": "ما الحرف الكبير الموافق لـ s؟",
+          "darija": "شنو الحرف الكبير ديال s؟",
+          "options": [
+            "C",
+            "S",
+            "Z"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-03-Q3",
+          "question": "Quelle paire correspond à la même lettre ?",
+          "arabic": "أي زوج يمثل الحرف نفسه؟",
+          "darija": "أشنو الزوج اللي فيه نفس الحرف؟",
+          "options": [
+            "P / q",
+            "D / d",
+            "B / p"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-03-Q4",
+          "question": "Quelle est la minuscule de A ?",
+          "arabic": "ما الحرف الصغير الموافق لـ A؟",
+          "darija": "شنو الحرف الصغير ديال A؟",
+          "options": [
+            "a",
+            "o",
+            "e"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -167,7 +317,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "A-M-I-N-E : Amine.",
       "vocabulary": [
         "A-M-I-N-E",
@@ -200,6 +350,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-04-Q1",
+          "question": "Comment épelle-t-on Amine ?",
+          "arabic": "كيف نتهجّى اسم أمين؟",
+          "darija": "كيفاش كنهجّاو أمين؟",
+          "options": [
+            "A-M-I-N-E",
+            "A-N-I-M-E",
+            "A-M-E-N-I"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-04-Q2",
+          "question": "Comment épelle-t-on Salma ?",
+          "arabic": "كيف نتهجّى اسم سلمى؟",
+          "darija": "كيفاش كنهجّاو سلمى؟",
+          "options": [
+            "S-A-M-L-A",
+            "S-A-L-M-A",
+            "S-L-A-M-A"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-04-Q3",
+          "question": "Quelle lettre vient après Y dans Yassine ?",
+          "arabic": "ما الحرف الذي يأتي بعد Y في اسم ياسين؟",
+          "darija": "شنو الحرف اللي كايجي من بعد Y فـ Yassine؟",
+          "options": [
+            "S",
+            "A",
+            "I"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-04-Q4",
+          "question": "Quelle question permet de demander l'orthographe d'un prénom ?",
+          "arabic": "ما السؤال المستخدم لطلب تهجئة الاسم؟",
+          "darija": "أشنو السؤال اللي كنسولو به على تهجئة السمية؟",
+          "options": [
+            "Quel âge as-tu ?",
+            "Où habites-tu ?",
+            "Comment ça s'écrit ?"
+          ],
+          "correct": 2
+        }
       ]
     },
     {
@@ -218,7 +418,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "ma, mi, mo ; la, li, lo.",
       "vocabulary": [],
       "lessonPlan": [
@@ -248,6 +448,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-05-Q1",
+          "question": "Quelle suite commence par le son de la lettre M ?",
+          "arabic": "أي مجموعة تبدأ بصوت الحرف M؟",
+          "darija": "أشنو المجموعة اللي كتبدا بصوت M؟",
+          "options": [
+            "ma – mi – mo",
+            "pa – pi – po",
+            "la – li – lo"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-05-Q2",
+          "question": "Dans « papa », quelle syllabe se répète ?",
+          "arabic": "ما المقطع المتكرر في كلمة papa؟",
+          "darija": "شنو المقطع اللي كيتعاود فـ papa؟",
+          "options": [
+            "pi",
+            "pa",
+            "po"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-05-Q3",
+          "question": "Quelle syllabe lit-on avec L et A ?",
+          "arabic": "ما المقطع الناتج عن L و A؟",
+          "darija": "شنو المقطع اللي كنقراو بـ L و A؟",
+          "options": [
+            "li",
+            "lo",
+            "la"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-05-Q4",
+          "question": "Quel mot est formé de « mo » et « to » ?",
+          "arabic": "ما الكلمة المكوّنة من mo و to؟",
+          "darija": "شنو الكلمة اللي مكوّنة من mo و to؟",
+          "options": [
+            "moto",
+            "mato",
+            "tomo"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
