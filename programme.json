@@ -516,8 +516,8 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
-      "example": "ma, mi, mo ; la, li, lo.",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
+      "example": "pa, pi, po ; ta, ti, to.",
       "vocabulary": [],
       "lessonPlan": [
         {
@@ -546,6 +546,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-06-Q1",
+          "question": "Quelle syllabe commence par P ?",
+          "arabic": "أي مقطع يبدأ بحرف P؟",
+          "darija": "أشنو المقطع اللي كيبدا بـ P؟",
+          "options": [
+            "pa",
+            "la",
+            "ma"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-06-Q2",
+          "question": "Quelle syllabe commence par T ?",
+          "arabic": "أي مقطع يبدأ بحرف T؟",
+          "darija": "أشنو المقطع اللي كيبدا بـ T؟",
+          "options": [
+            "mi",
+            "to",
+            "li"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-06-Q3",
+          "question": "P + A donne…",
+          "arabic": "P و A يعطيان…",
+          "darija": "P و A كيعطيو…",
+          "options": [
+            "pa",
+            "pi",
+            "po"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-06-Q4",
+          "question": "T + O donne…",
+          "arabic": "T و O يعطيان…",
+          "darija": "T و O كيعطيو…",
+          "options": [
+            "ta",
+            "ti",
+            "to"
+          ],
+          "correct": 2
+        }
       ]
     },
     {
@@ -564,8 +614,8 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
-      "example": "pa, pi, po ; ta, ti, to.",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
+      "example": "moto, papa, ami, lama.",
       "vocabulary": [],
       "lessonPlan": [
         {
@@ -594,6 +644,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-07-Q1",
+          "question": "Quel mot contient « mo » ?",
+          "arabic": "أي كلمة تحتوي على mo؟",
+          "darija": "أشنو الكلمة اللي فيها mo؟",
+          "options": [
+            "moto",
+            "papa",
+            "ami"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-07-Q2",
+          "question": "Quel mot contient « pa » ?",
+          "arabic": "أي كلمة تحتوي على pa؟",
+          "darija": "أشنو الكلمة اللي فيها pa؟",
+          "options": [
+            "lama",
+            "papa",
+            "moto"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-07-Q3",
+          "question": "Quel mot commence par « la » ?",
+          "arabic": "أي كلمة تبدأ بـ la؟",
+          "darija": "أشنو الكلمة اللي كتبدا بـ la؟",
+          "options": [
+            "ami",
+            "lama",
+            "papa"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-07-Q4",
+          "question": "Quel mot contient deux syllabes ?",
+          "arabic": "أي كلمة فيها مقطعان؟",
+          "darija": "أشنو الكلمة اللي فيها جوج مقاطع؟",
+          "options": [
+            "ami",
+            "moto",
+            "les"
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -612,8 +712,8 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
-      "example": "moto, papa, ami, lama.",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
+      "example": "Bonjour, Salma ! Au revoir, Amine !",
       "vocabulary": [
         "moto",
         "papa",
@@ -646,6 +746,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-08-Q1",
+          "question": "Que dit-on pour saluer ?",
+          "arabic": "ماذا نقول للتحية؟",
+          "darija": "شنو كنقولو فالتحية؟",
+          "options": [
+            "Bonjour !",
+            "Au revoir !",
+            "Merci !"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-08-Q2",
+          "question": "Que dit-on pour prendre congé ?",
+          "arabic": "ماذا نقول عند المغادرة؟",
+          "darija": "شنو كنقولو ملي كنمشيو؟",
+          "options": [
+            "Bonjour !",
+            "Au revoir !",
+            "Salut demain !"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-08-Q3",
+          "question": "Quelle formule convient au début d'une rencontre ?",
+          "arabic": "ما العبارة المناسبة في بداية اللقاء؟",
+          "darija": "شنو العبارة المناسبة فالبداية ديال اللقاء؟",
+          "options": [
+            "Bonjour !",
+            "Au revoir !",
+            "À demain !"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-08-Q4",
+          "question": "Quelle formule peut convenir au départ ?",
+          "arabic": "ما العبارة التي تناسب لحظة المغادرة؟",
+          "darija": "شنو العبارة اللي كتصلح ملي كنمشيو؟",
+          "options": [
+            "Bonjour !",
+            "Au revoir !",
+            "Bonsoir hier !"
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -664,8 +814,8 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
-      "example": "Bonjour, Salma ! Au revoir, Amine !",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
+      "example": "Je m'appelle Yassine.",
       "vocabulary": [
         "Bonjour",
         "Salma",
@@ -699,6 +849,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-09-Q1",
+          "question": "Complète : Je m'_____ Yassine.",
+          "arabic": "أكمل: Je m'_____ Yassine.",
+          "darija": "كمّل: Je m'_____ Yassine.",
+          "options": [
+            "appelle",
+            "habite",
+            "suis"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-09-Q2",
+          "question": "Quelle phrase donne le prénom ?",
+          "arabic": "أي جملة تعطي الاسم الأول؟",
+          "darija": "أشنو الجملة اللي كتقول السمية؟",
+          "options": [
+            "Je m'appelle Salma.",
+            "J'habite à Rabat.",
+            "J'ai vingt ans."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-09-Q3",
+          "question": "Quelle question correspond à la réponse « Je m'appelle Amine » ?",
+          "arabic": "ما السؤال المناسب لجواب « Je m'appelle Amine »؟",
+          "darija": "شنو السؤال المناسب لجواب « Je m'appelle Amine »؟",
+          "options": [
+            "Comment tu t'appelles ?",
+            "Où habites-tu ?",
+            "Quel âge as-tu ?"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-09-Q4",
+          "question": "Que peux-tu dire pour te présenter ?",
+          "arabic": "ماذا يمكنك أن تقول لتقديم اسمك؟",
+          "darija": "شنو تقدر تقول باش تقدم السمية ديالك؟",
+          "options": [
+            "Je m'appelle Fatima.",
+            "Au revoir Fatima.",
+            "Merci beaucoup."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -717,8 +917,8 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
-      "example": "Je m'appelle Yassine.",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
+      "example": "Bonjour, je m'appelle Amine. J'ai vingt ans.",
       "vocabulary": [
         "m'appelle",
         "Yassine"
@@ -750,6 +950,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-10-Q1",
+          "question": "Quelle phrase donne le nom ?",
+          "arabic": "أي جملة تعطي الاسم؟",
+          "darija": "شنو الجملة اللي كتقول السمية؟",
+          "options": [
+            "Je m'appelle Amine.",
+            "J'ai vingt ans.",
+            "Bonjour."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-10-Q2",
+          "question": "Quelle phrase donne l'âge ?",
+          "arabic": "أي جملة تعطي العمر؟",
+          "darija": "شنو الجملة اللي كتقول العمر؟",
+          "options": [
+            "Je m'appelle Amine.",
+            "J'ai vingt ans.",
+            "Au revoir."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-10-Q3",
+          "question": "Comment demander le prénom ?",
+          "arabic": "كيف نسأل عن الاسم؟",
+          "darija": "كيفاش نسولو على السمية؟",
+          "options": [
+            "Comment tu t'appelles ?",
+            "Quel âge as-tu ?",
+            "Où habites-tu ?"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-10-Q4",
+          "question": "Quelle réponse convient à « Comment tu t'appelles ? » ?",
+          "arabic": "ما الجواب المناسب؟",
+          "darija": "شنو الجواب المناسب؟",
+          "options": [
+            "J'ai vingt ans.",
+            "Je m'appelle Salma.",
+            "J'habite à Fès."
+          ],
+          "correct": 1
+        }
       ]
     },
     {
