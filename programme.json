@@ -2044,7 +2044,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "le pain, le lait, la pomme.",
       "vocabulary": [
         "pain",
@@ -2078,6 +2078,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-21-Q1",
+          "question": "Quel aliment est cité dans l'exemple ?",
+          "arabic": "ما الطعام المذكور في المثال؟",
+          "darija": "شنو الماكلة اللي جاية فالمثال؟",
+          "options": [
+            "le pain",
+            "la chemise",
+            "le stylo"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-21-Q2",
+          "question": "Quel aliment peut-on boire ?",
+          "arabic": "أي طعام يمكن شربه؟",
+          "darija": "شنو نقدروا نشربو؟",
+          "options": [
+            "le lait",
+            "la pomme",
+            "le pain"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-21-Q3",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "Je mange une pomme.",
+            "Je porte une pomme.",
+            "Je lis une pomme."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-21-Q4",
+          "question": "Complète : Je mange ___ pain.",
+          "arabic": "أكمل: آكل الخبز.",
+          "darija": "كمّل: كنّاكل ___ الخبز.",
+          "options": [
+            "du",
+            "de la",
+            "des"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -2096,7 +2146,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "une chemise, un pantalon, des chaussures.",
       "vocabulary": [
         "chemise",
@@ -2130,6 +2180,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-22-Q1",
+          "question": "Quel vêtement porte-t-on sur le haut du corps ?",
+          "arabic": "أي لباس نرتديه في الجزء العلوي من الجسم؟",
+          "darija": "شنو اللباس اللي كنلبسو فالجزء الفوقاني؟",
+          "options": [
+            "une chemise",
+            "des chaussures",
+            "un pantalon"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-22-Q2",
+          "question": "Quel vêtement porte-t-on aux pieds ?",
+          "arabic": "أي لباس نرتديه في القدمين؟",
+          "darija": "شنو كنلبسو فالرجلين؟",
+          "options": [
+            "une chemise",
+            "des chaussures",
+            "un pantalon"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-22-Q3",
+          "question": "Quel mot désigne le vêtement pour les jambes ?",
+          "arabic": "ما الكلمة التي تدل على لباس الساقين؟",
+          "darija": "شنو الكلمة ديال اللباس ديال الرجلين؟",
+          "options": [
+            "un pantalon",
+            "une chemise",
+            "un cahier"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-22-Q4",
+          "question": "Complète : Je porte ___ pantalon.",
+          "arabic": "أكمل: أرتدي سروالاً.",
+          "darija": "كمّل: لابس ___ pantalon.",
+          "options": [
+            "un",
+            "une",
+            "des"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -2148,7 +2248,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je suis élève. Tu es élève.",
       "vocabulary": [
         "suis",
@@ -2182,6 +2282,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-23-Q1",
+          "question": "Complète : Je ___ élève.",
+          "arabic": "أكمل: أنا تلميذ.",
+          "darija": "كمّل: أنا تلميذ.",
+          "options": [
+            "suis",
+            "es",
+            "est"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-23-Q2",
+          "question": "Complète : Tu ___ élève.",
+          "arabic": "أكمل: أنت تلميذ.",
+          "darija": "كمّل: نتا تلميذ.",
+          "options": [
+            "suis",
+            "es",
+            "est"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-23-Q3",
+          "question": "Complète : Elle ___ élève.",
+          "arabic": "أكمل: هي تلميذة.",
+          "darija": "كمّل: هي تلميذة.",
+          "options": [
+            "suis",
+            "es",
+            "est"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-23-Q4",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "Je suis élève.",
+            "Je es élève.",
+            "Je est élève."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -2200,7 +2350,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "J'ai un cahier. Elle a un livre.",
       "vocabulary": [
         "J'ai",
@@ -2235,6 +2385,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-24-Q1",
+          "question": "Complète : J'___ un cahier.",
+          "arabic": "أكمل: لدي دفتر.",
+          "darija": "كمّل: عندي كناش.",
+          "options": [
+            "ai",
+            "as",
+            "a"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-24-Q2",
+          "question": "Complète : Tu ___ un livre.",
+          "arabic": "أكمل: لديك كتاب.",
+          "darija": "كمّل: عندك كتاب.",
+          "options": [
+            "ai",
+            "as",
+            "a"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-24-Q3",
+          "question": "Complète : Elle ___ un livre.",
+          "arabic": "أكمل: لديها كتاب.",
+          "darija": "كمّل: عندها كتاب.",
+          "options": [
+            "ai",
+            "as",
+            "a"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-24-Q4",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "J'ai un cahier.",
+            "Je as un cahier.",
+            "Je a un cahier."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -2253,7 +2453,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je parle. Tu écoutes. Elle lit.",
       "vocabulary": [
         "parle",
@@ -2287,6 +2487,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-25-Q1",
+          "question": "Quelle phrase parle de soi ?",
+          "arabic": "أي جملة تتحدث عن المتكلم؟",
+          "darija": "شنو الجملة اللي كتهضر على راسك؟",
+          "options": [
+            "Je parle.",
+            "Tu parles.",
+            "Elle parle."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-25-Q2",
+          "question": "Quelle phrase parle à une personne ?",
+          "arabic": "أي جملة تتحدث مع شخص؟",
+          "darija": "شنو الجملة اللي كتهضر مع شي واحد؟",
+          "options": [
+            "Je parle.",
+            "Tu écoutes.",
+            "Elle lit."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-25-Q3",
+          "question": "Quelle phrase parle d'une fille ?",
+          "arabic": "أي جملة تتحدث عن بنت؟",
+          "darija": "شنو الجملة اللي كتهضر على بنت؟",
+          "options": [
+            "Je parle.",
+            "Tu écoutes.",
+            "Elle lit."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-25-Q4",
+          "question": "Complète : ___ lis un livre.",
+          "arabic": "أكمل: أنا أقرأ كتاباً.",
+          "darija": "كمّل: ___ كنقرا كتاب.",
+          "options": [
+            "Je",
+            "Tu",
+            "Elle"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -11998,5 +12248,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-20 intégrés ; non validés, pas de médias ou traductions intégrés"
+  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-25 intégrés ; non validés, pas de médias ou traductions intégrés"
 }
