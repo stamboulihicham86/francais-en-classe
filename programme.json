@@ -1531,7 +1531,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "janvier, février, mars, avril.",
       "vocabulary": [
         "janvier",
@@ -1566,6 +1566,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-16-Q1",
+          "question": "Quel mois vient après janvier ?",
+          "arabic": "أي شهر يأتي بعد يناير؟",
+          "darija": "شنو الشهر اللي كايجي من بعد يناير؟",
+          "options": [
+            "février",
+            "mars",
+            "avril"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-16-Q2",
+          "question": "Quel mois vient avant avril ?",
+          "arabic": "أي شهر يأتي قبل أبريل؟",
+          "darija": "شنو الشهر اللي كايجي قبل أبريل؟",
+          "options": [
+            "mars",
+            "mai",
+            "juin"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-16-Q3",
+          "question": "Quel mois commence l'année ?",
+          "arabic": "أي شهر تبدأ به السنة؟",
+          "darija": "بأي شهر كتبدا السنة؟",
+          "options": [
+            "janvier",
+            "février",
+            "décembre"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-16-Q4",
+          "question": "Complète : janvier, février, ___, avril.",
+          "arabic": "أكمل: يناير، فبراير، ___، أبريل.",
+          "darija": "كمّل: يناير، فبراير، ___، أبريل.",
+          "options": [
+            "mars",
+            "mai",
+            "juin"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -1584,7 +1634,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "rouge, bleu, vert, jaune.",
       "vocabulary": [
         "rouge",
@@ -1619,6 +1669,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-17-Q1",
+          "question": "Quelle couleur est le ciel par une journée claire ?",
+          "arabic": "ما لون السماء في يوم صاف؟",
+          "darija": "شنو لون السما فالنهار الصافي؟",
+          "options": [
+            "bleu",
+            "vert",
+            "jaune"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-17-Q2",
+          "question": "Quelle couleur est souvent associée à l'herbe ?",
+          "arabic": "ما اللون المرتبط عادة بالعشب؟",
+          "darija": "شنو اللون اللي كيرتبط غالباً بالعشب؟",
+          "options": [
+            "rouge",
+            "vert",
+            "bleu"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-17-Q3",
+          "question": "Quelle couleur est dans « jaune » ?",
+          "arabic": "أي لون هو jaune؟",
+          "darija": "شنو اللون هو jaune؟",
+          "options": [
+            "jaune",
+            "noir",
+            "vert"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-17-Q4",
+          "question": "Complète : Le feu est ___ dans le code de la route.",
+          "arabic": "أكمل: لون الإشارة الحمراء في قانون السير هو ___؟",
+          "darija": "كمّل: فالضو ديال الطريق، اللون هو ___.",
+          "options": [
+            "rouge",
+            "bleu",
+            "vert"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -1637,7 +1737,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "un cahier, un stylo, une table.",
       "vocabulary": [
         "cahier",
@@ -1671,6 +1771,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-18-Q1",
+          "question": "Quel objet sert à écrire ?",
+          "arabic": "ما الأداة التي نستعملها للكتابة؟",
+          "darija": "شنو الحاجة اللي كنستعملوها للكتابة؟",
+          "options": [
+            "un stylo",
+            "une table",
+            "un cahier"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-18-Q2",
+          "question": "Dans quoi peut-on écrire une leçon ?",
+          "arabic": "في ماذا يمكن أن نكتب الدرس؟",
+          "darija": "فين نقدروا نكتبو الدرس؟",
+          "options": [
+            "un cahier",
+            "une porte",
+            "une chaise"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-18-Q3",
+          "question": "Sur quoi peut-on poser un cahier ?",
+          "arabic": "على ماذا يمكن وضع الدفتر؟",
+          "darija": "فوقاش نقدروا نحطو الكناش؟",
+          "options": [
+            "une table",
+            "un stylo",
+            "une gomme"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-18-Q4",
+          "question": "Quel mot désigne l'objet pour écrire avec de l'encre ?",
+          "arabic": "ما الكلمة التي تدل على أداة الكتابة بالحبر؟",
+          "darija": "شنو الكلمة ديال أداة الكتابة بالحبر؟",
+          "options": [
+            "un stylo",
+            "une table",
+            "un cahier"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -1689,7 +1839,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "la mère, le père, la sœur, le frère.",
       "vocabulary": [
         "mère",
@@ -1724,6 +1874,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-19-Q1",
+          "question": "Comment dit-on la personne qui est la mère ?",
+          "arabic": "كيف نقول الشخص الذي هو الأم؟",
+          "darija": "كيفاش كنقولو الأم؟",
+          "options": [
+            "la mère",
+            "le père",
+            "le frère"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-19-Q2",
+          "question": "Quel mot désigne le garçon de la famille ?",
+          "arabic": "ما الكلمة التي تدل على ابن العائلة؟",
+          "darija": "شنو الكلمة ديال ولد العائلة؟",
+          "options": [
+            "la sœur",
+            "le frère",
+            "la mère"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-19-Q3",
+          "question": "Comment dit-on le père ?",
+          "arabic": "كيف نقول الأب؟",
+          "darija": "كيفاش كنقولو الأب؟",
+          "options": [
+            "le père",
+            "la mère",
+            "la sœur"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-19-Q4",
+          "question": "Quel mot désigne une fille de la famille ?",
+          "arabic": "ما الكلمة التي تدل على بنت العائلة؟",
+          "darija": "شنو الكلمة ديال بنت العائلة؟",
+          "options": [
+            "la sœur",
+            "le frère",
+            "le père"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -1742,7 +1942,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "la main, le pied, les yeux.",
       "vocabulary": [
         "main",
@@ -1776,6 +1976,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-20-Q1",
+          "question": "Quelle partie du corps sert à marcher ?",
+          "arabic": "أي جزء من الجسم نستعمله للمشي؟",
+          "darija": "شنو الجزء من الجسم اللي كنستعملو للمشي؟",
+          "options": [
+            "le pied",
+            "la main",
+            "les yeux"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-20-Q2",
+          "question": "Quelle partie du corps sert à voir ?",
+          "arabic": "أي جزء من الجسم نستعمله للرؤية؟",
+          "darija": "شنو الجزء من الجسم اللي كنستعملو باش نشوفو؟",
+          "options": [
+            "les yeux",
+            "le pied",
+            "la main"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-20-Q3",
+          "question": "Avec quelle partie du corps écrit-on ?",
+          "arabic": "بأي جزء من الجسم نكتب؟",
+          "darija": "بشنو من الجسم كنكتبو؟",
+          "options": [
+            "la main",
+            "le pied",
+            "les yeux"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-20-Q4",
+          "question": "Complète : J'ai deux ___.",
+          "arabic": "أكمل: لدي عينان.",
+          "darija": "كمّل: عندي جوج ___.",
+          "options": [
+            "yeux",
+            "main",
+            "pied"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -11748,5 +11998,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-15 intégrés ; non validés, pas de médias ou traductions intégrés"
+  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-20 intégrés ; non validés, pas de médias ou traductions intégrés"
 }
