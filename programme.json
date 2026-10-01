@@ -1018,7 +1018,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "J'ai vingt ans.",
       "vocabulary": [
         "J'ai",
@@ -1051,6 +1051,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-11-Q1",
+          "question": "Quel âge as-tu ?",
+          "arabic": "كم عمرك؟",
+          "darija": "شحال فالعمر ديالك؟",
+          "options": [
+            "J'ai vingt ans.",
+            "Je suis vingt ans.",
+            "Je vingt ans."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-11-Q2",
+          "question": "Comment dit-on 18 ans ?",
+          "arabic": "كيف نقول 18 سنة؟",
+          "darija": "كيفاش كنقولو 18 عام؟",
+          "options": [
+            "J'ai dix-huit ans.",
+            "Je suis dix-huit ans.",
+            "J'ai huit dix ans."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-11-Q3",
+          "question": "Complète : J'___ vingt ans.",
+          "arabic": "أكمل: عمري عشرون سنة.",
+          "darija": "كمّل: عندي عشرين عام.",
+          "options": [
+            "ai",
+            "suis",
+            "est"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-11-Q4",
+          "question": "Quelle phrase donne l'âge ?",
+          "arabic": "أي جملة تعطي العمر؟",
+          "darija": "شنو الجملة اللي كتعطي العمر؟",
+          "options": [
+            "J'habite à Fès.",
+            "J'ai vingt ans.",
+            "Je suis marocain."
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -1069,7 +1119,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je suis marocain. Je suis marocaine.",
       "vocabulary": [
         "suis",
@@ -1104,6 +1154,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-12-Q1",
+          "question": "Quelle phrase indique la nationalité ?",
+          "arabic": "أي جملة تدل على الجنسية؟",
+          "darija": "شنو الجملة اللي كتدل على الجنسية؟",
+          "options": [
+            "Je suis marocain.",
+            "J'ai vingt ans.",
+            "J'habite à Rabat."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-12-Q2",
+          "question": "Comment dit-on la nationalité d'un homme du Maroc ?",
+          "arabic": "كيف نقول جنسية رجل من المغرب؟",
+          "darija": "كيفاش كنقولو الجنسية ديال راجل من المغرب؟",
+          "options": [
+            "marocain",
+            "marocaine",
+            "Maroc"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-12-Q3",
+          "question": "Comment dit-on la nationalité d'une femme du Maroc ?",
+          "arabic": "كيف نقول جنسية امرأة من المغرب؟",
+          "darija": "كيفاش كنقولو الجنسية ديال مرا من المغرب؟",
+          "options": [
+            "marocain",
+            "marocaine",
+            "Maroc"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-12-Q4",
+          "question": "Complète : Je suis ___.",
+          "arabic": "أكمل: أنا مغربي.",
+          "darija": "كمّل: أنا مغربي.",
+          "options": [
+            "marocain",
+            "habite",
+            "ans"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -1122,7 +1222,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "J'habite à Casablanca.",
       "vocabulary": [
         "J'habite",
@@ -1155,6 +1255,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-13-Q1",
+          "question": "Quelle phrase indique le lieu de résidence ?",
+          "arabic": "أي جملة تدل على مكان السكن؟",
+          "darija": "شنو الجملة اللي كتدل على فين ساكن؟",
+          "options": [
+            "J'ai vingt ans.",
+            "Je suis marocain.",
+            "J'habite à Casablanca."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-13-Q2",
+          "question": "Complète : J'habite ___ Casablanca.",
+          "arabic": "أكمل: أسكن في الدار البيضاء.",
+          "darija": "كمّل: ساكن فـ كازا.",
+          "options": [
+            "à",
+            "de",
+            "et"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-13-Q3",
+          "question": "Quelle ville est citée dans l'exemple ?",
+          "arabic": "ما المدينة المذكورة في المثال؟",
+          "darija": "شنو المدينة اللي جاية فالمثال؟",
+          "options": [
+            "Casablanca",
+            "Tanger",
+            "Marrakech"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-13-Q4",
+          "question": "Comment demander le lieu de résidence ?",
+          "arabic": "كيف نسأل عن مكان السكن؟",
+          "darija": "كيفاش نسولو فين ساكن؟",
+          "options": [
+            "Où habites-tu ?",
+            "Quel âge as-tu ?",
+            "Comment t'appelles-tu ?"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -1173,7 +1323,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "zéro, un, deux, trois, quatre, cinq.",
       "vocabulary": [
         "zéro",
@@ -1209,6 +1359,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-14-Q1",
+          "question": "Quel nombre vient après zéro ?",
+          "arabic": "ما العدد الذي يأتي بعد صفر؟",
+          "darija": "شنو العدد اللي كايجي من بعد زيرو؟",
+          "options": [
+            "un",
+            "deux",
+            "trois"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-14-Q2",
+          "question": "Quel nombre vient après deux ?",
+          "arabic": "ما العدد الذي يأتي بعد اثنين؟",
+          "darija": "شنو العدد اللي كايجي من بعد جوج؟",
+          "options": [
+            "un",
+            "trois",
+            "quatre"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-14-Q3",
+          "question": "Comment écrit-on 5 en lettres ?",
+          "arabic": "كيف نكتب العدد 5 بالحروف؟",
+          "darija": "كيفاش كنكتبو 5 بالحروف؟",
+          "options": [
+            "quatre",
+            "cinq",
+            "six"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-14-Q4",
+          "question": "Quel nombre est entre 9 et 11 ?",
+          "arabic": "ما العدد الموجود بين 9 و11؟",
+          "darija": "شنو العدد اللي بين 9 و11؟",
+          "options": [
+            "huit",
+            "dix",
+            "douze"
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -1227,7 +1427,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "lundi, mardi, mercredi, jeudi, vendredi.",
       "vocabulary": [
         "lundi",
@@ -1263,6 +1463,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-15-Q1",
+          "question": "Quelle phrase peut commencer une présentation ?",
+          "arabic": "أي جملة يمكن أن تبدأ بها عرضاً شخصياً؟",
+          "darija": "شنو الجملة اللي نقدروا نبداو بها تقديم النفس؟",
+          "options": [
+            "Bonjour, je m'appelle Amine.",
+            "J'habite à Casablanca.",
+            "J'ai vingt ans."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-15-Q2",
+          "question": "Complète : Bonjour, je ___ appelle Amine.",
+          "arabic": "أكمل: مرحباً، اسمي أمين.",
+          "darija": "كمّل: سلام، سميتي أمين.",
+          "options": [
+            "m'",
+            "me",
+            "ma"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-15-Q3",
+          "question": "Quelle information vient après le prénom dans cette présentation ?",
+          "arabic": "ما المعلومة التي تأتي بعد الاسم الأول في هذا التقديم؟",
+          "darija": "شنو المعلومة اللي كتجي من بعد السمية فهاد التقديم؟",
+          "options": [
+            "L'âge",
+            "La météo",
+            "La couleur"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-15-Q4",
+          "question": "Quelle présentation est correcte ?",
+          "arabic": "أي تقديم صحيح؟",
+          "darija": "شنو التقديم الصحيح؟",
+          "options": [
+            "Bonjour, je m'appelle Amine. J'ai vingt ans. J'habite à Casablanca.",
+            "Bonjour, je suis vingt ans. J'habite Amine.",
+            "Bonjour, j'habite vingt ans. Je m'appelle Casablanca."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -11498,5 +11748,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; non validés, pas de médias ou traductions intégrés"
+  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-15 intégrés ; non validés, pas de médias ou traductions intégrés"
 }
