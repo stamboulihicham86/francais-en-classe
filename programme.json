@@ -6162,49 +6162,49 @@
       "quiz": [
         {
           "id": "A2-01-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que signifie « l'année dernière » ?",
+          "arabic": "ماذا تعني « l'année dernière »؟",
+          "darija": "شنو كتعني « l'année dernière »؟",
           "options": [
-            "Raconter un souvenir",
-            "Comparer des personnes et des objets",
-            "Les pronoms y et en"
+            "L'année passée",
+            "L'année prochaine",
+            "Aujourd'hui"
           ],
           "correct": 0
         },
         {
           "id": "A2-01-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Dans l'exemple, quelle action a commencé ?",
+          "arabic": "ما النشاط الذي بدأ في المثال؟",
+          "darija": "شنو الحاجة اللي بدات فالمثال؟",
           "options": [
-            "L'année dernière, j'ai commencé une formation.",
-            "Je compare les prix avant d'acheter.",
-            "J'y vais demain ; j'en reviens ce soir."
+            "Une formation",
+            "Un voyage",
+            "Un entretien"
           ],
           "correct": 0
         },
         {
           "id": "A2-01-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle phrase raconte un événement passé ?",
+          "arabic": "أي جملة تحكي عن حدث وقع في الماضي؟",
+          "darija": "أشنو الجملة اللي كتحكي على حاجة وقعات فالماضي؟",
           "options": [
-            "L'année",
-            "Ce",
-            "Tu"
+            "L'année dernière, j'ai commencé une formation.",
+            "L'année prochaine, je chercherai un stage.",
+            "Aujourd'hui, je commence une formation."
           ],
           "correct": 0
         },
         {
           "id": "A2-01-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : L'année dernière, j'___ une formation.",
+          "arabic": "أكمل: L'année dernière, j'___ une formation.",
+          "darija": "كمّل: L'année dernière, j'___ une formation.",
           "options": [
-            "L'année dernière, j'ai commencé une formation.",
-            "Les pronoms y et en",
-            "Tu devrais relire ton texte."
+            "ai commencé",
+            "commencerai",
+            "commence"
           ],
           "correct": 0
         }
@@ -6264,49 +6264,49 @@
       "quiz": [
         {
           "id": "A2-02-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel temps décrit une situation habituelle ou un contexte passé ?",
+          "arabic": "ما الزمن الذي يصف حالة أو سياقًا في الماضي؟",
+          "darija": "شنو الزمن اللي كيوصف حالة ولا سياق فالماضي؟",
           "options": [
-            "Imparfait : formation",
-            "Les pronoms y et en",
-            "Exprimer l'obligation"
+            "L'imparfait",
+            "Le futur simple",
+            "Le présent"
           ],
           "correct": 0
         },
         {
           "id": "A2-02-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Complète : Quand j'___ petit, j'habitais à Fès.",
+          "arabic": "أكمل: Quand j'___ petit, j'habitais à Fès.",
+          "darija": "كمّل: Quand j'___ petit, j'habitais à Fès.",
           "options": [
-            "Quand j'étais petit, j'habitais à Fès.",
-            "Madame, je vous écris au sujet de ma candidature.",
-            "Il me faut deux kilos de tomates."
+            "étais",
+            "serai",
+            "suis"
           ],
           "correct": 0
         },
         {
           "id": "A2-02-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Dans « j'habitais », quel temps est utilisé ?",
+          "arabic": "ما الزمن المستعمل في « j'habitais »؟",
+          "darija": "شنو الزمن المستعمل فـ « j'habitais »؟",
           "options": [
-            "Quand",
-            "Je",
-            "Il"
+            "L'imparfait",
+            "Le passé composé",
+            "Le futur"
           ],
           "correct": 0
         },
         {
           "id": "A2-02-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase décrit un contexte passé ?",
+          "arabic": "أي جملة تصف سياقًا في الماضي؟",
+          "darija": "أشنو الجملة اللي كتوصف سياق فالماضي؟",
           "options": [
             "Quand j'étais petit, j'habitais à Fès.",
-            "Comprendre une recette",
-            "Mon ordinateur ne fonctionne plus depuis hier."
+            "Hier, j'ai visité Fès.",
+            "Demain, je visiterai Fès."
           ],
           "correct": 0
         }
@@ -6365,49 +6365,49 @@
       "quiz": [
         {
           "id": "A2-03-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle action était en cours quand l'ami a appelé ?",
+          "arabic": "ما الفعل الذي كان مستمرًا عندما اتصل الصديق؟",
+          "darija": "شنو الفعل اللي كان مستمر ملي عيط الصاحب؟",
           "options": [
-            "Passé composé et imparfait",
-            "Comprendre une recette",
-            "Téléphoner pour un rendez-vous"
+            "Je travaillais",
+            "J'ai appelé",
+            "Je travaillerai"
           ],
           "correct": 0
         },
         {
           "id": "A2-03-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel temps exprime l'action en cours ?",
+          "arabic": "أي زمن يعبّر عن الفعل الجاري؟",
+          "darija": "شنو الزمن اللي كيعبر على الفعل اللي كان جاري؟",
           "options": [
-            "Je travaillais quand mon ami m'a appelé.",
-            "L'entreprise recherche un aide-cuisinier débutant.",
-            "Je compare les prix avant d'acheter."
+            "L'imparfait",
+            "Le passé composé",
+            "Le futur"
           ],
           "correct": 0
         },
         {
           "id": "A2-03-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quel temps exprime l'événement ponctuel « m'a appelé » ?",
+          "arabic": "أي زمن يعبّر عن الحدث « m'a appelé »؟",
+          "darija": "شنو الزمن ديال الحدث « m'a appelé »؟",
           "options": [
-            "travaillais",
-            "Je",
-            "Il"
+            "Le passé composé",
+            "L'imparfait",
+            "Le présent"
           ],
           "correct": 0
         },
         {
           "id": "A2-03-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Je ___ quand mon ami m'a appelé.",
+          "arabic": "أكمل: Je ___ quand mon ami m'a appelé.",
+          "darija": "كمّل: Je ___ quand mon ami m'a appelé.",
           "options": [
-            "Je travaillais quand mon ami m'a appelé.",
-            "Exprimer l'interdiction",
-            "Pourquoi souhaitez-vous rejoindre notre entreprise ?"
+            "travaillais",
+            "travaillerai",
+            "travaille"
           ],
           "correct": 0
         }
@@ -6467,49 +6467,49 @@
       "quiz": [
         {
           "id": "A2-04-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quels adjectifs décrivent la personne dans l'exemple ?",
+          "arabic": "ما الصفات التي تصف الشخص في المثال؟",
+          "darija": "شنو الصفات اللي كتوصف الشخص فالمثال؟",
           "options": [
-            "Décrire une personne",
-            "Exprimer l'interdiction",
-            "Rédiger un CV simple"
+            "Grande, souriante et attentive",
+            "Petite, triste et absente",
+            "Rapide, chère et nouvelle"
           ],
           "correct": 0
         },
         {
           "id": "A2-04-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel mot est un adjectif ?",
+          "arabic": "أي كلمة صفة؟",
+          "darija": "شنو هي الصفة؟",
           "options": [
-            "Elle est grande, souriante et attentive.",
-            "L'année dernière, j'ai commencé une formation.",
-            "Coupez les légumes puis ajoutez l'huile."
+            "souriante",
+            "personne",
+            "elle"
           ],
           "correct": 0
         },
         {
           "id": "A2-04-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle phrase décrit une personne ?",
+          "arabic": "أي جملة تصف شخصًا؟",
+          "darija": "أشنو الجملة اللي كتوصف شخص؟",
           "options": [
-            "Elle",
-            "J'y",
-            "Je"
+            "Elle est grande et attentive.",
+            "Elle habite demain.",
+            "Elle téléphone au bureau."
           ],
           "correct": 0
         },
         {
           "id": "A2-04-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Elle est grande et ___.",
+          "arabic": "أكمل: Elle est grande et ___.",
+          "darija": "كمّل: Elle est grande et ___.",
           "options": [
-            "Elle est grande, souriante et attentive.",
-            "Écrire un courriel formel simple",
-            "Je travaillais quand mon ami m'a appelé."
+            "souriante",
+            "sourire",
+            "souri"
           ],
           "correct": 0
         }
@@ -6569,49 +6569,49 @@
       "quiz": [
         {
           "id": "A2-05-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que compare-t-on dans l'exemple ?",
+          "arabic": "ما الذي تتم مقارنته في المثال؟",
+          "darija": "شنو اللي كنقارنو فالمثال؟",
           "options": [
-            "Comparer des personnes et des objets",
-            "Écrire un courriel formel simple",
-            "Justifier un choix"
+            "Deux trajets",
+            "Deux personnes",
+            "Deux formations"
           ],
           "correct": 0
         },
         {
           "id": "A2-05-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel mot exprime la comparaison ?",
+          "arabic": "ما الكلمة التي تعبّر عن المقارنة؟",
+          "darija": "شنو الكلمة اللي كتعبر على المقارنة؟",
           "options": [
-            "Ce trajet est plus court que l'autre.",
-            "Il me faut deux kilos de tomates.",
-            "Tu devrais relire ton texte."
+            "plus",
+            "hier",
+            "demain"
           ],
           "correct": 0
         },
         {
           "id": "A2-05-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Ce trajet est ___ court que l'autre.",
+          "arabic": "أكمل: Ce trajet est ___ court que l'autre.",
+          "darija": "كمّل: Ce trajet est ___ court que l'autre.",
           "options": [
-            "trajet",
-            "Il",
-            "L'année"
+            "plus",
+            "très",
+            "déjà"
           ],
           "correct": 0
         },
         {
           "id": "A2-05-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase exprime une comparaison ?",
+          "arabic": "أي جملة تعبّر عن مقارنة؟",
+          "darija": "أشنو الجملة اللي فيها مقارنة؟",
           "options": [
             "Ce trajet est plus court que l'autre.",
-            "Raconter une expérience de stage",
-            "Coupez les légumes puis ajoutez l'huile."
+            "Ce trajet est court.",
+            "Je prends ce trajet demain."
           ],
           "correct": 0
         }
@@ -6670,49 +6670,49 @@
       "quiz": [
         {
           "id": "A2-06-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Dans « Je le connais », que remplace « le » ?",
+          "arabic": "في « Je le connais »، ماذا يعوّض « le »؟",
+          "darija": "فـ « Je le connais »، آش كيعوض « le »؟",
           "options": [
-            "Les pronoms COD",
-            "Raconter une expérience de stage",
-            "Passé composé et imparfait"
+            "Une personne ou une chose masculine",
+            "Une personne ou une chose féminine",
+            "Une personne au pluriel"
           ],
           "correct": 0
         },
         {
           "id": "A2-06-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel pronom remplace un nom féminin singulier ?",
+          "arabic": "أي ضمير يعوّض اسمًا مفردًا مؤنثًا؟",
+          "darija": "شنو الضمير اللي كيعوض اسم مؤنث مفرد؟",
           "options": [
-            "Je le connais et je la rencontre demain.",
-            "L'année prochaine, je chercherai un stage.",
-            "Il faut arriver à l'heure."
+            "la",
+            "le",
+            "les"
           ],
           "correct": 0
         },
         {
           "id": "A2-06-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je ___ connais. (Amine)",
+          "arabic": "أكمل: Je ___ connais. (Amine)",
+          "darija": "كمّل: Je ___ connais. (أمين)",
           "options": [
-            "connais",
-            "Je",
-            "Madame"
+            "le",
+            "la",
+            "les"
           ],
           "correct": 0
         },
         {
           "id": "A2-06-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Je ___ rencontre demain. (Salma)",
+          "arabic": "أكمل: Je ___ rencontre demain. (Salma)",
+          "darija": "كمّل: Je ___ rencontre demain. (سلمى)",
           "options": [
-            "Je le connais et je la rencontre demain.",
-            "Rédiger un CV simple",
-            "Bonjour, je vous appelle pour confirmer mon rendez-vous."
+            "la",
+            "le",
+            "les"
           ],
           "correct": 0
         }
@@ -6771,49 +6771,49 @@
       "quiz": [
         {
           "id": "A2-07-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Dans « Je lui téléphone », que remplace « lui » ?",
+          "arabic": "في « Je lui téléphone »، ماذا يعوّض « lui »؟",
+          "darija": "فـ « Je lui téléphone »، آش كيعوض « lui »؟",
           "options": [
-            "Les pronoms COI",
-            "Rédiger un CV simple",
-            "Exprimer la quantité"
+            "À une personne",
+            "Un objet direct",
+            "Un lieu"
           ],
           "correct": 0
         },
         {
           "id": "A2-07-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel pronom correspond à plusieurs personnes ?",
+          "arabic": "أي ضمير يناسب عدة أشخاص؟",
+          "darija": "شنو الضمير اللي كيناسب كثر من شخص؟",
           "options": [
-            "Je lui téléphone et je leur écris.",
-            "Mon CV présente ma formation et mon expérience.",
-            "Il est interdit de fumer dans cette salle."
+            "leur",
+            "lui",
+            "la"
           ],
           "correct": 0
         },
         {
           "id": "A2-07-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je ___ téléphone à Salma.",
+          "arabic": "أكمل: Je ___ téléphone à Salma.",
+          "darija": "كمّل: Je ___ téléphone à سلمى.",
           "options": [
             "lui",
-            "Coupez",
-            "Bonjour"
+            "leur",
+            "la"
           ],
           "correct": 0
         },
         {
           "id": "A2-07-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Je ___ écris à mes amis.",
+          "arabic": "أكمل: Je ___ écris à mes amis.",
+          "darija": "كمّل: Je ___ écris لأصدقائي.",
           "options": [
-            "Je lui téléphone et je leur écris.",
-            "Préparer un entretien simple",
-            "Je vous adresse ma candidature pour ce poste."
+            "leur",
+            "lui",
+            "les"
           ],
           "correct": 0
         }
@@ -6874,49 +6874,49 @@
       "quiz": [
         {
           "id": "A2-08-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Dans « J'y vais », que représente « y » ?",
+          "arabic": "في « J'y vais »، ماذا يمثّل « y »؟",
+          "darija": "فـ « J'y vais »، شنو كيمثل « y »؟",
           "options": [
-            "Les pronoms y et en",
-            "Préparer un entretien simple",
-            "Exprimer l'interdiction"
+            "Un lieu",
+            "Une personne",
+            "Une quantité"
           ],
           "correct": 0
         },
         {
           "id": "A2-08-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Dans « J'en reviens », que représente « en » ?",
+          "arabic": "في « J'en reviens »، ماذا يمثّل « en »؟",
+          "darija": "فـ « J'en reviens »، شنو كيمثل « en »؟",
           "options": [
-            "J'y vais demain ; j'en reviens ce soir.",
-            "Je peux expliquer mon parcours et mes projets.",
-            "Je terminerai ma formation en juin."
+            "Un lieu ou un élément introduit par de",
+            "Une personne",
+            "Une question"
           ],
           "correct": 0
         },
         {
           "id": "A2-08-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je vais au centre. J'___ vais demain.",
+          "arabic": "أكمل: Je vais au centre. J'___ vais demain.",
+          "darija": "كمّل: Je vais au centre. J'___ vais demain.",
           "options": [
-            "J'y",
-            "Tu",
-            "Mon"
+            "y",
+            "en",
+            "le"
           ],
           "correct": 0
         },
         {
           "id": "A2-08-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Je reviens de Fès. J'___ reviens ce soir.",
+          "arabic": "أكمل: Je reviens de Fès. J'___ reviens ce soir.",
+          "darija": "كمّل: Je reviens de Fès. J'___ reviens ce soir.",
           "options": [
-            "J'y vais demain ; j'en reviens ce soir.",
-            "Raconter un événement",
-            "Quand j'étais petit, j'habitais à Fès."
+            "en",
+            "y",
+            "la"
           ],
           "correct": 0
         }
@@ -6976,49 +6976,49 @@
       "quiz": [
         {
           "id": "A2-09-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Combien de kilos de tomates faut-il dans l'exemple ?",
+          "arabic": "كم كيلوغرامًا من الطماطم نحتاج؟",
+          "darija": "شحال من كيلو ديال الطماطم خاصنا؟",
           "options": [
-            "Exprimer la quantité",
-            "Raconter un événement",
-            "Expliquer un problème"
+            "Deux",
+            "Trois",
+            "Cinq"
           ],
           "correct": 0
         },
         {
           "id": "A2-09-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle expression indique une quantité ?",
+          "arabic": "أي تعبير يدل على كمية؟",
+          "darija": "شنو التعبير اللي كيدل على الكمية؟",
           "options": [
-            "Il me faut deux kilos de tomates.",
-            "Je lui téléphone et je leur écris.",
-            "L'année prochaine, je chercherai un stage."
+            "deux kilos de",
+            "demain",
+            "chez"
           ],
           "correct": 0
         },
         {
           "id": "A2-09-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Il me faut trois ___ de pommes.",
+          "arabic": "أكمل: Il me faut trois ___ de pommes.",
+          "darija": "كمّل: Il me faut trois ___ de pommes.",
           "options": [
-            "faut",
-            "Il",
-            "Pendant"
+            "kilos",
+            "heure",
+            "personnes"
           ],
           "correct": 0
         },
         {
           "id": "A2-09-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase exprime une quantité ?",
+          "arabic": "أي جملة تعبّر عن كمية؟",
+          "darija": "أشنو الجملة اللي فيها كمية؟",
           "options": [
             "Il me faut deux kilos de tomates.",
-            "Imparfait : formation",
-            "Je compare les prix avant d'acheter."
+            "Je vais au marché demain.",
+            "Les tomates sont rouges."
           ],
           "correct": 0
         }
@@ -7078,49 +7078,49 @@
       "quiz": [
         {
           "id": "A2-10-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que fait la personne avant d'acheter ?",
+          "arabic": "ماذا يفعل الشخص قبل الشراء؟",
+          "darija": "شنو كيدير الشخص قبل ما يشري؟",
           "options": [
-            "Faire des courses",
-            "Imparfait : formation",
-            "Lire une offre d'emploi"
+            "Elle compare les prix.",
+            "Elle prépare une recette.",
+            "Elle téléphone."
           ],
           "correct": 0
         },
         {
           "id": "A2-10-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel verbe signifie « mettre en comparaison » ?",
+          "arabic": "ما الفعل الذي يعني « mettre en comparaison »؟",
+          "darija": "شنو الفعل اللي كيعني نقارنو؟",
           "options": [
-            "Je compare les prix avant d'acheter.",
-            "Je terminerai ma formation en juin.",
-            "Madame, je vous écris au sujet de ma candidature."
+            "comparer",
+            "acheter",
+            "préparer"
           ],
           "correct": 0
         },
         {
           "id": "A2-10-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle phrase correspond à une stratégie d'achat ?",
+          "arabic": "أي جملة تناسب طريقة للشراء؟",
+          "darija": "أشنو الجملة اللي كتناسب طريقة فالشراء؟",
           "options": [
-            "compare",
-            "Il",
-            "Je"
+            "Je compare les prix avant d'acheter.",
+            "Je dors avant d'acheter.",
+            "Je travaille avant d'acheter."
           ],
           "correct": 0
         },
         {
           "id": "A2-10-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Je compare les prix avant d'___.",
+          "arabic": "أكمل: Je compare les prix avant d'___.",
+          "darija": "كمّل: Je compare les prix avant d'___.",
           "options": [
-            "Je compare les prix avant d'acheter.",
-            "Comparer des personnes et des objets",
-            "Madame, je vous écris au sujet de ma candidature."
+            "acheter",
+            "achète",
+            "acheté"
           ],
           "correct": 0
         }
@@ -7181,49 +7181,49 @@
       "quiz": [
         {
           "id": "A2-11-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle action vient en premier dans la recette ?",
+          "arabic": "ما الفعل الذي يأتي أولًا في الوصفة؟",
+          "darija": "شنو أول حاجة كنديرو فالوصفة؟",
           "options": [
-            "Comprendre une recette",
-            "Comparer des personnes et des objets",
-            "Raconter un événement"
+            "Coupez les légumes",
+            "Ajoutez l'huile",
+            "Servez le plat"
           ],
           "correct": 0
         },
         {
           "id": "A2-11-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel mot relie les deux actions ?",
+          "arabic": "ما الكلمة التي تربط الفعلين؟",
+          "darija": "شنو الكلمة اللي كتوصل بين الجوج ديال الأفعال؟",
           "options": [
-            "Coupez les légumes puis ajoutez l'huile.",
-            "Je sais lire un plan et respecter les consignes.",
-            "Bonjour, je vous appelle pour confirmer mon rendez-vous."
+            "puis",
+            "mais",
+            "parce que"
           ],
           "correct": 0
         },
         {
           "id": "A2-11-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle forme est utilisée pour une consigne de recette ?",
+          "arabic": "ما الصيغة المستعملة في تعليمات الوصفة؟",
+          "darija": "شنو الصيغة اللي كنستعملو فتعليمات الوصفة؟",
           "options": [
             "Coupez",
-            "Je",
-            "Je"
+            "Couper",
+            "Coupez-vous"
           ],
           "correct": 0
         },
         {
           "id": "A2-11-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Coupez les légumes puis ___ l'huile.",
+          "arabic": "أكمل: Coupez les légumes puis ___ l'huile.",
+          "darija": "كمّل: Coupez les légumes puis ___ l'huile.",
           "options": [
-            "Coupez les légumes puis ajoutez l'huile.",
-            "Les pronoms y et en",
-            "L'entreprise recherche un aide-cuisinier débutant."
+            "ajoutez",
+            "ajouter",
+            "ajouté"
           ],
           "correct": 0
         }
@@ -7282,49 +7282,49 @@
       "quiz": [
         {
           "id": "A2-12-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel conseil donne la phrase ?",
+          "arabic": "ما النصيحة التي تعطيها الجملة؟",
+          "darija": "شنو النصيحة اللي كتعطيها الجملة؟",
           "options": [
-            "Donner des conseils",
-            "Les pronoms y et en",
-            "Décrire une personne"
+            "Relire le texte",
+            "Écrire un CV",
+            "Appeler une entreprise"
           ],
           "correct": 0
         },
         {
           "id": "A2-12-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle expression sert à donner un conseil ?",
+          "arabic": "أي تعبير يُستعمل لإعطاء نصيحة؟",
+          "darija": "شنو التعبير اللي كنستعملو للنصيحة؟",
           "options": [
-            "Tu devrais relire ton texte.",
-            "Hier, nous avons visité un atelier à Casablanca.",
-            "Mon ordinateur ne fonctionne plus depuis hier."
+            "Tu devrais",
+            "Tu as",
+            "Tu seras"
           ],
           "correct": 0
         },
         {
           "id": "A2-12-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Tu ___ relire ton texte.",
+          "arabic": "أكمل: Tu ___ relire ton texte.",
+          "darija": "كمّل: Tu ___ relire ton texte.",
           "options": [
             "devrais",
-            "L'année",
-            "Mon"
+            "dois-tu",
+            "devras-tu"
           ],
           "correct": 0
         },
         {
           "id": "A2-12-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase donne un conseil ?",
+          "arabic": "أي جملة تعطي نصيحة؟",
+          "darija": "أشنو الجملة اللي فيها نصيحة؟",
           "options": [
             "Tu devrais relire ton texte.",
-            "Comprendre une recette",
-            "L'année dernière, j'ai commencé une formation."
+            "Tu relis ton texte hier.",
+            "Tu reliras ton texte hier."
           ],
           "correct": 0
         }
@@ -7383,49 +7383,49 @@
       "quiz": [
         {
           "id": "A2-13-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle expression indique une obligation ?",
+          "arabic": "أي تعبير يدل على الإلزام؟",
+          "darija": "شنو التعبير اللي كيدل على الإلزام؟",
           "options": [
-            "Exprimer l'obligation",
-            "Comprendre une recette",
-            "Exprimer la quantité"
+            "Il faut",
+            "Il peut",
+            "Il aime"
           ],
           "correct": 0
         },
         {
           "id": "A2-13-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Que faut-il faire dans l'exemple ?",
+          "arabic": "ماذا يجب أن نفعل في المثال؟",
+          "darija": "شنو خاصنا نديرو فالمثال؟",
           "options": [
-            "Il faut arriver à l'heure.",
-            "Je le connais et je la rencontre demain.",
-            "Pendant mon stage, j'ai appris à travailler en équipe."
+            "Arriver à l'heure",
+            "Téléphoner demain",
+            "Partir en juin"
           ],
           "correct": 0
         },
         {
           "id": "A2-13-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Il ___ arriver à l'heure.",
+          "arabic": "أكمل: Il ___ arriver à l'heure.",
+          "darija": "كمّل: Il ___ arriver à l'heure.",
           "options": [
             "faut",
-            "Madame",
-            "L'entreprise"
+            "fait",
+            "va"
           ],
           "correct": 0
         },
         {
           "id": "A2-13-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase exprime une obligation ?",
+          "arabic": "أي جملة تعبّر عن الإلزام؟",
+          "darija": "أشنو الجملة اللي فيها الإلزام؟",
           "options": [
-            "Il faut arriver à l'heure.",
-            "Le futur simple",
-            "J'y vais demain ; j'en reviens ce soir."
+            "Il faut respecter les consignes.",
+            "Je voudrais respecter les consignes.",
+            "Je respecte parfois les consignes."
           ],
           "correct": 0
         }
@@ -7486,49 +7486,49 @@
       "quiz": [
         {
           "id": "A2-14-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle expression indique une interdiction ?",
+          "arabic": "أي تعبير يدل على المنع؟",
+          "darija": "شنو التعبير اللي كيدل على المنع؟",
           "options": [
-            "Exprimer l'interdiction",
-            "Le futur simple",
-            "Le futur simple"
+            "Il est interdit de",
+            "Il est possible de",
+            "Il est important de"
           ],
           "correct": 0
         },
         {
           "id": "A2-14-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Que ne peut-on pas faire dans la salle ?",
+          "arabic": "ما الذي لا يمكن فعله في القاعة؟",
+          "darija": "شنو ممنوع نديرو فالقاعة؟",
           "options": [
-            "Il est interdit de fumer dans cette salle.",
-            "Il faut arriver à l'heure.",
-            "Je suis une formation en électricité du bâtiment."
+            "Fumer",
+            "Travailler",
+            "Lire"
           ],
           "correct": 0
         },
         {
           "id": "A2-14-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Il est interdit ___ fumer.",
+          "arabic": "أكمل: Il est interdit ___ fumer.",
+          "darija": "كمّل: Il est interdit ___ fumer.",
           "options": [
-            "est",
-            "Bonjour",
-            "Je"
+            "de",
+            "à",
+            "pour"
           ],
           "correct": 0
         },
         {
           "id": "A2-14-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase exprime une interdiction ?",
+          "arabic": "أي جملة تعبّر عن المنع؟",
+          "darija": "أشنو الجملة اللي فيها المنع؟",
           "options": [
-            "Il est interdit de fumer dans cette salle.",
-            "Téléphoner pour un rendez-vous",
-            "L'année prochaine, je chercherai un stage."
+            "Il est interdit de fumer.",
+            "Il faut fumer dehors.",
+            "Je vais fumer demain."
           ],
           "correct": 0
         }
@@ -7587,49 +7587,49 @@
       "quiz": [
         {
           "id": "A2-15-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel temps exprime une action future ?",
+          "arabic": "أي زمن يعبّر عن فعل مستقبلي؟",
+          "darija": "شنو الزمن اللي كيعبر على المستقبل؟",
           "options": [
             "Le futur simple",
-            "Téléphoner pour un rendez-vous",
-            "Raconter une expérience de stage"
+            "L'imparfait",
+            "Le passé composé"
           ],
           "correct": 0
         },
         {
           "id": "A2-15-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quand la formation se terminera-t-elle ?",
+          "arabic": "متى ستنتهي الدورة؟",
+          "darija": "فاش غادي تسالي التكوين؟",
           "options": [
-            "Je terminerai ma formation en juin.",
-            "Je suis une formation en électricité du bâtiment.",
-            "Je sais lire un plan et respecter les consignes."
+            "En juin",
+            "Hier",
+            "L'année dernière"
           ],
           "correct": 0
         },
         {
           "id": "A2-15-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je ___ ma formation en juin.",
+          "arabic": "أكمل: Je ___ ma formation en juin.",
+          "darija": "كمّل: Je ___ ma formation en juin.",
           "options": [
             "terminerai",
-            "Mon",
-            "Pourquoi"
+            "terminais",
+            "termine"
           ],
           "correct": 0
         },
         {
           "id": "A2-15-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase est au futur simple ?",
+          "arabic": "أي جملة في المستقبل البسيط؟",
+          "darija": "أشنو الجملة اللي فالمستقبل البسيط؟",
           "options": [
-            "Je terminerai ma formation en juin.",
-            "Décrire une formation",
-            "Mon CV présente ma formation et mon expérience."
+            "Je terminerai ma formation.",
+            "J'ai terminé ma formation.",
+            "Je terminais ma formation."
           ],
           "correct": 0
         }
@@ -7689,49 +7689,49 @@
       "quiz": [
         {
           "id": "A2-16-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel projet est mentionné ?",
+          "arabic": "ما المشروع المذكور؟",
+          "darija": "شنو المشروع اللي مذكور؟",
           "options": [
-            "Parler de projets",
-            "Décrire une formation",
-            "Répondre à une offre"
+            "Chercher un stage",
+            "Acheter un appartement",
+            "Prendre un rendez-vous"
           ],
           "correct": 0
         },
         {
           "id": "A2-16-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel marqueur indique le futur ?",
+          "arabic": "ما المؤشر الذي يدل على المستقبل؟",
+          "darija": "شنو الكلمة اللي كتعطي معنى المستقبل؟",
           "options": [
-            "L'année prochaine, je chercherai un stage.",
-            "J'ai choisi cette formation parce qu'elle est pratique.",
-            "Mon CV présente ma formation et mon expérience."
+            "L'année prochaine",
+            "Hier",
+            "Depuis hier"
           ],
           "correct": 0
         },
         {
           "id": "A2-16-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : L'année prochaine, je ___ un stage.",
+          "arabic": "أكمل: L'année prochaine, je ___ un stage.",
+          "darija": "كمّل: L'année prochaine, je ___ un stage.",
           "options": [
-            "L'année",
-            "Pendant",
-            "Je"
+            "chercherai",
+            "cherchais",
+            "cherche"
           ],
           "correct": 0
         },
         {
           "id": "A2-16-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase présente un projet ?",
+          "arabic": "أي جملة تعرض مشروعًا؟",
+          "darija": "أشنو الجملة اللي كتهضر على مشروع؟",
           "options": [
             "L'année prochaine, je chercherai un stage.",
-            "Lire une offre d'emploi",
-            "Je peux expliquer mon parcours et mes projets."
+            "L'année dernière, j'ai fait un stage.",
+            "Je fais un stage maintenant."
           ],
           "correct": 0
         }
@@ -7792,49 +7792,49 @@
       "quiz": [
         {
           "id": "A2-17-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "À qui s'adresse « Madame » dans l'exemple ?",
+          "arabic": "إلى من تتوجه كلمة « Madame »؟",
+          "darija": "لمن كنهضرو بكلمة « Madame » فالمثال؟",
           "options": [
-            "Écrire un courriel formel simple",
-            "Lire une offre d'emploi",
-            "Bilan A2"
+            "À une destinataire dans un courriel formel",
+            "À un ami",
+            "À un enfant"
           ],
           "correct": 0
         },
         {
           "id": "A2-17-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Pourquoi écrit-on ?",
+          "arabic": "لماذا نكتب؟",
+          "darija": "علاش كنكتبو؟",
           "options": [
-            "Madame, je vous écris au sujet de ma candidature.",
-            "Ce trajet est plus court que l'autre.",
-            "L'entreprise recherche un aide-cuisinier débutant."
+            "Au sujet d'une candidature",
+            "Pour raconter un souvenir",
+            "Pour commander un repas"
           ],
           "correct": 0
         },
         {
           "id": "A2-17-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formule appartient à un courriel formel ?",
+          "arabic": "أي عبارة تنتمي إلى بريد إلكتروني رسمي؟",
+          "darija": "أشنو العبارة اللي كتناسب إيميل رسمي؟",
           "options": [
-            "Madame",
-            "Je",
-            "J'ai"
+            "Madame, je vous écris au sujet de ma candidature.",
+            "Salut, ça va ?",
+            "À demain au café !"
           ],
           "correct": 0
         },
         {
           "id": "A2-17-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Je vous écris au sujet de ma ___.",
+          "arabic": "أكمل: Je vous écris au sujet de ma ___.",
+          "darija": "كمّل: Je vous écris au sujet de ma ___.",
           "options": [
-            "Madame, je vous écris au sujet de ma candidature.",
-            "Parler de ses qualités",
-            "Je lui téléphone et je leur écris."
+            "candidature",
+            "famille",
+            "recette"
           ],
           "correct": 0
         }
@@ -7896,49 +7896,49 @@
       "quiz": [
         {
           "id": "A2-18-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Pourquoi la personne téléphone-t-elle ?",
+          "arabic": "لماذا تتصل الشخص؟",
+          "darija": "علاش كيتاصل الشخص؟",
           "options": [
-            "Téléphoner pour un rendez-vous",
-            "Parler de ses qualités",
-            "Comparer des personnes et des objets"
+            "Pour confirmer un rendez-vous",
+            "Pour acheter des tomates",
+            "Pour raconter son enfance"
           ],
           "correct": 0
         },
         {
           "id": "A2-18-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle formule ouvre l'appel ?",
+          "arabic": "ما العبارة التي تفتتح المكالمة؟",
+          "darija": "شنو العبارة اللي كتبدا بها المكالمة؟",
           "options": [
-            "Bonjour, je vous appelle pour confirmer mon rendez-vous.",
-            "Tu devrais relire ton texte.",
-            "Je vous adresse ma candidature pour ce poste."
+            "Bonjour, je vous appelle...",
+            "À mon avis...",
+            "Il était une fois..."
           ],
           "correct": 0
         },
         {
           "id": "A2-18-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je vous appelle pour ___ mon rendez-vous.",
+          "arabic": "أكمل: Je vous appelle pour ___ mon rendez-vous.",
+          "darija": "كمّل: Je vous appelle pour ___ mon rendez-vous.",
           "options": [
-            "Bonjour",
-            "Je",
-            "Hier"
+            "confirmer",
+            "confirme",
+            "confirmé"
           ],
           "correct": 0
         },
         {
           "id": "A2-18-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle situation correspond à cet échange ?",
+          "arabic": "أي وضعية تناسب هذا الحوار؟",
+          "darija": "شنو الوضعية اللي كتناسب هاد المكالمة؟",
           "options": [
-            "Bonjour, je vous appelle pour confirmer mon rendez-vous.",
-            "Bilan A2",
-            "Il est interdit de fumer dans cette salle."
+            "Téléphoner pour un rendez-vous",
+            "Faire des courses",
+            "Décrire un logement"
           ],
           "correct": 0
         }
@@ -7999,49 +7999,49 @@
       "quiz": [
         {
           "id": "A2-19-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel problème est mentionné ?",
+          "arabic": "ما المشكلة المذكورة؟",
+          "darija": "شنو المشكل المذكور؟",
           "options": [
-            "Expliquer un problème",
-            "Bilan A2",
-            "Faire des courses"
+            "L'ordinateur ne fonctionne plus",
+            "Le téléphone est neuf",
+            "La formation commence demain"
           ],
           "correct": 0
         },
         {
           "id": "A2-19-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Depuis quand le problème existe-t-il ?",
+          "arabic": "منذ متى توجد المشكلة؟",
+          "darija": "من إمتى والمشكل كاين؟",
           "options": [
-            "Mon ordinateur ne fonctionne plus depuis hier.",
-            "Pendant mon stage, j'ai appris à travailler en équipe.",
-            "Pourquoi souhaitez-vous rejoindre notre entreprise ?"
+            "Depuis hier",
+            "Depuis un an",
+            "Depuis demain"
           ],
           "correct": 0
         },
         {
           "id": "A2-19-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Mon ordinateur ne ___ plus.",
+          "arabic": "أكمل: Mon ordinateur ne ___ plus.",
+          "darija": "كمّل: Mon ordinateur ne ___ plus.",
           "options": [
-            "Mon",
-            "Mon",
-            "Je"
+            "fonctionne",
+            "fonctionner",
+            "fonctionné"
           ],
           "correct": 0
         },
         {
           "id": "A2-19-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase explique un problème actuel avec une origine passée ?",
+          "arabic": "أي جملة تشرح مشكلة حالية بدأت في الماضي؟",
+          "darija": "أشنو الجملة اللي كتوصف مشكل دابا وبدا من قبل؟",
           "options": [
             "Mon ordinateur ne fonctionne plus depuis hier.",
-            "Passé composé et imparfait",
-            "Je sais lire un plan et respecter les consignes."
+            "Mon ordinateur fonctionnera demain.",
+            "Mon ordinateur fonctionnait chaque lundi."
           ],
           "correct": 0
         }
@@ -8103,49 +8103,49 @@
       "quiz": [
         {
           "id": "A2-20-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Qu'a appris la personne pendant son stage ?",
+          "arabic": "ماذا تعلم الشخص خلال تدريبه؟",
+          "darija": "شنو تعلم الشخص فالتدريب ديالو؟",
           "options": [
-            "Raconter une expérience de stage",
-            "Passé composé et imparfait",
-            "Le futur simple"
+            "À travailler en équipe",
+            "À cuisiner seul",
+            "À vendre un appartement"
           ],
           "correct": 0
         },
         {
           "id": "A2-20-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle expression situe l'expérience ?",
+          "arabic": "أي تعبير يحدد زمن التجربة؟",
+          "darija": "شنو التعبير اللي كيعطي وقت التجربة؟",
           "options": [
-            "Pendant mon stage, j'ai appris à travailler en équipe.",
-            "Je suis ponctuel et j'apprends rapidement.",
-            "Je suis ponctuel et j'apprends rapidement."
+            "Pendant mon stage",
+            "L'année prochaine",
+            "Demain matin"
           ],
           "correct": 0
         },
         {
           "id": "A2-20-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Pendant mon stage, j'___ à travailler en équipe.",
+          "arabic": "أكمل: Pendant mon stage, j'___ à travailler en équipe.",
+          "darija": "كمّل: Pendant mon stage, j'___ à travailler en équipe.",
           "options": [
-            "Pendant",
-            "L'entreprise",
-            "L'année"
+            "ai appris",
+            "apprendrai",
+            "apprenais"
           ],
           "correct": 0
         },
         {
           "id": "A2-20-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle compétence est liée à cette expérience ?",
+          "arabic": "أي مهارة مرتبطة بهذه التجربة؟",
+          "darija": "شنو المهارة المرتبطة بهاد التجربة؟",
           "options": [
-            "Pendant mon stage, j'ai appris à travailler en équipe.",
-            "Les pronoms COD",
-            "Hier, nous avons visité un atelier à Casablanca."
+            "Le travail en équipe",
+            "La comparaison des prix",
+            "La prise de rendez-vous"
           ],
           "correct": 0
         }
@@ -8205,49 +8205,49 @@
       "quiz": [
         {
           "id": "A2-21-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Dans quel domaine la personne suit-elle une formation ?",
+          "arabic": "في أي مجال يتابع الشخص تكوينًا؟",
+          "darija": "فاش المجال كيدير الشخص التكوين؟",
           "options": [
-            "Décrire une formation",
-            "Les pronoms COD",
-            "Raconter une expérience de stage"
+            "Électricité du bâtiment",
+            "Cuisine",
+            "Informatique"
           ],
           "correct": 0
         },
         {
           "id": "A2-21-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle expression présente une formation ?",
+          "arabic": "أي تعبير يقدّم تكوينًا؟",
+          "darija": "شنو التعبير اللي كيقدم التكوين؟",
           "options": [
-            "Je suis une formation en électricité du bâtiment.",
-            "Elle est grande, souriante et attentive.",
-            "J'ai choisi cette formation parce qu'elle est pratique."
+            "Je suis une formation en...",
+            "Je suis allé...",
+            "Je voudrais acheter..."
           ],
           "correct": 0
         },
         {
           "id": "A2-21-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je suis une formation en ___ du bâtiment.",
+          "arabic": "أكمل: Je suis une formation en ___ du bâtiment.",
+          "darija": "كمّل: Je suis une formation en ___ du bâtiment.",
           "options": [
-            "suis",
-            "Je",
-            "Quand"
+            "électricité",
+            "famille",
+            "lecture"
           ],
           "correct": 0
         },
         {
           "id": "A2-21-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle information répond à « Quelle formation suivez-vous ? » ?",
+          "arabic": "أي جواب يناسب سؤال « Quelle formation suivez-vous ? »؟",
+          "darija": "شنو جواب مناسب لسؤال « شنو التكوين اللي كتدير؟ »؟",
           "options": [
             "Je suis une formation en électricité du bâtiment.",
-            "Exprimer la quantité",
-            "Je le connais et je la rencontre demain."
+            "Je travaille hier.",
+            "J'habite près de la banque."
           ],
           "correct": 0
         }
@@ -8308,49 +8308,49 @@
       "quiz": [
         {
           "id": "A2-22-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle compétence est mentionnée ?",
+          "arabic": "ما المهارة المذكورة؟",
+          "darija": "شنو المهارة المذكورة؟",
           "options": [
-            "Présenter ses compétences",
-            "Exprimer la quantité",
-            "Préparer un entretien simple"
+            "Lire un plan",
+            "Préparer une recette",
+            "Écrire une histoire"
           ],
           "correct": 0
         },
         {
           "id": "A2-22-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle autre compétence est mentionnée ?",
+          "arabic": "ما المهارة الأخرى المذكورة؟",
+          "darija": "شنو المهارة الأخرى؟",
           "options": [
-            "Je sais lire un plan et respecter les consignes.",
-            "Coupez les légumes puis ajoutez l'huile.",
-            "Hier, nous avons visité un atelier à Casablanca."
+            "Respecter les consignes",
+            "Prendre le train",
+            "Comparer des films"
           ],
           "correct": 0
         },
         {
           "id": "A2-22-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je sais ___ un plan.",
+          "arabic": "أكمل: Je sais ___ un plan.",
+          "darija": "كمّل: Je sais ___ un plan.",
           "options": [
-            "sais",
-            "Pourquoi",
-            "Je"
+            "lire",
+            "lis",
+            "lu"
           ],
           "correct": 0
         },
         {
           "id": "A2-22-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase présente une compétence ?",
+          "arabic": "أي جملة تعرض مهارة؟",
+          "darija": "أشنو الجملة اللي كتهضر على مهارة؟",
           "options": [
-            "Je sais lire un plan et respecter les consignes.",
-            "Donner des conseils",
-            "Il faut arriver à l'heure."
+            "Je sais lire un plan.",
+            "Je vais lire un plan demain.",
+            "J'ai lu un plan hier."
           ],
           "correct": 0
         }
@@ -8409,49 +8409,49 @@
       "quiz": [
         {
           "id": "A2-23-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que présente le CV ?",
+          "arabic": "ماذا يقدّم السيرة الذاتية؟",
+          "darija": "شنو كيعرض الـCV؟",
           "options": [
-            "Rédiger un CV simple",
-            "Donner des conseils",
-            "Raconter un souvenir"
+            "La formation et l'expérience",
+            "Une recette et un menu",
+            "Un souvenir d'enfance"
           ],
           "correct": 0
         },
         {
           "id": "A2-23-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel document sert à présenter son parcours professionnel ?",
+          "arabic": "أي وثيقة تُستعمل لتقديم المسار المهني؟",
+          "darija": "شنو الوثيقة اللي كنقدمو بها المسار المهني؟",
           "options": [
-            "Mon CV présente ma formation et mon expérience.",
-            "Bonjour, je vous appelle pour confirmer mon rendez-vous.",
-            "Je peux expliquer mon parcours et mes projets."
+            "Un CV",
+            "Une recette",
+            "Une annonce"
           ],
           "correct": 0
         },
         {
           "id": "A2-23-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Mon CV présente ma formation et mon ___.",
+          "arabic": "أكمل: Mon CV présente ma formation et mon ___.",
+          "darija": "كمّل: Mon CV présente ma formation et mon ___.",
           "options": [
-            "Mon",
-            "Je",
-            "Elle"
+            "expérience",
+            "quartier",
+            "rendez-vous"
           ],
           "correct": 0
         },
         {
           "id": "A2-23-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle information trouve-t-on normalement dans un CV simple ?",
+          "arabic": "أي معلومة نجدها في سيرة ذاتية بسيطة؟",
+          "darija": "شنو معلومة ممكن نلقاوها فـCV بسيط؟",
           "options": [
-            "Mon CV présente ma formation et mon expérience.",
-            "Le futur simple",
-            "Pendant mon stage, j'ai appris à travailler en équipe."
+            "La formation",
+            "La météo de demain",
+            "Le prix des tomates"
           ],
           "correct": 0
         }
@@ -8511,49 +8511,49 @@
       "quiz": [
         {
           "id": "A2-24-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel poste l'entreprise recherche-t-elle ?",
+          "arabic": "ما الوظيفة التي تبحث عنها الشركة؟",
+          "darija": "شنو الخدمة اللي كتقلب عليها الشركة؟",
           "options": [
-            "Lire une offre d'emploi",
-            "Le futur simple",
-            "Les pronoms COD"
+            "Aide-cuisinier débutant",
+            "Électricien expert",
+            "Professeur de français"
           ],
           "correct": 0
         },
         {
           "id": "A2-24-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel mot indique la personne recherchée ?",
+          "arabic": "ما الكلمة التي تحدد الشخص المطلوب؟",
+          "darija": "شنو الكلمة اللي كتعني الشخص المطلوب؟",
           "options": [
-            "L'entreprise recherche un aide-cuisinier débutant.",
-            "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-            "L'année dernière, j'ai commencé une formation."
+            "recherche",
+            "habite",
+            "compare"
           ],
           "correct": 0
         },
         {
           "id": "A2-24-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : L'entreprise ___ un aide-cuisinier débutant.",
+          "arabic": "أكمل: L'entreprise ___ un aide-cuisinier débutant.",
+          "darija": "كمّل: L'entreprise ___ un aide-cuisinier débutant.",
           "options": [
-            "L'entreprise",
-            "J'ai",
-            "Ce"
+            "recherche",
+            "recherchait-il",
+            "rechercherai"
           ],
           "correct": 0
         },
         {
           "id": "A2-24-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Où trouve-t-on ce type de phrase ?",
+          "arabic": "أين نجد عادة هذه الجملة؟",
+          "darija": "فين كنلقاو بحال هاد الجملة؟",
           "options": [
-            "L'entreprise recherche un aide-cuisinier débutant.",
-            "Téléphoner pour un rendez-vous",
-            "J'ai choisi cette formation parce qu'elle est pratique."
+            "Dans une offre d'emploi",
+            "Dans une recette",
+            "Dans un récit de vacances"
           ],
           "correct": 0
         }
@@ -8614,49 +8614,49 @@
       "quiz": [
         {
           "id": "A2-25-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Pourquoi la personne écrit-elle ?",
+          "arabic": "لماذا يكتب الشخص؟",
+          "darija": "علاش كيكتب الشخص؟",
           "options": [
-            "Répondre à une offre",
-            "Téléphoner pour un rendez-vous",
-            "Comprendre une recette"
+            "Pour présenter sa candidature",
+            "Pour raconter sa journée",
+            "Pour demander l'heure"
           ],
           "correct": 0
         },
         {
           "id": "A2-25-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle formule convient à une candidature ?",
+          "arabic": "أي عبارة تناسب طلب الترشح؟",
+          "darija": "شنو العبارة اللي كتناسب الترشح؟",
           "options": [
-            "Je vous adresse ma candidature pour ce poste.",
-            "Je travaillais quand mon ami m'a appelé.",
-            "Quand j'étais petit, j'habitais à Fès."
+            "Je vous adresse ma candidature.",
+            "Je vous adresse une recette.",
+            "Je vous raconte mon enfance."
           ],
           "correct": 0
         },
         {
           "id": "A2-25-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je vous adresse ma ___ pour ce poste.",
+          "arabic": "أكمل: Je vous adresse ma ___ pour ce poste.",
+          "darija": "كمّل: Je vous adresse ma ___ pour ce poste.",
           "options": [
-            "vous",
-            "Hier",
-            "Je"
+            "candidature",
+            "formation",
+            "journée"
           ],
           "correct": 0
         },
         {
           "id": "A2-25-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase est adaptée à une réponse à une offre ?",
+          "arabic": "أي جملة مناسبة للرد على عرض عمل؟",
+          "darija": "أشنو الجملة اللي كتناسب الرد على عرض خدمة؟",
           "options": [
             "Je vous adresse ma candidature pour ce poste.",
-            "Décrire une formation",
-            "Ce trajet est plus court que l'autre."
+            "Je voudrais un kilo de pommes.",
+            "Il est neuf heures."
           ],
           "correct": 0
         }
@@ -8717,49 +8717,49 @@
       "quiz": [
         {
           "id": "A2-26-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle question peut poser le recruteur ?",
+          "arabic": "ما السؤال الذي يمكن أن يطرحه مسؤول التوظيف؟",
+          "darija": "شنو السؤال اللي يقدر يسول المسؤول على التوظيف؟",
           "options": [
-            "Préparer un entretien simple",
-            "Décrire une formation",
-            "Parler de projets"
+            "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
+            "Combien coûtent les pommes ?",
+            "Où est la pharmacie ?"
           ],
           "correct": 0
         },
         {
           "id": "A2-26-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel est le contexte ?",
+          "arabic": "ما السياق؟",
+          "darija": "شنو هو السياق؟",
           "options": [
-            "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-            "Je compare les prix avant d'acheter.",
-            "Je travaillais quand mon ami m'a appelé."
+            "Un entretien d'embauche",
+            "Une recette",
+            "Une demande de chemin"
           ],
           "correct": 0
         },
         {
           "id": "A2-26-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle réponse peut expliquer une motivation ?",
+          "arabic": "أي جواب يمكن أن يشرح الدافع؟",
+          "darija": "شنو جواب يقدر يشرح الدافع؟",
           "options": [
-            "Pourquoi",
-            "Je",
-            "Je"
+            "Je souhaite rejoindre votre entreprise pour développer mes compétences.",
+            "Je voudrais deux kilos de tomates.",
+            "Il est neuf heures."
           ],
           "correct": 0
         },
         {
           "id": "A2-26-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Complète : Pourquoi souhaitez-vous ___ notre entreprise ?",
+          "arabic": "أكمل: Pourquoi souhaitez-vous ___ notre entreprise ?",
+          "darija": "كمّل: Pourquoi souhaitez-vous ___ notre entreprise ?",
           "options": [
-            "Pourquoi souhaitez-vous rejoindre notre entreprise ?",
-            "Lire une offre d'emploi",
-            "Tu devrais relire ton texte."
+            "rejoindre",
+            "rejoignez",
+            "rejoint"
           ],
           "correct": 0
         }
@@ -8819,49 +8819,49 @@
       "quiz": [
         {
           "id": "A2-27-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle qualité est mentionnée ?",
+          "arabic": "ما الصفة الإيجابية المذكورة؟",
+          "darija": "شنو الصفة الزوينة المذكورة؟",
           "options": [
-            "Parler de ses qualités",
-            "Lire une offre d'emploi",
-            "Décrire une formation"
+            "Ponctuel",
+            "En retard",
+            "Absent"
           ],
           "correct": 0
         },
         {
           "id": "A2-27-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quelle autre qualité est mentionnée ?",
+          "arabic": "ما الصفة الإيجابية الأخرى؟",
+          "darija": "شنو الصفة الزوينة الثانية؟",
           "options": [
-            "Je suis ponctuel et j'apprends rapidement.",
-            "Madame, je vous écris au sujet de ma candidature.",
-            "Elle est grande, souriante et attentive."
+            "Apprendre rapidement",
+            "Arriver tard",
+            "Oublier les consignes"
           ],
           "correct": 0
         },
         {
           "id": "A2-27-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Je suis ___ et j'apprends rapidement.",
+          "arabic": "أكمل: Je suis ___ et j'apprends rapidement.",
+          "darija": "كمّل: Je suis ___ et j'apprends rapidement.",
           "options": [
-            "suis",
-            "L'année",
-            "J'y"
+            "ponctuel",
+            "ponctualité",
+            "ponctuellement"
           ],
           "correct": 0
         },
         {
           "id": "A2-27-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase présente une qualité professionnelle ?",
+          "arabic": "أي جملة تعرض صفة مهنية؟",
+          "darija": "أشنو الجملة اللي كتعرض صفة مهنية؟",
           "options": [
-            "Je suis ponctuel et j'apprends rapidement.",
-            "Justifier un choix",
-            "Mon ordinateur ne fonctionne plus depuis hier."
+            "Je suis ponctuel.",
+            "Je suis à Casablanca hier.",
+            "Je voudrais un thé."
           ],
           "correct": 0
         }
@@ -8923,49 +8923,49 @@
       "quiz": [
         {
           "id": "A2-28-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Pourquoi la personne a-t-elle choisi cette formation ?",
+          "arabic": "لماذا اختار الشخص هذا التكوين؟",
+          "darija": "علاش اختار الشخص هاد التكوين؟",
           "options": [
-            "Justifier un choix",
-            "Parler de ses qualités",
-            "Préparer un entretien simple"
+            "Parce qu'elle est pratique",
+            "Parce qu'elle est loin",
+            "Parce qu'elle est courte"
           ],
           "correct": 0
         },
         {
           "id": "A2-28-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel mot introduit la justification ?",
+          "arabic": "ما الكلمة التي تقدّم التبرير؟",
+          "darija": "شنو الكلمة اللي كتقدم السبب؟",
           "options": [
-            "J'ai choisi cette formation parce qu'elle est pratique.",
-            "L'entreprise recherche un aide-cuisinier débutant.",
-            "Ce trajet est plus court que l'autre."
+            "parce que",
+            "mais",
+            "demain"
           ],
           "correct": 0
         },
         {
           "id": "A2-28-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : J'ai choisi cette formation ___ elle est pratique.",
+          "arabic": "أكمل: J'ai choisi cette formation ___ elle est pratique.",
+          "darija": "كمّل: J'ai choisi cette formation ___ elle est pratique.",
           "options": [
-            "J'ai",
-            "Quand",
-            "Il"
+            "parce qu'",
+            "mais",
+            "donc"
           ],
           "correct": 0
         },
         {
           "id": "A2-28-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase justifie un choix ?",
+          "arabic": "أي جملة تبرر اختيارًا؟",
+          "darija": "أشنو الجملة اللي كتبرر اختيار؟",
           "options": [
             "J'ai choisi cette formation parce qu'elle est pratique.",
-            "Raconter un souvenir",
-            "Pourquoi souhaitez-vous rejoindre notre entreprise ?"
+            "J'ai choisi cette formation hier.",
+            "Je choisirai cette formation demain."
           ],
           "correct": 0
         }
@@ -9027,49 +9027,49 @@
       "quiz": [
         {
           "id": "A2-29-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Qu'avons-nous visité dans l'exemple ?",
+          "arabic": "ماذا زرنا في المثال؟",
+          "darija": "شنو زرنا فالمثال؟",
           "options": [
-            "Raconter un événement",
-            "Raconter un souvenir",
-            "Imparfait : formation"
+            "Un atelier à Casablanca",
+            "Une pharmacie",
+            "Une bibliothèque"
           ],
           "correct": 0
         },
         {
           "id": "A2-29-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quand l'événement a-t-il eu lieu ?",
+          "arabic": "متى وقع الحدث؟",
+          "darija": "فاش وقعات هاد الحادثة؟",
           "options": [
-            "Hier, nous avons visité un atelier à Casablanca.",
-            "Quand j'étais petit, j'habitais à Fès.",
-            "Je le connais et je la rencontre demain."
+            "Hier",
+            "Demain",
+            "L'année prochaine"
           ],
           "correct": 0
         },
         {
           "id": "A2-29-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Complète : Hier, nous ___ visité un atelier.",
+          "arabic": "أكمل: Hier, nous ___ visité un atelier.",
+          "darija": "كمّل: Hier, nous ___ visité un atelier.",
           "options": [
-            "Hier",
-            "Je",
-            "Je"
+            "avons",
+            "sommes",
+            "allons"
           ],
           "correct": 0
         },
         {
           "id": "A2-29-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle phrase raconte un événement passé ?",
+          "arabic": "أي جملة تحكي عن حدث وقع؟",
+          "darija": "أشنو الجملة اللي كتحكي على حدث وقع؟",
           "options": [
             "Hier, nous avons visité un atelier à Casablanca.",
-            "Décrire une personne",
-            "Elle est grande, souriante et attentive."
+            "Demain, nous visiterons un atelier.",
+            "Nous visitons un atelier chaque semaine."
           ],
           "correct": 0
         }
@@ -9129,49 +9129,49 @@
       "quiz": [
         {
           "id": "A2-30-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que peut faire l'apprenant après ce bilan ?",
+          "arabic": "ماذا يستطيع المتعلم أن يفعل بعد هذا التقييم؟",
+          "darija": "شنو يقدر يدير المتعلم من بعد هاد التقييم؟",
           "options": [
-            "Bilan A2",
-            "Décrire une personne",
-            "Les pronoms COI"
+            "Expliquer son parcours et ses projets",
+            "Écrire uniquement des lettres",
+            "Commander uniquement au café"
           ],
           "correct": 0
         },
         {
           "id": "A2-30-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel domaine concerne « son parcours » ?",
+          "arabic": "ما المجال الذي يشير إليه « son parcours »؟",
+          "darija": "شنو المجال ديال « المسار ديالو »؟",
           "options": [
-            "Je peux expliquer mon parcours et mes projets.",
-            "Il me faut deux kilos de tomates.",
-            "Je lui téléphone et je leur écris."
+            "Sa formation et ses expériences",
+            "Son repas",
+            "Son quartier seulement"
           ],
           "correct": 0
         },
         {
           "id": "A2-30-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle phrase correspond au bilan A2 ?",
+          "arabic": "أي جملة تناسب تقييم A2؟",
+          "darija": "شنو الجملة اللي كتناسب خلاصة A2؟",
           "options": [
-            "peux",
-            "Elle",
-            "Coupez"
+            "Je peux expliquer mon parcours et mes projets.",
+            "Je connais seulement l'alphabet.",
+            "Je peux analyser une conférence complexe."
           ],
           "correct": 0
         },
         {
           "id": "A2-30-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quel élément complète la compétence annoncée ?",
+          "arabic": "ما العنصر الذي يكمل المهارة المعلنة؟",
+          "darija": "شنو الحاجة اللي كتكمّل المهارة؟",
           "options": [
-            "Je peux expliquer mon parcours et mes projets.",
-            "Les pronoms COI",
-            "Coupez les légumes puis ajoutez l'huile."
+            "Ses projets",
+            "La recette",
+            "Le prix"
           ],
           "correct": 0
         }
@@ -21498,5 +21498,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; quiz interactifs A0-01 à C2-30 intégrés ; 840 questions ; non validés, pas de médias ou traductions de cours intégrés"
+  "enrichment": "Quiz A2 réécrits avec questions pédagogiques contextualisées ; A0-A1 conservés ; 840 questions au total ; validation pédagogique toujours conseillée."
 }
