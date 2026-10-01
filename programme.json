@@ -3067,7 +3067,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je m'appelle Salma, j'ai vingt ans et j'habite à Fès.",
       "vocabulary": [
         "m'appelle",
@@ -3103,6 +3103,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-01-Q1",
+          "question": "Que dit Salma pour donner son prénom ?",
+          "arabic": "ماذا تقول سلمى لتذكر اسمها؟",
+          "darija": "شنو كتقول سلمى باش تقول سميتها؟",
+          "options": [
+            "Je m'appelle Salma.",
+            "J'habite à Fès.",
+            "J'ai vingt ans."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-01-Q2",
+          "question": "Quel âge a Salma ?",
+          "arabic": "كم عمر سلمى؟",
+          "darija": "شحال فالعمر ديال سلمى؟",
+          "options": [
+            "Dix ans.",
+            "Vingt ans.",
+            "Trente ans."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-01-Q3",
+          "question": "Où habite Salma ?",
+          "arabic": "أين تسكن سلمى؟",
+          "darija": "فين كتسكن سلمى؟",
+          "options": [
+            "À Rabat.",
+            "À Fès.",
+            "À Tanger."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-01-Q4",
+          "question": "Quelle phrase est une présentation ?",
+          "arabic": "أي جملة هي تقديم للنفس؟",
+          "darija": "شنو هي الجملة اللي فيها تقديم للنفس؟",
+          "options": [
+            "Je m'appelle Salma.",
+            "Il habite à Fès.",
+            "Voici mon ami."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -3120,7 +3170,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Voici mon ami Amine. Il habite à Casablanca.",
       "vocabulary": [
         "Voici",
@@ -3155,6 +3205,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-02-Q1",
+          "question": "Qui est présenté dans l'exemple ?",
+          "arabic": "من الشخص الذي يتم تقديمه في المثال؟",
+          "darija": "شكون اللي كيتقدّم فالمثال؟",
+          "options": [
+            "Un ami d'Amine.",
+            "Un ami de la personne qui parle.",
+            "Un professeur."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-02-Q2",
+          "question": "Comment s'appelle l'ami ?",
+          "arabic": "ما اسم الصديق؟",
+          "darija": "شنو سميت الصديق؟",
+          "options": [
+            "Amine.",
+            "Salma.",
+            "Yassine."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-02-Q3",
+          "question": "Quel pronom est utilisé pour parler d'Amine ?",
+          "arabic": "ما الضمير المستعمل للحديث عن أمين؟",
+          "darija": "شنو الضمير اللي كنستعملو باش نهضرو على أمين؟",
+          "options": [
+            "Je.",
+            "Tu.",
+            "Il."
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A1-02-Q4",
+          "question": "Quelle phrase présente une personne ?",
+          "arabic": "أي جملة تقدم شخصا؟",
+          "darija": "شنو الجملة اللي كتقدّم شي واحد؟",
+          "options": [
+            "Voici mon ami Amine.",
+            "J'ai vingt ans.",
+            "J'habite à Fès."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -3172,7 +3272,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "le cahier, la table, un stylo, une école.",
       "vocabulary": [
         "cahier",
@@ -3207,6 +3307,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-03-Q1",
+          "question": "Quel article accompagne « cahier » ?",
+          "arabic": "ما أداة التعريف التي ترافق كلمة cahier؟",
+          "darija": "شنو الأداة اللي كتجي مع cahier؟",
+          "options": [
+            "le",
+            "la",
+            "une"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-03-Q2",
+          "question": "Quel article accompagne « table » ?",
+          "arabic": "ما أداة التعريف التي ترافق كلمة table؟",
+          "darija": "شنو الأداة اللي كتجي مع table؟",
+          "options": [
+            "un",
+            "le",
+            "la"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A1-03-Q3",
+          "question": "Quel article indéfini accompagne « stylo » ?",
+          "arabic": "ما أداة التنكير التي ترافق كلمة stylo؟",
+          "darija": "شنو أداة التنكير اللي كتجي مع stylo؟",
+          "options": [
+            "une",
+            "un",
+            "la"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-03-Q4",
+          "question": "Quel article accompagne « école » dans l'exemple ?",
+          "arabic": "ما أداة التنكير التي ترافق école في المثال؟",
+          "darija": "شنو أداة التنكير اللي كتجي مع école فالمثال؟",
+          "options": [
+            "un",
+            "une",
+            "le"
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -3224,7 +3374,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "un ami, une amie ; un voisin, une voisine.",
       "vocabulary": [
         "amie",
@@ -3258,6 +3408,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-04-Q1",
+          "question": "Quelle forme est correcte pour une femme ?",
+          "arabic": "ما الصيغة الصحيحة للمرأة؟",
+          "darija": "شنو الصيغة الصحيحة للمرأة؟",
+          "options": [
+            "un amie",
+            "une amie",
+            "une amis"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-04-Q2",
+          "question": "Quelle forme est correcte pour un homme ?",
+          "arabic": "ما الصيغة الصحيحة للرجل؟",
+          "darija": "شنو الصيغة الصحيحة للرجل؟",
+          "options": [
+            "une ami",
+            "un ami",
+            "un amie"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-04-Q3",
+          "question": "Quel mot correspond à « voisine » au masculin ?",
+          "arabic": "ما الكلمة الموافقة لـ voisine في المذكر؟",
+          "darija": "شنو الكلمة ديال voisine فالمذكر؟",
+          "options": [
+            "voisin",
+            "voisine",
+            "voisines"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-04-Q4",
+          "question": "Quelle paire montre le masculin et le féminin ?",
+          "arabic": "أي زوج يبين المذكر والمؤنث؟",
+          "darija": "شنو الزوج اللي كيبين المذكر والمؤنث؟",
+          "options": [
+            "ami / amie",
+            "livre / livres",
+            "classe / classes"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -3275,7 +3475,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "un livre, des livres ; une classe, des classes.",
       "vocabulary": [
         "livre",
@@ -3310,6 +3510,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-05-Q1",
+          "question": "Quel est le pluriel de « un livre » ?",
+          "arabic": "ما جمع « un livre »؟",
+          "darija": "شنو الجمع ديال « un livre »؟",
+          "options": [
+            "des livres",
+            "un livres",
+            "des livre"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-05-Q2",
+          "question": "Quel est le pluriel de « une classe » ?",
+          "arabic": "ما جمع « une classe »؟",
+          "darija": "شنو الجمع ديال « une classe »؟",
+          "options": [
+            "une classes",
+            "des classes",
+            "des classe"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-05-Q3",
+          "question": "Quel article accompagne « livres » au pluriel ?",
+          "arabic": "ما أداة التنكير التي ترافق livres في الجمع؟",
+          "darija": "شنو الأداة اللي كتجي مع livres فالجمع؟",
+          "options": [
+            "un",
+            "une",
+            "des"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A1-05-Q4",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "Des livre.",
+            "Des livres.",
+            "Une livres."
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -12498,5 +12748,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-30 intégrés ; non validés, pas de médias ou traductions intégrés"
+  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-30 et A1-01 à A1-05 intégrés ; non validés, pas de médias ou traductions intégrés"
 }
