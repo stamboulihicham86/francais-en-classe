@@ -2555,7 +2555,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Salma lit un livre.",
       "vocabulary": [
         "Salma",
@@ -2588,6 +2588,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-26-Q1",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "Salma lit un livre.",
+            "Salma livre un lit.",
+            "Lit Salma un livre."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-26-Q2",
+          "question": "Quel est le sujet de « Salma lit un livre » ?",
+          "arabic": "ما الفاعل في الجملة؟",
+          "darija": "شنو هو الفاعل فالجملة؟",
+          "options": [
+            "Salma",
+            "lit",
+            "livre"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-26-Q3",
+          "question": "Quel verbe est utilisé ?",
+          "arabic": "ما الفعل المستعمل؟",
+          "darija": "شنو الفعل اللي مستعمل؟",
+          "options": [
+            "lit",
+            "livre",
+            "Salma"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-26-Q4",
+          "question": "Complète : Amine ___ un livre.",
+          "arabic": "أكمل: أمين يقرأ كتاباً.",
+          "darija": "كمّل: أمين ___ كتاب.",
+          "options": [
+            "lit",
+            "livre",
+            "un"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -2606,7 +2656,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Comment tu t'appelles ?",
       "vocabulary": [
         "Comment",
@@ -2639,6 +2689,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-27-Q1",
+          "question": "Quelle question demande le prénom ?",
+          "arabic": "أي سؤال يطلب الاسم؟",
+          "darija": "شنو السؤال اللي كيسول على السمية؟",
+          "options": [
+            "Comment tu t'appelles ?",
+            "Où habites-tu ?",
+            "Quel âge as-tu ?"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-27-Q2",
+          "question": "Quelle question demande le lieu ?",
+          "arabic": "أي سؤال يطلب مكان السكن؟",
+          "darija": "شنو السؤال اللي كيسول فين ساكن؟",
+          "options": [
+            "Comment tu t'appelles ?",
+            "Où habites-tu ?",
+            "Quel âge as-tu ?"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-27-Q3",
+          "question": "Quelle question demande l'âge ?",
+          "arabic": "أي سؤال يطلب العمر؟",
+          "darija": "شنو السؤال اللي كيسول على العمر؟",
+          "options": [
+            "Où habites-tu ?",
+            "Comment tu t'appelles ?",
+            "Quel âge as-tu ?"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-27-Q4",
+          "question": "Quelle phrase se termine par un point d'interrogation ?",
+          "arabic": "أي جملة تنتهي بعلامة استفهام؟",
+          "darija": "شنو الجملة اللي كتسالي بعلامة الاستفهام؟",
+          "options": [
+            "Bonjour.",
+            "Comment tu t'appelles ?",
+            "Je m'appelle Amine."
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -2657,7 +2757,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je m'appelle Fatima. J'habite à Rabat.",
       "vocabulary": [
         "m'appelle",
@@ -2692,6 +2792,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-28-Q1",
+          "question": "Comment s'appelle la personne ?",
+          "arabic": "ما اسم الشخص؟",
+          "darija": "شنو سميت الشخص؟",
+          "options": [
+            "Fatima",
+            "Salma",
+            "Amine"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-28-Q2",
+          "question": "Où habite Fatima ?",
+          "arabic": "أين تسكن فاطمة؟",
+          "darija": "فين ساكنة فاطمة؟",
+          "options": [
+            "Rabat",
+            "Casablanca",
+            "Fès"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-28-Q3",
+          "question": "Quelle phrase indique le lieu ?",
+          "arabic": "أي جملة تدل على مكان السكن؟",
+          "darija": "شنو الجملة اللي كتدل على السكن؟",
+          "options": [
+            "Je m'appelle Fatima.",
+            "J'habite à Rabat.",
+            "Bonjour !"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-28-Q4",
+          "question": "Combien de phrases y a-t-il dans la présentation ?",
+          "arabic": "كم عدد الجمل في التقديم؟",
+          "darija": "شحال من جملة كاينة فالتقديم؟",
+          "options": [
+            "Une",
+            "Deux",
+            "Trois"
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -2710,7 +2860,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Bonjour ! Je m'appelle Amine. J'ai vingt ans. J'habite à Casablanca.",
       "vocabulary": [
         "Bonjour",
@@ -2747,6 +2897,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-29-Q1",
+          "question": "Comment s'appelle Amine ?",
+          "arabic": "ما اسم أمين؟",
+          "darija": "شنو سميت أمين؟",
+          "options": [
+            "Amine",
+            "Yassine",
+            "Othmane"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-29-Q2",
+          "question": "Quel âge a Amine ?",
+          "arabic": "كم عمر أمين؟",
+          "darija": "شحال فعمر أمين؟",
+          "options": [
+            "18 ans",
+            "20 ans",
+            "22 ans"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-29-Q3",
+          "question": "Où habite Amine ?",
+          "arabic": "أين يسكن أمين؟",
+          "darija": "فين ساكن أمين؟",
+          "options": [
+            "Rabat",
+            "Casablanca",
+            "Tanger"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-29-Q4",
+          "question": "Quelle phrase peut commencer la présentation ?",
+          "arabic": "أي جملة يمكن أن تبدأ التقديم؟",
+          "darija": "شنو الجملة اللي نقدروا نبداو بها التقديم؟",
+          "options": [
+            "Bonjour !",
+            "J'habite à Casablanca.",
+            "J'ai vingt ans."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -2765,7 +2965,7 @@
         "Guide du formateur RFC-Français, séances 2 à 4",
         "Vocabulaire grands débutants : thèmes de base"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je reconnais les lettres, je lis des syllabes et je me présente.",
       "vocabulary": [
         "reconnais",
@@ -2800,6 +3000,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A0-30-Q1",
+          "question": "Que peut faire l'apprenant après le bilan ?",
+          "arabic": "ماذا يستطيع المتعلم القيام به بعد التقييم؟",
+          "darija": "شنو يقدر المتعلم يدير من بعد المراجعة؟",
+          "options": [
+            "Se présenter simplement",
+            "Écrire un long rapport",
+            "Faire une conférence complexe"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-30-Q2",
+          "question": "Quelle compétence est citée dans le bilan ?",
+          "arabic": "ما المهارة المذكورة في التقييم؟",
+          "darija": "شنو المهارة المذكورة فالمراجعة؟",
+          "options": [
+            "Reconnaître les lettres",
+            "Écrire un roman",
+            "Analyser un débat"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-30-Q3",
+          "question": "Que peut lire l'apprenant ?",
+          "arabic": "ماذا يستطيع المتعلم أن يقرأ؟",
+          "darija": "شنو يقدر المتعلم يقرا؟",
+          "options": [
+            "Des syllabes",
+            "Un rapport spécialisé",
+            "Un texte universitaire"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-30-Q4",
+          "question": "Quelle phrase correspond au bilan A0 ?",
+          "arabic": "أي جملة توافق حصيلة A0؟",
+          "darija": "شنو الجملة اللي كتوافق حصيلة A0؟",
+          "options": [
+            "Je reconnais les lettres, je lis des syllabes et je me présente.",
+            "Je rédige une étude complexe.",
+            "Je défends une thèse spécialisée."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -12248,5 +12498,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-25 intégrés ; non validés, pas de médias ou traductions intégrés"
+  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-30 intégrés ; non validés, pas de médias ou traductions intégrés"
 }
