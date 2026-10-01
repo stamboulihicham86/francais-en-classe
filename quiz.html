@@ -5,18 +5,55 @@
 body{font-family:system-ui,Arial,sans-serif;max-width:900px;margin:auto;padding:20px;background:#f7f7f7;color:#222}
 .card{background:#fff;border-radius:14px;padding:20px;margin:16px 0;box-shadow:0 2px 10px #0001}
 button{border:0;border-radius:10px;padding:10px 14px;margin:5px;cursor:pointer;background:#eee}
-button.primary{background:#173b7a;color:#fff}.option{display:block;width:100%;text-align:left;margin:8px 0}.correct{outline:2px solid #198754}.wrong{outline:2px solid #dc3545}
+button.primary{background:#173b7a;color:#fff}.option{display:block;width:100%;text-align:left;margin:8px 0}.option:disabled{cursor:default;opacity:1}.correct{outline:2px solid #198754}.wrong{outline:2px solid #dc3545}
 select{padding:9px;border-radius:8px}.hidden{display:none}.score{font-size:1.2rem;font-weight:700}
+.progress{height:10px;background:#e5e5e5;border-radius:99px;overflow:hidden;margin:12px 0}.bar{height:100%;width:0;background:#173b7a;transition:width .25s}
+.small{color:#666;font-size:.92rem}.result{font-size:1.35rem;font-weight:700}
 </style></head><body>
-<div class="card"><h1 id="title">Quiz de français</h1><p id="example"></p>
+<div class="card"><h1 id="title">Quiz de français</h1><p id="objective"></p><p id="example"></p>
 <label>Afficher l'aide : <select id="lang"><option value="none">Français seulement</option><option value="arabic">العربية الفصحى</option><option value="darija">الدارجة المغربية</option></select></label>
-</div><div id="quiz"></div><div class="card"><p id="score"></p><button class="primary" onclick="location.href='index.html'">Retour au programme</button></div>
+<p id="counter" class="small"></p><div class="progress"><div id="bar" class="bar"></div></div></div>
+<div id="quiz"></div>
+<div class="card"><p id="score" class="score">Réponds aux questions pour voir ton score.</p><p id="final" class="result"></p>
+<button class="primary" onclick="retry()">Recommencer</button><button onclick="location.href='index.html'">Retour au programme</button></div>
 <script>
 let data=null,lesson=null,answers=[];
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
-async function init(){data=await fetch('programme.json').then(r=>r.json());const p=new URLSearchParams(location.search);const lv=p.get('level')||'A1',n=Number(p.get('lecon')||1);lesson=data.lessons.find(x=>x.level===lv&&x.number===n);if(!lesson){document.body.innerHTML='<h1>Leçon introuvable</h1>';return}document.getElementById('title').textContent='Quiz '+lesson.id+' — '+lesson.title;document.getElementById('example').textContent='Exemple : '+lesson.example;render();}
-function render(){const q=document.getElementById('quiz');q.innerHTML=lesson.quiz.map((x,i)=>'<div class="card"><h2>Question '+(i+1)+'</h2><p><strong>'+esc(x.question)+'</strong></p><p class="translation" data-a="'+esc(x.arabic)+'" data-d="'+esc(x.darija)+'"></p>'+x.options.map((o,k)=>'<button class="option" onclick="answer('+i+','+k+',this)">'+esc(o)+'</button>').join('')+'<p id="r'+i+'"></p></div>').join('');document.getElementById('lang').onchange=showLang;showLang();}
+async function init(){
+ data=await fetch('programme.json').then(r=>r.json());
+ const p=new URLSearchParams(location.search),lv=p.get('level')||'A1',n=Number(p.get('lecon')||1);
+ lesson=data.lessons.find(x=>x.level===lv&&x.number===n);
+ if(!lesson){document.body.innerHTML='<h1>Leçon introuvable</h1>';return}
+ document.getElementById('title').textContent='Quiz '+lesson.id+' — '+lesson.title;
+ document.getElementById('objective').textContent='Objectif : '+lesson.objective;
+ document.getElementById('example').textContent='Exemple : '+lesson.example;
+ render();
+}
+function render(){
+ answers=[]; const q=document.getElementById('quiz');
+ q.innerHTML=lesson.quiz.map((x,i)=>'<div class="card"><h2>Question '+(i+1)+'</h2><p><strong>'+esc(x.question)+'</strong></p><p class="translation" data-a="'+esc(x.arabic||'')+'" data-d="'+esc(x.darija||'')+'"></p>'+x.options.map((o,k)=>'<button class="option" onclick="answer('+i+','+k+',this)">'+esc(o)+'</button>').join('')+'<p id="r'+i+'"></p></div>').join('');
+ document.getElementById('lang').onchange=showLang; showLang(); updateProgress();
+}
 function showLang(){const v=document.getElementById('lang').value;document.querySelectorAll('.translation').forEach(e=>e.textContent=v==='arabic'?e.dataset.a:v==='darija'?e.dataset.d:'');}
-function answer(i,k,b){if(answers[i]!=null)return;answers[i]=k;const x=lesson.quiz[i];b.classList.add(k===x.correct?'correct':'wrong');if(k!==x.correct)b.parentElement.querySelectorAll('.option')[x.correct].classList.add('correct');document.getElementById('r'+i).textContent=k===x.correct?'✓ Bonne réponse':'✗ Réponse à revoir';document.getElementById('score').textContent='Score : '+answers.filter((a,n)=>a===lesson.quiz[n].correct).length+' / '+lesson.quiz.length;}
+function answer(i,k,b){
+ if(answers[i]!=null)return; answers[i]=k; const x=lesson.quiz[i],box=b.parentElement;
+ box.querySelectorAll('.option').forEach(btn=>btn.disabled=true);
+ b.classList.add(k===x.correct?'correct':'wrong');
+ if(k!==x.correct)box.querySelectorAll('.option')[x.correct].classList.add('correct');
+ document.getElementById('r'+i).textContent=k===x.correct?'✓ Bonne réponse':'✗ À revoir — la bonne réponse est indiquée.';
+ const good=answers.filter((a,n)=>a===lesson.quiz[n].correct).length;
+ document.getElementById('score').textContent='Score : '+good+' / '+lesson.quiz.length;
+ updateProgress();
+ if(answers.filter(a=>a!=null).length===lesson.quiz.length){
+   const pct=Math.round(good/lesson.quiz.length*100);
+   document.getElementById('final').textContent=pct>=80?'Très bien ! Relis les questions où tu as hésité.':pct>=60?'Bon travail ! Revois les notions des questions incorrectes.':'Continue à t’entraîner, puis recommence le quiz.';
+ }
+}
+function updateProgress(){
+ const done=answers.filter(a=>a!=null).length,total=lesson?lesson.quiz.length:0;
+ document.getElementById('counter').textContent=done+' / '+total+' question(s) répondue(s)';
+ document.getElementById('bar').style.width=(total?done/total*100:0)+'%';
+}
+function retry(){render();window.scrollTo({top:0,behavior:'smooth'});}
 init();
 </script></body></html>
