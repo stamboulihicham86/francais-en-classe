@@ -3577,7 +3577,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Un grand cahier et une petite table.",
       "vocabulary": [
         "grand",
@@ -3612,6 +3612,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-06-Q1",
+          "question": "Quel adjectif décrit le cahier ?",
+          "arabic": "ما الصفة التي تصف الدفتر؟",
+          "darija": "شنو الصفة اللي كتوصف الدفتر؟",
+          "options": [
+            "grand",
+            "petite",
+            "bleu"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-06-Q2",
+          "question": "Quel adjectif décrit la table ?",
+          "arabic": "ما الصفة التي تصف الطاولة؟",
+          "darija": "شنو الصفة اللي كتوصف الطاولة؟",
+          "options": [
+            "grand",
+            "petite",
+            "rapide"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-06-Q3",
+          "question": "Quelle forme convient à « table » ?",
+          "arabic": "ما الصيغة المناسبة لكلمة table؟",
+          "darija": "شنو الصيغة المناسبة لـ table؟",
+          "options": [
+            "petit",
+            "petite",
+            "petits"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-06-Q4",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "Une grand table.",
+            "Une petite table.",
+            "Un petite table."
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -3629,7 +3679,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je parle, tu parles, nous parlons.",
       "vocabulary": [
         "parle",
@@ -3664,6 +3714,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-07-Q1",
+          "question": "Quelle forme est correcte avec « je » ?",
+          "arabic": "ما الصيغة الصحيحة مع je؟",
+          "darija": "شنو الصيغة الصحيحة مع je؟",
+          "options": [
+            "je parle",
+            "je parles",
+            "je parlons"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-07-Q2",
+          "question": "Quelle forme est correcte avec « tu » ?",
+          "arabic": "ما الصيغة الصحيحة مع tu؟",
+          "darija": "شنو الصيغة الصحيحة مع tu؟",
+          "options": [
+            "tu parle",
+            "tu parles",
+            "tu parlons"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-07-Q3",
+          "question": "Quelle forme est correcte avec « nous » ?",
+          "arabic": "ما الصيغة الصحيحة مع nous؟",
+          "darija": "شنو الصيغة الصحيحة مع nous؟",
+          "options": [
+            "nous parle",
+            "nous parlez",
+            "nous parlons"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A1-07-Q4",
+          "question": "Quel verbe est utilisé dans « Je parle » ?",
+          "arabic": "ما الفعل المستعمل في « Je parle »؟",
+          "darija": "شنو الفعل اللي مستعمل فـ « Je parle »؟",
+          "options": [
+            "parler",
+            "habiter",
+            "être"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -3681,7 +3781,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je suis en formation et j'ai un projet.",
       "vocabulary": [
         "suis",
@@ -3716,6 +3816,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-08-Q1",
+          "question": "Quelle phrase utilise le verbe être ?",
+          "arabic": "أي جملة تستعمل الفعل être؟",
+          "darija": "شنو الجملة اللي فيها الفعل être؟",
+          "options": [
+            "Je suis en formation.",
+            "J'ai un projet.",
+            "Je parle français."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-08-Q2",
+          "question": "Quelle phrase utilise le verbe avoir ?",
+          "arabic": "أي جملة تستعمل الفعل avoir؟",
+          "darija": "شنو الجملة اللي فيها الفعل avoir؟",
+          "options": [
+            "Je suis en formation.",
+            "J'ai un projet.",
+            "Je travaille."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-08-Q3",
+          "question": "Complète : Je ___ en formation.",
+          "arabic": "أكمل: أنا في التكوين.",
+          "darija": "كمّل: أنا فالتكوين.",
+          "options": [
+            "suis",
+            "ai",
+            "es"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-08-Q4",
+          "question": "Complète : J'___ un projet.",
+          "arabic": "أكمل: لدي مشروع.",
+          "darija": "كمّل: عندي مشروع.",
+          "options": [
+            "suis",
+            "ai",
+            "est"
+          ],
+          "correct": 1
+        }
       ]
     },
     {
@@ -3733,7 +3883,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je ne travaille pas le dimanche.",
       "vocabulary": [
         "travaille",
@@ -3766,6 +3916,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-09-Q1",
+          "question": "Quelle phrase est négative ?",
+          "arabic": "أي جملة منفية؟",
+          "darija": "شنو الجملة المنفية؟",
+          "options": [
+            "Je travaille.",
+            "Je ne travaille pas.",
+            "Je parle français."
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-09-Q2",
+          "question": "Quels mots encadrent le verbe dans la négation simple ?",
+          "arabic": "ما الكلمتان اللتان تحيطان بالفعل في النفي البسيط؟",
+          "darija": "شنو هما الكلمتين اللي كيجيو حدا الفعل فالنفي البسيط؟",
+          "options": [
+            "ne et pas",
+            "je et pas",
+            "non et jamais"
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-09-Q3",
+          "question": "Complète : Je ne travaille ___ le dimanche.",
+          "arabic": "أكمل: أنا لا أعمل يوم الأحد.",
+          "darija": "كمّل: أنا ما كنخدمش نهار الحد.",
+          "options": [
+            "plus",
+            "pas",
+            "jamais"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-09-Q4",
+          "question": "Quelle phrase est correcte ?",
+          "arabic": "أي جملة صحيحة؟",
+          "darija": "شنو الجملة الصحيحة؟",
+          "options": [
+            "Je ne parle pas.",
+            "Je ne parle.",
+            "Je pas parle."
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -3783,7 +3983,7 @@
         "Vocabulaire grands débutants : famille, maison, école",
         "Alter Ego A1 et Tout va bien : références de progression"
       ],
-      "status": "Fiche enrichie — relecture et validation pédagogique nécessaires",
+      "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Est-ce que vous habitez à Rabat ?",
       "vocabulary": [
         "Est-ce",
@@ -3818,6 +4018,56 @@
         "L'exemple a-t-il été compris ?",
         "L'apprenant a-t-il réalisé la tâche de production ?",
         "Une correction individuelle ou collective a-t-elle été faite ?"
+      ],
+      "quiz": [
+        {
+          "id": "A1-10-Q1",
+          "question": "Quel mot introduit la question dans l'exemple ?",
+          "arabic": "ما الكلمة التي تقدم السؤال في المثال؟",
+          "darija": "شنو الكلمة اللي ككتبدا بها السؤال فالمثال؟",
+          "options": [
+            "Comment",
+            "Est-ce que",
+            "Pourquoi"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A1-10-Q2",
+          "question": "Quelle phrase demande si une personne habite à Rabat ?",
+          "arabic": "أي جملة تسأل إن كان شخص يسكن في الرباط؟",
+          "darija": "شنو الجملة اللي كتسول واش شي واحد كيسكن فالرباط؟",
+          "options": [
+            "Est-ce que vous habitez à Rabat ?",
+            "Vous habitez à Rabat.",
+            "Vous êtes à Rabat."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-10-Q3",
+          "question": "Que signifie « Est-ce que » dans une question ?",
+          "arabic": "ما وظيفة « Est-ce que » في السؤال؟",
+          "darija": "شنو الدور ديال « Est-ce que » فالسؤال؟",
+          "options": [
+            "Introduire une question.",
+            "Terminer une phrase.",
+            "Présenter une personne."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A1-10-Q4",
+          "question": "Quelle question est correcte ?",
+          "arabic": "أي سؤال صحيح؟",
+          "darija": "شنو السؤال الصحيح؟",
+          "options": [
+            "Est-ce que tu habites à Fès ?",
+            "Est-ce que tu habite à Fès ?",
+            "Est-ce que tu habitez à Fès ?"
+          ],
+          "correct": 0
+        }
       ]
     },
     {
@@ -12748,5 +12998,5 @@
       ]
     }
   ],
-  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-30 et A1-01 à A1-05 intégrés ; non validés, pas de médias ou traductions intégrés"
+  "enrichment": "210 exemples originaux et activités graduées ; quiz A0-01 à A0-30 et A1-01 à A1-10 intégrés ; non validés, pas de médias ou traductions intégrés"
 }
