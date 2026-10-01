@@ -12330,49 +12330,49 @@
       "quiz": [
         {
           "id": "B2-01-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle est la base d'une argumentation convaincante ?",
+          "arabic": "ما أساس الحجاج المقنع؟",
+          "darija": "شنو أساس الحجاج المقنع؟",
           "options": [
-            "Construire une argumentation",
-            "Nuancer une affirmation",
-            "Analyser un reportage"
+            "Des arguments et des exemples vérifiables",
+            "Des affirmations sans preuve",
+            "Des opinions sans explication"
           ],
           "correct": 0
         },
         {
           "id": "B2-01-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « argumentation » ?",
+          "arabic": "أي عنصر من المثال يوضح « argumentation »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « argumentation »؟",
           "options": [
-            "Une thèse convaincante repose sur des arguments et des exemples vérifiables.",
-            "Les documents convergent sur un point, mais divergent sur les causes.",
-            "Le reportage alterne témoignages et données chiffrées."
+            "argumentation",
+            "Construire une argumentation",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-01-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Une",
-            "Il",
-            "Nous"
+            "Une thèse convaincante repose sur des arguments et des exemples vérifiables.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-01-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Une thèse convaincante repose sur des arguments et des exemples vérifiables.",
-            "Analyser un reportage",
-            "Nous aurions terminé plus tôt si le matériel avait été disponible."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -12434,49 +12434,49 @@
       "quiz": [
         {
           "id": "B2-02-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que fait le développement d'un essai ?",
+          "arabic": "ماذا يفعل عرض المقال؟",
+          "darija": "شنو كيدير تطوير المقال؟",
           "options": [
-            "Structurer un essai",
-            "Analyser un reportage",
-            "Les hypothèses complexes"
+            "Il examine les perspectives annoncées",
+            "Il répète uniquement le titre",
+            "Il supprime le problème"
           ],
           "correct": 0
         },
         {
           "id": "B2-02-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « essai » ?",
+          "arabic": "أي عنصر من المثال يوضح « essai »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « essai »؟",
           "options": [
-            "L'introduction pose le problème ; le développement examine deux perspectives.",
-            "La mise en œuvre du projet exige une coordination régulière.",
-            "Les deux articles citent des populations et des périodes différentes."
+            "essai",
+            "Structurer un essai",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-02-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "L'introduction",
-            "L'auteur",
-            "Si"
+            "L'introduction pose le problème ; le développement examine deux perspectives.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-02-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "L'introduction pose le problème ; le développement examine deux perspectives.",
-            "Le subjonctif approfondi",
-            "Le rapport présente les décisions, les responsables et les échéances."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -12538,49 +12538,49 @@
       "quiz": [
         {
           "id": "B2-03-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que fait l'auteur lorsqu'il défend une proposition ?",
+          "arabic": "ماذا يفعل الكاتب عندما يدافع عن اقتراح؟",
+          "darija": "شنو كيدير الكاتب ملي كيدافع على اقتراح؟",
           "options": [
-            "Défendre un point de vue",
-            "Le subjonctif approfondi",
-            "Le registre formel"
+            "Il présente des arguments tout en reconnaissant des limites",
+            "Il refuse toute nuance",
+            "Il donne seulement une définition"
           ],
           "correct": 0
         },
         {
           "id": "B2-03-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « point de vue » ?",
+          "arabic": "أي عنصر من المثال يوضح « point de vue »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « point de vue »؟",
           "options": [
-            "Je défends cette proposition tout en reconnaissant ses limites.",
-            "Je comprends votre objection ; examinons les options possibles.",
-            "Les documents convergent sur un point, mais divergent sur les causes."
+            "point de vue",
+            "Défendre un point de vue",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-03-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "défends",
-            "Le",
-            "Toutefois"
+            "Je défends cette proposition tout en reconnaissant ses limites.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-03-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Je défends cette proposition tout en reconnaissant ses limites.",
-            "Les connecteurs logiques",
-            "Une opinion doit être distinguée d'un fait établi."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -12642,49 +12642,49 @@
       "quiz": [
         {
           "id": "B2-04-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que signifie réfuter un argument ?",
+          "arabic": "ماذا يعني دحض حجة؟",
+          "darija": "شنو كتعني ندحضو حجة؟",
           "options": [
-            "Réfuter un argument",
-            "Les connecteurs logiques",
-            "Négocier une solution"
+            "Répondre à l'objection avec un raisonnement",
+            "Répéter l'objection sans réponse",
+            "Changer complètement de sujet"
           ],
           "correct": 0
         },
         {
           "id": "B2-04-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « réfutation » ?",
+          "arabic": "أي عنصر من المثال يوضح « réfutation »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « réfutation »؟",
           "options": [
-            "Cette objection est recevable, mais elle ne répond pas au problème central.",
-            "Une thèse convaincante repose sur des arguments et des exemples vérifiables.",
-            "Il est essentiel que chaque participant puisse s'exprimer."
+            "réfutation",
+            "Réfuter un argument",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-04-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Cette",
-            "Le",
-            "La"
+            "Cette objection est recevable, mais elle ne répond pas au problème central.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-04-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Cette objection est recevable, mais elle ne répond pas au problème central.",
-            "La nominalisation",
-            "Je défends cette proposition tout en reconnaissant ses limites."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -12746,49 +12746,49 @@
       "quiz": [
         {
           "id": "B2-05-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Pourquoi dire « Il serait excessif » ?",
+          "arabic": "لماذا نقول « Il serait excessif »؟",
+          "darija": "علاش كنقولو « Il serait excessif »؟",
           "options": [
-            "Nuancer une affirmation",
-            "La nominalisation",
-            "Commenter un texte narratif"
+            "Pour éviter une affirmation trop générale",
+            "Pour donner une certitude absolue",
+            "Pour raconter un événement"
           ],
           "correct": 0
         },
         {
           "id": "B2-05-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « nuance » ?",
+          "arabic": "أي عنصر من المثال يوضح « nuance »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « nuance »؟",
           "options": [
-            "Il serait excessif d'affirmer que cette solution convient à tous.",
-            "Les deux articles citent des populations et des périodes différentes.",
-            "Nous aurions terminé plus tôt si le matériel avait été disponible."
+            "nuance",
+            "Nuancer une affirmation",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-05-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "serait",
-            "Les",
-            "Elle"
+            "Il serait excessif d'affirmer que cette solution convient à tous.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-05-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Il serait excessif d'affirmer que cette solution convient à tous.",
-            "Rédiger une note de synthèse",
-            "Il est essentiel que chaque participant puisse s'exprimer."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -12850,49 +12850,49 @@
       "quiz": [
         {
           "id": "B2-06-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle idée soutient l'auteur ?",
+          "arabic": "ما الفكرة التي يدافع عنها الكاتب؟",
+          "darija": "شنو الفكرة اللي كيدافع عليها الكاتب؟",
           "options": [
-            "Analyser un article d'opinion",
-            "Rédiger une note de synthèse",
-            "Défendre un point de vue"
+            "La formation continue favorise la mobilité",
+            "La formation continue interdit la mobilité",
+            "La formation continue remplace tout emploi"
           ],
           "correct": 0
         },
         {
           "id": "B2-06-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « article d'opinion » ?",
+          "arabic": "أي عنصر من المثال يوضح « article d'opinion »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « article d'opinion »؟",
           "options": [
-            "L'auteur soutient que la formation continue favorise la mobilité.",
-            "Elle a déclaré qu'elle avait terminé son stage.",
-            "Si l'équipe avait été informée, elle aurait adapté son planning."
+            "article d'opinion",
+            "Analyser un article d'opinion",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-06-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "L'auteur",
-            "Les",
-            "La"
+            "L'auteur soutient que la formation continue favorise la mobilité.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-06-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "L'auteur soutient que la formation continue favorise la mobilité.",
-            "Négocier une solution",
-            "Veuillez trouver ci-joint le compte rendu de notre réunion."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -12954,49 +12954,49 @@
       "quiz": [
         {
           "id": "B2-07-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que signifie « laisse entendre » ?",
+          "arabic": "ماذا تعني « laisse entendre »؟",
+          "darija": "شنو كتعني « laisse entendre »؟",
           "options": [
-            "Identifier les implicites",
-            "Négocier une solution",
-            "Comparer des sources"
+            "Suggérer sans dire directement",
+            "Dire explicitement",
+            "Refuser de communiquer"
           ],
           "correct": 0
         },
         {
           "id": "B2-07-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « implicite » ?",
+          "arabic": "أي عنصر من المثال يوضح « implicite »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « implicite »؟",
           "options": [
-            "Le texte laisse entendre que les résultats varient selon les publics.",
-            "Nous pouvons ajuster les délais sans compromettre la qualité.",
-            "Toutefois, en revanche, par conséquent et néanmoins structurent le raisonnement."
+            "implicite",
+            "Identifier les implicites",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-07-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "texte",
-            "Il",
-            "Veuillez"
+            "Le texte laisse entendre que les résultats varient selon les publics.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-07-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Le texte laisse entendre que les résultats varient selon les publics.",
-            "Participer à un débat",
-            "L'exposé présente le contexte, les résultats et les recommandations."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13057,49 +13057,49 @@
       "quiz": [
         {
           "id": "B2-08-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quels éléments le reportage alterne-t-il ?",
+          "arabic": "ما العناصر التي يتناوب عليها التقرير؟",
+          "darija": "شنو العناصر اللي كيتناوب عليها التقرير؟",
           "options": [
-            "Analyser un reportage",
-            "Participer à un débat",
-            "Les connecteurs logiques"
+            "Témoignages et données chiffrées",
+            "Recettes et horaires",
+            "Titres et adresses"
           ],
           "correct": 0
         },
         {
           "id": "B2-08-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « reportage » ?",
+          "arabic": "أي عنصر من المثال يوضح « reportage »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « reportage »؟",
           "options": [
-            "Le reportage alterne témoignages et données chiffrées.",
-            "Je peux synthétiser plusieurs documents et défendre une position nuancée.",
-            "La formation à laquelle il participe débouche sur un certificat."
+            "reportage",
+            "Analyser un reportage",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-08-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "reportage",
-            "Nous",
-            "Le"
+            "Le reportage alterne témoignages et données chiffrées.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-08-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Le reportage alterne témoignages et données chiffrées.",
-            "Produire un essai argumentatif",
-            "L'introduction pose le problème ; le développement examine deux perspectives."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13161,49 +13161,49 @@
       "quiz": [
         {
           "id": "B2-09-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Pourquoi comparer deux sources ?",
+          "arabic": "لماذا نقارن مصدرين؟",
+          "darija": "علاش كنقارنو جوج مصادر؟",
           "options": [
-            "Comparer des sources",
-            "Produire un essai argumentatif",
-            "Rédiger un compte rendu"
+            "Pour tenir compte de leurs populations et périodes",
+            "Pour choisir automatiquement le texte le plus long",
+            "Pour supprimer les différences"
           ],
           "correct": 0
         },
         {
           "id": "B2-09-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « sources » ?",
+          "arabic": "أي عنصر من المثال يوضح « sources »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « sources »؟",
           "options": [
-            "Les deux articles citent des populations et des périodes différentes.",
-            "Le texte laisse entendre que les résultats varient selon les publics.",
-            "Elle a déclaré qu'elle avait terminé son stage."
+            "sources",
+            "Comparer des sources",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-09-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Les",
-            "Si",
-            "Les"
+            "Les deux articles citent des populations et des périodes différentes.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-09-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Les deux articles citent des populations et des périodes différentes.",
-            "Structurer un essai",
-            "Les documents convergent sur un point, mais divergent sur les causes."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13265,49 +13265,49 @@
       "quiz": [
         {
           "id": "B2-10-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que fait une synthèse documentaire ?",
+          "arabic": "ماذا تفعل الخلاصة الوثائقية؟",
+          "darija": "شنو كتدير الخلاصة الوثائقية؟",
           "options": [
-            "Faire une synthèse documentaire",
-            "Structurer un essai",
-            "Gérer un désaccord professionnel"
+            "Elle rapproche les convergences et les divergences",
+            "Elle recopie chaque document",
+            "Elle ignore les causes"
           ],
           "correct": 0
         },
         {
           "id": "B2-10-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « synthèse » ?",
+          "arabic": "أي عنصر من المثال يوضح « synthèse »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « synthèse »؟",
           "options": [
-            "Les documents convergent sur un point, mais divergent sur les causes.",
-            "La formation à laquelle il participe débouche sur un certificat.",
-            "La mise en œuvre du projet exige une coordination régulière."
+            "synthèse",
+            "Faire une synthèse documentaire",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-10-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Les",
-            "Toutefois",
-            "Le"
+            "Les documents convergent sur un point, mais divergent sur les causes.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-10-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Les documents convergent sur un point, mais divergent sur les causes.",
-            "Nuancer une affirmation",
-            "La mise en œuvre du projet exige une coordination régulière."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13368,49 +13368,49 @@
       "quiz": [
         {
           "id": "B2-11-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel verbe complète « Il est essentiel que chaque participant... » ?",
+          "arabic": "أي فعل يكمل الجملة؟",
+          "darija": "شنو الفعل اللي كيكمل الجملة؟",
           "options": [
-            "Le subjonctif approfondi",
-            "Nuancer une affirmation",
-            "Produire un essai argumentatif"
+            "puisse s'exprimer",
+            "peut s'exprimer",
+            "pourra s'exprimer"
           ],
           "correct": 0
         },
         {
           "id": "B2-11-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « subjonctif » ?",
+          "arabic": "أي عنصر من المثال يوضح « subjonctif »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « subjonctif »؟",
           "options": [
-            "Il est essentiel que chaque participant puisse s'exprimer.",
-            "Mon expérience illustre ma capacité à gérer les imprévus.",
-            "Veuillez trouver ci-joint le compte rendu de notre réunion."
+            "subjonctif",
+            "Le subjonctif approfondi",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-11-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "est",
-            "La",
-            "Mon"
+            "Il est essentiel que chaque participant puisse s'exprimer.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-11-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Il est essentiel que chaque participant puisse s'exprimer.",
-            "Analyser un reportage",
-            "Je comprends votre objection ; examinons les options possibles."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13472,49 +13472,49 @@
       "quiz": [
         {
           "id": "B2-12-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que signifie « Nous aurions terminé » ?",
+          "arabic": "ماذا تعني « Nous aurions terminé »؟",
+          "darija": "شنو كتعني « Nous aurions terminé »؟",
           "options": [
-            "Le conditionnel passé",
-            "Analyser un reportage",
-            "Réfuter un argument"
+            "Une action passée soumise à une condition",
+            "Une action certaine au futur",
+            "Une habitude passée"
           ],
           "correct": 0
         },
         {
           "id": "B2-12-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « conditionnel passé » ?",
+          "arabic": "أي عنصر من المثال يوضح « conditionnel passé »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « conditionnel passé »؟",
           "options": [
-            "Nous aurions terminé plus tôt si le matériel avait été disponible.",
-            "Cette politique comporte des avantages, mais aussi des contraintes.",
-            "Le rapport présente les décisions, les responsables et les échéances."
+            "conditionnel passé",
+            "Le conditionnel passé",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-12-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Nous",
-            "Elle",
-            "Nous"
+            "Nous aurions terminé plus tôt si le matériel avait été disponible.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-12-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Nous aurions terminé plus tôt si le matériel avait été disponible.",
-            "Le subjonctif approfondi",
-            "Une thèse convaincante repose sur des arguments et des exemples vérifiables."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13576,49 +13576,49 @@
       "quiz": [
         {
           "id": "B2-13-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle condition aurait permis d'adapter le planning ?",
+          "arabic": "ما الشرط الذي كان سيسمح بتعديل الجدول؟",
+          "darija": "شنو الشرط اللي كان غادي يسمح نعدلو البرنامج؟",
           "options": [
-            "Les hypothèses complexes",
-            "Le subjonctif approfondi",
-            "Comparer des sources"
+            "Si l'équipe avait été informée",
+            "Si l'équipe informe demain",
+            "Si l'équipe est toujours absente"
           ],
           "correct": 0
         },
         {
           "id": "B2-13-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « hypothèse » ?",
+          "arabic": "أي عنصر من المثال يوضح « hypothèse »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « hypothèse »؟",
           "options": [
-            "Si l'équipe avait été informée, elle aurait adapté son planning.",
-            "L'auteur soutient que la formation continue favorise la mobilité.",
-            "Les sources mettent en évidence trois difficultés communes."
+            "hypothèse",
+            "Les hypothèses complexes",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-13-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "l'équipe",
-            "La",
-            "Je"
+            "Si l'équipe avait été informée, elle aurait adapté son planning.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-13-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Si l'équipe avait été informée, elle aurait adapté son planning.",
-            "Les propositions relatives complexes",
-            "Le reportage alterne témoignages et données chiffrées."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13680,49 +13680,49 @@
       "quiz": [
         {
           "id": "B2-14-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel connecteur marque une opposition ?",
+          "arabic": "أي رابط يدل على المعارضة؟",
+          "darija": "شنو الرابط اللي كيدل على المعارضة؟",
           "options": [
-            "Les connecteurs logiques",
-            "Les propositions relatives complexes",
-            "Les propositions relatives complexes"
+            "Toutefois",
+            "Par conséquent",
+            "En outre"
           ],
           "correct": 0
         },
         {
           "id": "B2-14-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « connecteurs » ?",
+          "arabic": "أي عنصر من المثال يوضح « connecteurs »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « connecteurs »؟",
           "options": [
-            "Toutefois, en revanche, par conséquent et néanmoins structurent le raisonnement.",
-            "Si l'équipe avait été informée, elle aurait adapté son planning.",
-            "Le projet prévoit un calendrier, un budget et des indicateurs."
+            "connecteurs",
+            "Les connecteurs logiques",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-14-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Toutefois",
-            "Veuillez",
-            "L'exposé"
+            "Toutefois, en revanche, par conséquent et néanmoins structurent le raisonnement.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-14-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Toutefois, en revanche, par conséquent et néanmoins structurent le raisonnement.",
-            "Le registre formel",
-            "Elle a déclaré qu'elle avait terminé son stage."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13783,49 +13783,49 @@
       "quiz": [
         {
           "id": "B2-15-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que remplace « à laquelle » dans l'exemple ?",
+          "arabic": "ما الذي تشير إليه « à laquelle »؟",
+          "darija": "شنو كتعود عليه « à laquelle » فالمثال؟",
           "options": [
-            "Les propositions relatives complexes",
-            "Le registre formel",
-            "Rédiger une note de synthèse"
+            "La formation",
+            "Le certificat",
+            "Le participant"
           ],
           "correct": 0
         },
         {
           "id": "B2-15-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « relative » ?",
+          "arabic": "أي عنصر من المثال يوضح « relative »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « relative »؟",
           "options": [
-            "La formation à laquelle il participe débouche sur un certificat.",
-            "Le projet prévoit un calendrier, un budget et des indicateurs.",
-            "Mon expérience illustre ma capacité à gérer les imprévus."
+            "relative",
+            "Les propositions relatives complexes",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-15-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "formation",
-            "Le",
-            "Une"
+            "La formation à laquelle il participe débouche sur un certificat.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-15-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "La formation à laquelle il participe débouche sur un certificat.",
-            "Présenter un projet professionnel",
-            "Nous pouvons ajuster les délais sans compromettre la qualité."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13887,49 +13887,49 @@
       "quiz": [
         {
           "id": "B2-16-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel temps apparaît dans « avait terminé » ?",
+          "arabic": "ما الزمن الموجود في « avait terminé »؟",
+          "darija": "شنو الزمن فـ « avait terminé »؟",
           "options": [
-            "Le discours indirect au passé",
-            "Présenter un projet professionnel",
-            "Présenter un exposé structuré"
+            "Le plus-que-parfait",
+            "Le passé composé",
+            "Le futur simple"
           ],
           "correct": 0
         },
         {
           "id": "B2-16-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « discours indirect » ?",
+          "arabic": "أي عنصر من المثال يوضح « discours indirect »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « discours indirect »؟",
           "options": [
-            "Elle a déclaré qu'elle avait terminé son stage.",
-            "Le passage met en scène un personnage face à un choix difficile.",
-            "Nous pouvons ajuster les délais sans compromettre la qualité."
+            "discours indirect",
+            "Le discours indirect au passé",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-16-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Elle",
-            "Les",
-            "Le"
+            "Elle a déclaré qu'elle avait terminé son stage.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-16-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Elle a déclaré qu'elle avait terminé son stage.",
-            "Gérer un désaccord professionnel",
-            "Je peux synthétiser plusieurs documents et défendre une position nuancée."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -13991,49 +13991,49 @@
       "quiz": [
         {
           "id": "B2-17-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle forme nominale apparaît dans « La mise en œuvre » ?",
+          "arabic": "ما الصيغة الاسمية الموجودة؟",
+          "darija": "شنو الصيغة الاسمية اللي كاينة؟",
           "options": [
-            "La nominalisation",
-            "Gérer un désaccord professionnel",
-            "Bilan B2"
+            "mise en œuvre",
+            "mettre",
+            "met"
           ],
           "correct": 0
         },
         {
           "id": "B2-17-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « nominalisation » ?",
+          "arabic": "أي عنصر من المثال يوضح « nominalisation »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « nominalisation »؟",
           "options": [
-            "La mise en œuvre du projet exige une coordination régulière.",
-            "Il serait excessif d'affirmer que cette solution convient à tous.",
-            "Je comprends votre objection ; examinons les options possibles."
+            "nominalisation",
+            "La nominalisation",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-17-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "mise",
-            "Le",
-            "Le"
+            "La mise en œuvre du projet exige une coordination régulière.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-17-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "La mise en œuvre du projet exige une coordination régulière.",
-            "Analyser une œuvre littéraire",
-            "Le texte laisse entendre que les résultats varient selon les publics."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14095,49 +14095,49 @@
       "quiz": [
         {
           "id": "B2-18-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle formule appartient au registre formel ?",
+          "arabic": "أي صيغة تنتمي إلى الأسلوب الرسمي؟",
+          "darija": "شنو الصيغة اللي كتنتمي للأسلوب الرسمي؟",
           "options": [
-            "Le registre formel",
-            "Analyser une œuvre littéraire",
-            "Nuancer une affirmation"
+            "Veuillez trouver ci-joint le compte rendu.",
+            "Donne-moi le compte rendu.",
+            "Voilà le papier."
           ],
           "correct": 0
         },
         {
           "id": "B2-18-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « registre » ?",
+          "arabic": "أي عنصر من المثال يوضح « registre »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « registre »؟",
           "options": [
-            "Veuillez trouver ci-joint le compte rendu de notre réunion.",
-            "Nous aurions terminé plus tôt si le matériel avait été disponible.",
-            "L'exposé présente le contexte, les résultats et les recommandations."
+            "registre",
+            "Le registre formel",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-18-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Veuillez",
-            "Mon",
-            "Cette"
+            "Veuillez trouver ci-joint le compte rendu de notre réunion.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-18-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Veuillez trouver ci-joint le compte rendu de notre réunion.",
-            "Bilan B2",
-            "Toutefois, en revanche, par conséquent et néanmoins structurent le raisonnement."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14198,49 +14198,49 @@
       "quiz": [
         {
           "id": "B2-19-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que présente un compte rendu professionnel ?",
+          "arabic": "ماذا يقدم التقرير؟",
+          "darija": "شنو كيقدم التقرير؟",
           "options": [
-            "Rédiger un compte rendu",
-            "Bilan B2",
-            "Faire une synthèse documentaire"
+            "Décisions, responsables et échéances",
+            "Uniquement des opinions personnelles",
+            "Une histoire sans faits"
           ],
           "correct": 0
         },
         {
           "id": "B2-19-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « compte rendu » ?",
+          "arabic": "أي عنصر من المثال يوضح « compte rendu »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « compte rendu »؟",
           "options": [
-            "Le rapport présente les décisions, les responsables et les échéances.",
-            "Les sources mettent en évidence trois difficultés communes.",
-            "Une opinion doit être distinguée d'un fait établi."
+            "compte rendu",
+            "Rédiger un compte rendu",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-19-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "rapport",
-            "Nous",
-            "Je"
+            "Le rapport présente les décisions, les responsables et les échéances.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-19-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Le rapport présente les décisions, les responsables et les échéances.",
-            "Défendre un point de vue",
-            "Mon expérience illustre ma capacité à gérer les imprévus."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14302,49 +14302,49 @@
       "quiz": [
         {
           "id": "B2-20-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que met en évidence la note de synthèse ?",
+          "arabic": "ماذا تبرز مذكرة التركيب؟",
+          "darija": "شنو كتبرز مذكرة التركيب؟",
           "options": [
-            "Rédiger une note de synthèse",
-            "Défendre un point de vue",
-            "Les propositions relatives complexes"
+            "Les difficultés communes aux sources",
+            "Un seul détail isolé",
+            "Des informations inventées"
           ],
           "correct": 0
         },
         {
           "id": "B2-20-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « note de synthèse » ?",
+          "arabic": "أي عنصر من المثال يوضح « note de synthèse »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « note de synthèse »؟",
           "options": [
-            "Les sources mettent en évidence trois difficultés communes.",
-            "Le narrateur décrit un conflit entre devoir et liberté.",
-            "Le narrateur décrit un conflit entre devoir et liberté."
+            "note de synthèse",
+            "Rédiger une note de synthèse",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-20-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Les",
-            "Je",
-            "Une"
+            "Les sources mettent en évidence trois difficultés communes.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-20-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Les sources mettent en évidence trois difficultés communes.",
-            "Analyser un article d'opinion",
-            "Cette politique comporte des avantages, mais aussi des contraintes."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14405,49 +14405,49 @@
       "quiz": [
         {
           "id": "B2-21-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quels éléments sont prévus dans le projet ?",
+          "arabic": "ما العناصر المتوقعة في المشروع؟",
+          "darija": "شنو العناصر اللي داخلين فالمشروع؟",
           "options": [
-            "Présenter un projet professionnel",
-            "Analyser un article d'opinion",
-            "Rédiger une note de synthèse"
+            "Un calendrier, un budget et des indicateurs",
+            "Une recette, une adresse et un prix",
+            "Un titre sans échéance"
           ],
           "correct": 0
         },
         {
           "id": "B2-21-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « projet » ?",
+          "arabic": "أي عنصر من المثال يوضح « projet »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « projet »؟",
           "options": [
-            "Le projet prévoit un calendrier, un budget et des indicateurs.",
-            "Cette objection est recevable, mais elle ne répond pas au problème central.",
-            "Le passage met en scène un personnage face à un choix difficile."
+            "projet",
+            "Présenter un projet professionnel",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-21-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "projet",
-            "L'exposé",
-            "L'introduction"
+            "Le projet prévoit un calendrier, un budget et des indicateurs.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-21-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Le projet prévoit un calendrier, un budget et des indicateurs.",
-            "Comparer des sources",
-            "L'auteur soutient que la formation continue favorise la mobilité."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14508,49 +14508,49 @@
       "quiz": [
         {
           "id": "B2-22-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que montre l'expérience dans l'exemple ?",
+          "arabic": "ماذا تظهر التجربة في المثال؟",
+          "darija": "شنو كتبين التجربة فالمثال؟",
           "options": [
-            "Argumenter en entretien",
-            "Comparer des sources",
-            "Participer à un débat"
+            "La capacité à gérer les imprévus",
+            "Une préférence personnelle",
+            "Une compétence sans expérience"
           ],
           "correct": 0
         },
         {
           "id": "B2-22-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « entretien » ?",
+          "arabic": "أي عنصر من المثال يوضح « entretien »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « entretien »؟",
           "options": [
-            "Mon expérience illustre ma capacité à gérer les imprévus.",
-            "Il est essentiel que chaque participant puisse s'exprimer.",
-            "Cette politique comporte des avantages, mais aussi des contraintes."
+            "entretien",
+            "Argumenter en entretien",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-22-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Mon",
-            "Une",
-            "Je"
+            "Mon expérience illustre ma capacité à gérer les imprévus.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-22-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Mon expérience illustre ma capacité à gérer les imprévus.",
-            "Le conditionnel passé",
-            "Si l'équipe avait été informée, elle aurait adapté son planning."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14612,49 +14612,49 @@
       "quiz": [
         {
           "id": "B2-23-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que peut-on ajuster sans compromettre la qualité ?",
+          "arabic": "ماذا يمكن تعديله دون الإضرار بالجودة؟",
+          "darija": "شنو نقدروا نعدلو بلا ما نضرو بالجودة؟",
           "options": [
-            "Négocier une solution",
-            "Le conditionnel passé",
-            "Construire une argumentation"
+            "Les délais",
+            "Les résultats déjà obtenus",
+            "La définition du problème uniquement"
           ],
           "correct": 0
         },
         {
           "id": "B2-23-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « négociation » ?",
+          "arabic": "أي عنصر من المثال يوضح « négociation »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « négociation »؟",
           "options": [
-            "Nous pouvons ajuster les délais sans compromettre la qualité.",
-            "Veuillez trouver ci-joint le compte rendu de notre réunion.",
-            "Je peux synthétiser plusieurs documents et défendre une position nuancée."
+            "négociation",
+            "Négocier une solution",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-23-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Nous",
-            "Le",
-            "Cette"
+            "Nous pouvons ajuster les délais sans compromettre la qualité.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-23-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Nous pouvons ajuster les délais sans compromettre la qualité.",
-            "Les propositions relatives complexes",
-            "Les sources mettent en évidence trois difficultés communes."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14716,49 +14716,49 @@
       "quiz": [
         {
           "id": "B2-24-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle attitude est proposée face à une objection ?",
+          "arabic": "ما الموقف المقترح أمام اعتراض؟",
+          "darija": "شنو الموقف المقترح قدام اعتراض؟",
           "options": [
-            "Gérer un désaccord professionnel",
-            "Les propositions relatives complexes",
-            "Analyser un article d'opinion"
+            "Examiner les options possibles",
+            "Refuser immédiatement",
+            "Ignorer l'objection"
           ],
           "correct": 0
         },
         {
           "id": "B2-24-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « désaccord » ?",
+          "arabic": "أي عنصر من المثال يوضح « désaccord »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « désaccord »؟",
           "options": [
-            "Je comprends votre objection ; examinons les options possibles.",
-            "Une opinion doit être distinguée d'un fait établi.",
-            "Une thèse convaincante repose sur des arguments et des exemples vérifiables."
+            "désaccord",
+            "Gérer un désaccord professionnel",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-24-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "comprends",
-            "Le",
-            "Il"
+            "Je comprends votre objection ; examinons les options possibles.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-24-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Je comprends votre objection ; examinons les options possibles.",
-            "Le registre formel",
-            "Le passage met en scène un personnage face à un choix difficile."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14819,49 +14819,49 @@
       "quiz": [
         {
           "id": "B2-25-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quels éléments l'exposé présente-t-il ?",
+          "arabic": "ما العناصر التي يقدمها العرض؟",
+          "darija": "شنو العناصر اللي كيقدمها العرض؟",
           "options": [
-            "Présenter un exposé structuré",
-            "Le registre formel",
-            "Le subjonctif approfondi"
+            "Contexte, résultats et recommandations",
+            "Seulement une conclusion",
+            "Une liste sans structure"
           ],
           "correct": 0
         },
         {
           "id": "B2-25-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « exposé » ?",
+          "arabic": "أي عنصر من المثال يوضح « exposé »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « exposé »؟",
           "options": [
-            "L'exposé présente le contexte, les résultats et les recommandations.",
-            "Je défends cette proposition tout en reconnaissant ses limites.",
-            "L'introduction pose le problème ; le développement examine deux perspectives."
+            "exposé",
+            "Présenter un exposé structuré",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-25-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "L'exposé",
-            "Cette",
-            "L'auteur"
+            "L'exposé présente le contexte, les résultats et les recommandations.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-25-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "L'exposé présente le contexte, les résultats et les recommandations.",
-            "Présenter un projet professionnel",
-            "Il serait excessif d'affirmer que cette solution convient à tous."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -14923,49 +14923,49 @@
       "quiz": [
         {
           "id": "B2-26-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quelle distinction est importante dans un débat ?",
+          "arabic": "ما التمييز المهم في النقاش؟",
+          "darija": "شنو التمييز المهم فالنقاش؟",
           "options": [
-            "Participer à un débat",
-            "Présenter un projet professionnel",
-            "Le discours indirect au passé"
+            "Une opinion et un fait établi",
+            "Un titre et une adresse",
+            "Un passé et une couleur"
           ],
           "correct": 0
         },
         {
           "id": "B2-26-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « débat » ?",
+          "arabic": "أي عنصر من المثال يوضح « débat »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « débat »؟",
           "options": [
-            "Une opinion doit être distinguée d'un fait établi.",
-            "Les documents convergent sur un point, mais divergent sur les causes.",
-            "Je défends cette proposition tout en reconnaissant ses limites."
+            "débat",
+            "Participer à un débat",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-26-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Une",
-            "Je",
-            "Le"
+            "Une opinion doit être distinguée d'un fait établi.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-26-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Une opinion doit être distinguée d'un fait établi.",
-            "Gérer un désaccord professionnel",
-            "Nous aurions terminé plus tôt si le matériel avait été disponible."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -15027,49 +15027,49 @@
       "quiz": [
         {
           "id": "B2-27-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Quel conflit le narrateur décrit-il ?",
+          "arabic": "أي صراع يصفه الراوي؟",
+          "darija": "شنو الصراع اللي كيصفو الراوي؟",
           "options": [
-            "Analyser une œuvre littéraire",
-            "Gérer un désaccord professionnel",
-            "Présenter un projet professionnel"
+            "Devoir et liberté",
+            "Travail et météo",
+            "Ville et prix"
           ],
           "correct": 0
         },
         {
           "id": "B2-27-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « littérature » ?",
+          "arabic": "أي عنصر من المثال يوضح « littérature »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « littérature »؟",
           "options": [
-            "Le narrateur décrit un conflit entre devoir et liberté.",
-            "La mise en œuvre du projet exige une coordination régulière.",
-            "Cette objection est recevable, mais elle ne répond pas au problème central."
+            "littérature",
+            "Analyser une œuvre littéraire",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-27-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "narrateur",
-            "Une",
-            "Le"
+            "Le narrateur décrit un conflit entre devoir et liberté.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-27-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Le narrateur décrit un conflit entre devoir et liberté.",
-            "Commenter un texte narratif",
-            "Le rapport présente les décisions, les responsables et les échéances."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -15131,49 +15131,49 @@
       "quiz": [
         {
           "id": "B2-28-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que met en scène le passage ?",
+          "arabic": "ماذا يعرض المقطع؟",
+          "darija": "شنو كيعرض المقطع؟",
           "options": [
-            "Commenter un texte narratif",
-            "Analyser une œuvre littéraire",
-            "Participer à un débat"
+            "Un personnage face à un choix difficile",
+            "Une recette détaillée",
+            "Une statistique isolée"
           ],
           "correct": 0
         },
         {
           "id": "B2-28-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « texte narratif » ?",
+          "arabic": "أي عنصر من المثال يوضح « texte narratif »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « texte narratif »؟",
           "options": [
-            "Le passage met en scène un personnage face à un choix difficile.",
-            "Je comprends votre objection ; examinons les options possibles.",
-            "Il serait excessif d'affirmer que cette solution convient à tous."
+            "texte narratif",
+            "Commenter un texte narratif",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-28-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "passage",
-            "L'introduction",
-            "Les"
+            "Le passage met en scène un personnage face à un choix difficile.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-28-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Le passage met en scène un personnage face à un choix difficile.",
-            "Construire une argumentation",
-            "Une opinion doit être distinguée d'un fait établi."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -15235,49 +15235,49 @@
       "quiz": [
         {
           "id": "B2-29-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que reconnaît l'exemple à côté des avantages ?",
+          "arabic": "ماذا يعترف المثال إلى جانب المزايا؟",
+          "darija": "شنو كيعترف به المثال إلى جانب المزايا؟",
           "options": [
-            "Produire un essai argumentatif",
-            "Construire une argumentation",
-            "Structurer un essai"
+            "Des contraintes",
+            "Une certitude absolue",
+            "Une définition"
           ],
           "correct": 0
         },
         {
           "id": "B2-29-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « essai argumentatif » ?",
+          "arabic": "أي عنصر من المثال يوضح « essai argumentatif »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « essai argumentatif »؟",
           "options": [
-            "Cette politique comporte des avantages, mais aussi des contraintes.",
-            "L'introduction pose le problème ; le développement examine deux perspectives.",
-            "L'auteur soutient que la formation continue favorise la mobilité."
+            "essai argumentatif",
+            "Produire un essai argumentatif",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-29-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "Cette",
-            "Je",
-            "Les"
+            "Cette politique comporte des avantages, mais aussi des contraintes.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-29-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Cette politique comporte des avantages, mais aussi des contraintes.",
-            "Réfuter un argument",
-            "Cette objection est recevable, mais elle ne répond pas au problème central."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -15339,49 +15339,49 @@
       "quiz": [
         {
           "id": "B2-30-Q1",
-          "question": "Quel est le thème principal de cette leçon ?",
-          "arabic": "ما الموضوع الرئيسي في هذا الدرس؟",
-          "darija": "شنو هو الموضوع الرئيسي ديال هاد الدرس؟",
+          "question": "Que permet le bilan B2 ?",
+          "arabic": "ماذا تتيح حصيلة B2؟",
+          "darija": "شنو كتخلي حصيلة B2 المتعلم يدير؟",
           "options": [
-            "Bilan B2",
-            "Réfuter un argument",
-            "Identifier les implicites"
+            "Synthétiser plusieurs documents et défendre une position nuancée",
+            "Épeler son prénom seulement",
+            "Commander au café"
           ],
           "correct": 0
         },
         {
           "id": "B2-30-Q2",
-          "question": "Quelle phrase correspond à l'exemple de la leçon ?",
-          "arabic": "أي جملة تطابق مثال الدرس؟",
-          "darija": "شنو هي الجملة اللي كتوافق مثال الدرس؟",
+          "question": "Quel élément de l'exemple illustre « bilan » ?",
+          "arabic": "أي عنصر من المثال يوضح « bilan »؟",
+          "darija": "شنو العنصر فالمثال اللي كيوضح « bilan »؟",
           "options": [
-            "Je peux synthétiser plusieurs documents et défendre une position nuancée.",
-            "Les deux articles citent des populations et des périodes différentes.",
-            "Le texte laisse entendre que les résultats varient selon les publics."
+            "bilan",
+            "Bilan B2",
+            "une information sans rapport"
           ],
           "correct": 0
         },
         {
           "id": "B2-30-Q3",
-          "question": "Quel élément apparaît dans l'exemple de la leçon ?",
-          "arabic": "أي عنصر يظهر في مثال الدرس؟",
-          "darija": "شنو العنصر اللي كيبان فمثال الدرس؟",
+          "question": "Quelle formulation correspond au niveau de la leçon ?",
+          "arabic": "أي صياغة تناسب مستوى الدرس؟",
+          "darija": "شنو الصياغة اللي كتناسِب مستوى الدرس؟",
           "options": [
-            "peux",
-            "Cette",
-            "Il"
+            "Je peux synthétiser plusieurs documents et défendre une position nuancée.",
+            "Je change de sujet sans argument.",
+            "Je réponds sans tenir compte du texte."
           ],
           "correct": 0
         },
         {
           "id": "B2-30-Q4",
-          "question": "Quelle proposition est cohérente avec cette leçon ?",
-          "arabic": "أي اقتراح ينسجم مع هذا الدرس؟",
-          "darija": "شنو الاقتراح اللي كيناسب هاد الدرس؟",
+          "question": "Quelle pratique est cohérente avec cette compétence ?",
+          "arabic": "أي ممارسة تنسجم مع هذه المهارة؟",
+          "darija": "شنو الممارسة اللي كتناسب هاد المهارة؟",
           "options": [
             "Je peux synthétiser plusieurs documents et défendre une position nuancée.",
-            "Identifier les implicites",
-            "Il est essentiel que chaque participant puisse s'exprimer."
+            "Recopier sans comprendre.",
+            "Ignorer les nuances du texte."
           ],
           "correct": 0
         }
@@ -21498,5 +21498,5 @@
       ]
     }
   ],
-  "enrichment": "Quiz B1 réécrits avec questions pédagogiques contextualisées ; A0-A2 conservés ; 840 questions au total ; validation pédagogique toujours conseillée."
+  "enrichment": "Quiz B2 réécrits avec questions pédagogiques contextualisées ; A0-B1 conservés ; 840 questions au total ; validation pédagogique toujours conseillée."
 }
