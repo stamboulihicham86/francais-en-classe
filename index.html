@@ -61,14 +61,61 @@ function render(){
 }
 function openLesson(id){
  const x=data.find(y=>y.id===id);if(!x)return;
- $("detail").innerHTML="<button class='secondary' onclick='closeLesson()'>← Retour aux leçons</button><p class='tag'>"+x.level+" · Leçon "+x.number+" / 30</p><h2>"+esc(x.title)+"</h2><p><strong>Objectif :</strong> "+esc(x.objective)+"</p><div class='box'><strong>Exemple à étudier</strong><p id='exampleText'>"+esc(x.example)+"</p><div class='tools'><button class='action' onclick='ecouterExemple()'>🔊 Écouter l'exemple</button><button class='secondary' onclick='marquerTravail("+JSON.stringify(x.id)+")'>✓ Marquer comme travaillé</button></div><p id='doneState' class='done'></p></div>"+(x.level==='A0'&&x.number<=8?"<div class='box'><h3>Atelier de lecture</h3><p>Appuie sur une lettre ou une syllabe pour l'écouter.</p><div class='tools' id='atelier'></div></div>":"")<h3>1. Découverte</h3><p>"+esc(x.discovery)+"</p><h3>2. Activité guidée</h3><p>"+esc(x.practice)+"</p><h3>3. Production</h3><p>"+esc(x.production)+"</p><h3>4. Évaluation</h3><p>"+esc(x.evaluation)+"</p><h3>Déroulement</h3><ol>"+(x.lessonPlan||[]).map(p=>"<li><strong>"+esc(p.stage)+" ("+p.duration+" min)</strong> : "+esc(p.instruction)+"</li>").join("")+"</ol><h3>Exercice individuel</h3><p>"+esc(x.exercise?.instruction)+"</p><p><strong>Modèle :</strong> "+esc(x.exercise?.model)+"</p><div class='box'>"+esc(x.exercise?.correction)+"</div>"+(x.vocabulary?.length?"<h3>Vocabulaire</h3><p>"+x.vocabulary.map(esc).join(" · ")+"</p>":"")+"<p><a class='action' href='quiz.html?level="+encodeURIComponent(x.level)+"&lecon="+x.number+"'>Faire le quiz de cette leçon</a></p><p class='small'>"+esc(x.status)+"</p>";
- if(x.level==='A0'&&x.number<=8) construireAtelier(x);afficherEtat(x.id);$("detail").classList.remove("hidden");$("detail").scrollIntoView({behavior:"smooth"});
+ $("detail").innerHTML="<button class='secondary' onclick='closeLesson()'>← Retour aux leçons</button><p class='tag'>"+x.level+" · Leçon "+x.number+" / 30</p><h2>"+esc(x.title)+"</h2><p><strong>Objectif :</strong> "+esc(x.objective)+"</p><div class='box'><strong>Exemple à étudier</strong><p id='exampleText'>"+esc(x.example)+"</p><div class='tools'><button class='action' onclick='ecouterExemple()'>🔊 Écouter l'exemple</button><button class='secondary' onclick='marquerTravail("+JSON.stringify(x.id)+")'>✓ Marquer comme travaillé</button></div><p id='doneState' class='done'></p></div>"+(x.level==='A0'&&x.number<=8?"<div class='box'><h3>Atelier de lecture</h3><p>Appuie sur une lettre ou une syllabe pour l'écouter.</p><div class='tools' id='atelier'></div></div>":"")<div id='activiteA0' class='box'></div><h3>1. Découverte</h3><p>"+esc(x.discovery)+"</p><h3>2. Activité guidée</h3><p>"+esc(x.practice)+"</p><h3>3. Production</h3><p>"+esc(x.production)+"</p><h3>4. Évaluation</h3><p>"+esc(x.evaluation)+"</p><h3>Déroulement</h3><ol>"+(x.lessonPlan||[]).map(p=>"<li><strong>"+esc(p.stage)+" ("+p.duration+" min)</strong> : "+esc(p.instruction)+"</li>").join("")+"</ol><h3>Exercice individuel</h3><p>"+esc(x.exercise?.instruction)+"</p><p><strong>Modèle :</strong> "+esc(x.exercise?.model)+"</p><div class='box'>"+esc(x.exercise?.correction)+"</div>"+(x.vocabulary?.length?"<h3>Vocabulaire</h3><p>"+x.vocabulary.map(esc).join(" · ")+"</p>":"")+"<p><a class='action' href='quiz.html?level="+encodeURIComponent(x.level)+"&lecon="+x.number+"'>Faire le quiz de cette leçon</a></p><p class='small'>"+esc(x.status)+"</p>";
+ if(x.level==='A0'&&x.number<=8) construireAtelier(x);if(x.level==='A0')activiteA0(x);afficherEtat(x.id);$("detail").classList.remove("hidden");$("detail").scrollIntoView({behavior:"smooth"});
 }
 function ecouterTexte(t){if(!('speechSynthesis' in window)){alert('La lecture audio n’est pas disponible sur cet appareil.');return}window.speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='fr-FR';u.rate=.82;window.speechSynthesis.speak(u)}
 function ecouterExemple(){const e=$("exampleText");if(e)ecouterTexte(e.textContent)}
 function construireAtelier(x){const a=$("atelier");if(!a)return;let items=[];if(x.number===1||x.number===3||x.number===4)items='ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');else if(x.number===5||x.number===6||x.number===7)items=['ma','mi','mo','la','li','lo','pa','pi','po','ta','ti','to'];else items=['moto','papa','ami','lama'];a.innerHTML=items.map(v=>'<button class="letter" onclick="ecouterTexte('+JSON.stringify(v)+')">'+esc(v)+'</button>').join('')}
 function marquerTravail(id){localStorage.setItem('francais-travaille-'+id,'1');afficherEtat(id)}
 function afficherEtat(id){const e=$("doneState");if(e)e.textContent=localStorage.getItem('francais-travaille-'+id)?'✓ Cette leçon est marquée comme travaillée sur cet appareil.':''}
+function activiteA0(x){
+ const box=$("activiteA0"); if(!box)return;
+ const n=x.number;
+ const tasks={
+ 1:["Clique sur « A » puis sur « a ».","A"],
+ 2:["Écris une voyelle française.","a"],
+ 3:["Quelle est la minuscule de M ?","m"],
+ 4:["Écris ton prénom ou épelle « Amine ».","Amine"],
+ 5:["Lis puis écris une syllabe : ma.","ma"],
+ 6:["Écris une syllabe avec m ou l.","ma"],
+ 7:["Écris une syllabe avec p ou t.","pa"],
+ 8:["Écris un mot simple : papa.","papa"],
+ 9:["Écris une formule pour saluer.","Bonjour"],
+ 10:["Complète : Je m'appelle …","Amine"],
+ 11:["Complète : J'ai … ans.","20"],
+ 12:["Écris une nationalité : marocain ou marocaine.","marocain"],
+ 13:["Complète : J'habite à …","Casablanca"],
+ 14:["Écris un nombre de 0 à 20.","5"],
+ 15:["Écris un jour de la semaine.","lundi"],
+ 16:["Écris un mois de l'année.","janvier"],
+ 17:["Écris une couleur.","rouge"],
+ 18:["Écris un objet de la classe.","cahier"],
+ 19:["Écris un membre de la famille.","mère"],
+ 20:["Écris une partie du corps.","main"],
+ 21:["Écris un aliment courant.","pain"],
+ 22:["Écris un vêtement.","chemise"],
+ 23:["Complète : Je … élève.","suis"],
+ 24:["Complète : J'… un cahier.","ai"],
+ 25:["Écris une phrase avec « je », « tu », « il » ou « elle ».","Je parle."],
+ 26:["Construis une phrase simple avec « Salma » et « livre ».","Salma lit un livre."],
+ 27:["Écris une question pour demander le prénom.","Comment tu t'appelles ?"],
+ 28:["Écris une courte présentation avec prénom et ville.","Je m'appelle Fatima. J'habite à Rabat."],
+ 29:["Écris trois phrases pour te présenter.","Bonjour ! Je m'appelle Amine. J'ai vingt ans. J'habite à Casablanca."],
+ 30:["Écris une phrase montrant ce que tu sais faire en français.","Je reconnais les lettres et je me présente."]
+ };
+ const t=tasks[n]||["Réutilise l'exemple de la leçon dans une phrase personnelle.",x.example||""];
+ box.innerHTML="<h3>Défi interactif</h3><p>"+esc(t[0])+"</p><input id='reponseA0' type='text' placeholder='Écris ta réponse…'><div class='tools'><button class='action' onclick='verifierA0("+JSON.stringify(t[1])+")'>Vérifier</button><button class='secondary' onclick='ecouterTexte("+JSON.stringify(t[1])+")'>🔊 Écouter le modèle</button></div><p id='retourA0' class='done'></p>";
+}
+function verifierA0(modele){
+ const v=$("reponseA0").value.trim().toLocaleLowerCase("fr");
+ const m=String(modele).toLocaleLowerCase("fr");
+ const r=$("retourA0");
+ if(!v){r.textContent="Écris d'abord une réponse.";return}
+ const mots=m.split(/\\s+/).filter(Boolean);
+ const ok=v===m || (mots.length===1 && v.includes(m));
+ r.textContent=ok?"✓ Bonne réponse.":"→ Compare ta réponse au modèle et essaie encore.";
+}
 function closeLesson(){$("detail").classList.add("hidden");window.scrollTo({top:$("list").offsetTop-20,behavior:"smooth"})}
 init();
 </script>
