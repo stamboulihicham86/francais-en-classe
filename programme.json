@@ -8,11 +8,11 @@
       "level": "A0",
       "number": 1,
       "title": "L'alphabet français",
-      "objective": "Reconnaître les 26 lettres et associer les majuscules aux minuscules.",
-      "discovery": "Observer A/a à Z/z ; repérer les lettres dans Amine, Salma et Fatima.",
-      "practice": "Associer cinq majuscules à leurs minuscules et entourer les lettres de son prénom.",
-      "production": "Écrire son prénom en majuscules puis en minuscules.",
-      "evaluation": "Identifier au moins 8 lettres proposées par le formateur.",
+      "objective": "Reconnaître les lettres de l'alphabet français et associer chaque majuscule à sa minuscule.",
+      "discovery": "Observe A/a, B/b, C/c, D/d et E/e. Repère ensuite les lettres que tu connais dans Amine, Salma et Fatima.",
+      "practice": "Associe A, M, S, T et P à leurs minuscules. Puis entoure dans ton prénom les lettres que tu reconnais.",
+      "production": "Écris ton prénom une fois en majuscules et une fois en minuscules, puis lis les lettres une à une.",
+      "evaluation": "Reconnaître au moins 8 lettres sur 10 et associer correctement au moins 4 majuscules à leurs minuscules.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -20,8 +20,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "A a, B b, C c, D d, E e.",
-      "vocabulary": [],
+      "example": "A/a, B/b, C/c, D/d, E/e.",
+      "vocabulary": [
+        "lettre",
+        "alphabet",
+        "majuscule",
+        "minuscule",
+        "prénom"
+      ],
       "lessonPlan": [
         {
           "stage": "Observer",
@@ -40,9 +46,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "A a, B b, C c, D d, E e.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Associe les paires suivantes : A/a, M/m, S/s, T/t, P/p. Puis écris ton prénom en majuscules et en minuscules.",
+        "model": "A/a, M/m, S/s, T/t, P/p.",
+        "correction": "Vérifier la correspondance majuscule/minuscule et la lisibilité du prénom."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -106,11 +112,11 @@
       "level": "A0",
       "number": 2,
       "title": "Les voyelles et les consonnes",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les voyelles et les consonnes dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les voyelles et les consonnes » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les voyelles et les consonnes », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les voyelles et les consonnes ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les voyelles et les consonnes » ; correction et retour du formateur.",
+      "objective": "Distinguer les voyelles et les consonnes dans des lettres et des mots très simples.",
+      "discovery": "Observe A, E, I, O, U et Y. Compare-les avec M, L, P et T.",
+      "practice": "Classe A, M, E, T, I, L, O et P dans deux colonnes : voyelles / consonnes. Puis repère les voyelles de ton prénom.",
+      "production": "Dis à voix haute cinq voyelles, puis donne une consonne et une voyelle de ton prénom.",
+      "evaluation": "Classer correctement au moins 7 lettres sur 8.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -120,9 +126,11 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "A, E, I, O, U et Y sont des voyelles écrites.",
       "vocabulary": [
-        "sont",
-        "voyelles",
-        "écrites"
+        "voyelle",
+        "consonne",
+        "lettre",
+        "son",
+        "prénom"
       ],
       "lessonPlan": [
         {
@@ -142,9 +150,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "A, E, I, O, U et Y sont des voyelles écrites.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Classe ces lettres : A, M, E, T, I, L, O, P. Lis ensuite les voyelles à voix haute.",
+        "model": "Voyelles : A, E, I, O. Consonnes : M, T, L, P.",
+        "correction": "Vérifier le classement et la lecture orale des voyelles."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -208,11 +216,11 @@
       "level": "A0",
       "number": 3,
       "title": "Les lettres majuscules et minuscules",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les lettres majuscules et minuscules dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les lettres majuscules et minuscules » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les lettres majuscules et minuscules », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les lettres majuscules et minuscules ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les lettres majuscules et minuscules » ; correction et retour du formateur.",
+      "objective": "Reconnaître et écrire des lettres en majuscules et en minuscules.",
+      "discovery": "Compare A/a, M/m et S/s. Observe la différence entre la grande lettre et la petite lettre.",
+      "practice": "Relie chaque majuscule à sa minuscule : B/b, D/d, F/f, M/m, S/s.",
+      "production": "Transforme cinq lettres majuscules en minuscules, puis cinq minuscules en majuscules.",
+      "evaluation": "Associer correctement au moins 8 paires sur 10.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -220,8 +228,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "A / a ; M / m ; S / s.",
-      "vocabulary": [],
+      "example": "A/a ; M/m ; S/s.",
+      "vocabulary": [
+        "majuscule",
+        "minuscule",
+        "grande lettre",
+        "petite lettre",
+        "écrire"
+      ],
       "lessonPlan": [
         {
           "stage": "Observer",
@@ -240,9 +254,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "A / a ; M / m ; S / s.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Relie B, D, F, M et S à b, d, f, m et s. Puis écris ton prénom avec une majuscule initiale.",
+        "model": "B/b ; D/d ; F/f ; M/m ; S/s.",
+        "correction": "Vérifier les correspondances et l'utilisation de la majuscule au début du prénom."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -306,11 +320,11 @@
       "level": "A0",
       "number": 4,
       "title": "Épeler son prénom",
-      "objective": "À l'issue de la leçon, l'apprenant pourra épeler son prénom dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Épeler son prénom » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Épeler son prénom », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Épeler son prénom ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Épeler son prénom » ; correction et retour du formateur.",
+      "objective": "Épeler son prénom en nommant les lettres dans le bon ordre.",
+      "discovery": "Observe A-M-I-N-E : Amine. Écoute chaque lettre puis répète l'épellation.",
+      "practice": "Épelle Amine, Salma et Yassine avec un camarade. Ton camarade vérifie l'ordre des lettres.",
+      "production": "Épelle ton propre prénom et demande à ton camarade de l'écrire.",
+      "evaluation": "Épeler correctement son prénom et au moins un autre prénom simple.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -320,8 +334,11 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "A-M-I-N-E : Amine.",
       "vocabulary": [
-        "A-M-I-N-E",
-        "Amine"
+        "épeler",
+        "lettre",
+        "prénom",
+        "s'écrire",
+        "comment"
       ],
       "lessonPlan": [
         {
@@ -341,9 +358,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
+        "instruction": "Épelle Amine, Salma et Yassine. Ensuite, épelle ton prénom lentement.",
         "model": "A-M-I-N-E : Amine.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "correction": "Vérifier l'ordre, la prononciation des noms de lettres et la correspondance avec le prénom écrit."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -407,11 +424,11 @@
       "level": "A0",
       "number": 5,
       "title": "Les sons simples",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les sons simples dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les sons simples » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les sons simples », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les sons simples ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les sons simples » ; correction et retour du formateur.",
+      "objective": "Lire des syllabes simples formées avec une consonne et une voyelle.",
+      "discovery": "Observe ma, mi, mo puis la, li, lo. Écoute la différence entre les syllabes.",
+      "practice": "Lis ma, mi, mo, la, li, lo. Associe chaque syllabe écrite à sa lecture.",
+      "production": "Lis six syllabes à voix haute et choisis deux syllabes pour former un mot connu.",
+      "evaluation": "Lire correctement au moins 5 syllabes sur 6.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -420,7 +437,15 @@
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "ma, mi, mo ; la, li, lo.",
-      "vocabulary": [],
+      "vocabulary": [
+        "syllabe",
+        "lire",
+        "son",
+        "ma",
+        "mi",
+        "la",
+        "li"
+      ],
       "lessonPlan": [
         {
           "stage": "Observer",
@@ -439,9 +464,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
+        "instruction": "Lis ma, mi, mo, la, li et lo. Puis écris les deux syllabes que tu préfères et relis-les.",
         "model": "ma, mi, mo ; la, li, lo.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "correction": "Vérifier la lecture de chaque syllabe et la correspondance entre les lettres et les sons travaillés."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -505,11 +530,11 @@
       "level": "A0",
       "number": 6,
       "title": "Lire des syllabes avec M et L",
-      "objective": "Lire des syllabes simples formées avec m, l et les voyelles.",
-      "discovery": "Observer ma, mi, mo, la, li, lo et écouter leur lecture par le formateur.",
-      "practice": "Associer les syllabes écrites aux syllabes prononcées.",
-      "production": "Lire à voix haute ma, mi, la, li, puis assembler des syllabes.",
-      "evaluation": "Lire correctement quatre syllabes sur six.",
+      "objective": "Lire des syllabes simples avec m et l et les voyelles a, e, i, o, u.",
+      "discovery": "Observe ma, me, mi, mo, mu puis la, le, li, lo, lu. Repère la consonne qui change.",
+      "practice": "Lis les séries m + voyelle et l + voyelle. Puis mélange les syllabes et lis-les dans un ordre différent.",
+      "production": "Lire au moins huit syllabes sans modèle, puis en choisir deux pour les dicter à un camarade.",
+      "evaluation": "Lire correctement au moins 8 syllabes sur 10.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -517,8 +542,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "pa, pi, po ; ta, ti, to.",
-      "vocabulary": [],
+      "example": "ma, me, mi, mo, mu ; la, le, li, lo, lu.",
+      "vocabulary": [
+        "syllabe",
+        "lire",
+        "m",
+        "l",
+        "voyelle"
+      ],
       "lessonPlan": [
         {
           "stage": "Observer",
@@ -537,9 +568,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "ma, mi, mo ; la, li, lo.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Lis ma-me-mi-mo-mu puis la-le-li-lo-lu. Mélange ensuite les syllabes et lis-les sans les réciter dans l'ordre.",
+        "model": "ma, me, mi, mo, mu ; la, le, li, lo, lu.",
+        "correction": "Vérifier que l'apprenant identifie rapidement la consonne et la voyelle et les prononce ensemble."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -550,49 +581,49 @@
       "quiz": [
         {
           "id": "A0-06-Q1",
-          "question": "Quelle syllabe commence par P ?",
-          "arabic": "أي مقطع يبدأ بحرف P؟",
-          "darija": "أشنو المقطع اللي كيبدا بـ P؟",
+          "question": "Quelle syllabe commence par M ?",
+          "arabic": "أي مقطع يبدأ بحرف M؟",
+          "darija": "شنو المقطع اللي كيبدا بحرف M؟",
           "options": [
-            "pa",
             "la",
-            "ma"
-          ],
-          "correct": 0
-        },
-        {
-          "id": "A0-06-Q2",
-          "question": "Quelle syllabe commence par T ?",
-          "arabic": "أي مقطع يبدأ بحرف T؟",
-          "darija": "أشنو المقطع اللي كيبدا بـ T؟",
-          "options": [
             "mi",
-            "to",
-            "li"
+            "to"
           ],
           "correct": 1
         },
         {
-          "id": "A0-06-Q3",
-          "question": "P + A donne…",
-          "arabic": "P و A يعطيان…",
-          "darija": "P و A كيعطيو…",
+          "id": "A0-06-Q2",
+          "question": "M + A donne…",
+          "arabic": "M مع A تعطينا…",
+          "darija": "M مع A كتعطي…",
           "options": [
-            "pa",
-            "pi",
-            "po"
+            "ma",
+            "me",
+            "mi"
           ],
           "correct": 0
         },
         {
-          "id": "A0-06-Q4",
-          "question": "T + O donne…",
-          "arabic": "T و O يعطيان…",
-          "darija": "T و O كيعطيو…",
+          "id": "A0-06-Q3",
+          "question": "L + I donne…",
+          "arabic": "L مع I تعطينا…",
+          "darija": "L مع I كتعطي…",
           "options": [
-            "ta",
-            "ti",
-            "to"
+            "la",
+            "li",
+            "lo"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-06-Q4",
+          "question": "Quelle syllabe se termine par O ?",
+          "arabic": "أي مقطع ينتهي بحرف O؟",
+          "darija": "شنو المقطع اللي كيسالي بـ O؟",
+          "options": [
+            "le",
+            "li",
+            "lo"
           ],
           "correct": 2
         }
@@ -603,11 +634,11 @@
       "level": "A0",
       "number": 7,
       "title": "Lire des syllabes avec P et T",
-      "objective": "À l'issue de la leçon, l'apprenant pourra lire des syllabes avec p et t dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Lire des syllabes avec P et T » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Lire des syllabes avec P et T », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Lire des syllabes avec P et T ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Lire des syllabes avec P et T » ; correction et retour du formateur.",
+      "objective": "Lire des syllabes simples avec p et t et les combiner pour lire des mots courts.",
+      "discovery": "Observe pa, pe, pi, po, pu puis ta, te, ti, to, tu.",
+      "practice": "Lis les deux séries. Puis repère pa dans papa et ta dans tomate.",
+      "production": "Lire dix syllabes puis assembler deux ou trois syllabes pour former un mot connu.",
+      "evaluation": "Lire correctement au moins 8 syllabes sur 10 et identifier deux syllabes dans un mot.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -615,8 +646,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "moto, papa, ami, lama.",
-      "vocabulary": [],
+      "example": "pa, pe, pi, po, pu ; ta, te, ti, to, tu.",
+      "vocabulary": [
+        "syllabe",
+        "p",
+        "t",
+        "mot",
+        "lire"
+      ],
       "lessonPlan": [
         {
           "stage": "Observer",
@@ -635,9 +672,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "pa, pi, po ; ta, ti, to.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Lis pa-pe-pi-po-pu et ta-te-ti-to-tu. Repère ensuite pa dans papa et to dans moto.",
+        "model": "pa, pe, pi, po, pu ; ta, te, ti, to, tu.",
+        "correction": "Vérifier la lecture et l'identification des syllabes dans les mots."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -648,49 +685,49 @@
       "quiz": [
         {
           "id": "A0-07-Q1",
-          "question": "Quel mot contient « mo » ?",
-          "arabic": "أي كلمة تحتوي على mo؟",
-          "darija": "أشنو الكلمة اللي فيها mo؟",
+          "question": "Quelle syllabe commence par P ?",
+          "arabic": "أي مقطع يبدأ بحرف P؟",
+          "darija": "شنو المقطع اللي كيبدا بحرف P؟",
           "options": [
-            "moto",
-            "papa",
-            "ami"
+            "ta",
+            "pi",
+            "li"
+          ],
+          "correct": 1
+        },
+        {
+          "id": "A0-07-Q2",
+          "question": "T + O donne…",
+          "arabic": "T مع O تعطينا…",
+          "darija": "T مع O كتعطي…",
+          "options": [
+            "ta",
+            "ti",
+            "to"
+          ],
+          "correct": 2
+        },
+        {
+          "id": "A0-07-Q3",
+          "question": "Quelle syllabe trouve-t-on dans papa ?",
+          "arabic": "أي مقطع نجده في كلمة papa؟",
+          "darija": "شنو المقطع اللي كاين فـ papa؟",
+          "options": [
+            "pa",
+            "to",
+            "li"
           ],
           "correct": 0
         },
         {
-          "id": "A0-07-Q2",
-          "question": "Quel mot contient « pa » ?",
-          "arabic": "أي كلمة تحتوي على pa؟",
-          "darija": "أشنو الكلمة اللي فيها pa؟",
-          "options": [
-            "lama",
-            "papa",
-            "moto"
-          ],
-          "correct": 1
-        },
-        {
-          "id": "A0-07-Q3",
-          "question": "Quel mot commence par « la » ?",
-          "arabic": "أي كلمة تبدأ بـ la؟",
-          "darija": "أشنو الكلمة اللي كتبدا بـ la؟",
-          "options": [
-            "ami",
-            "lama",
-            "papa"
-          ],
-          "correct": 1
-        },
-        {
           "id": "A0-07-Q4",
-          "question": "Quel mot contient deux syllabes ?",
-          "arabic": "أي كلمة فيها مقطعان؟",
-          "darija": "أشنو الكلمة اللي فيها جوج مقاطع؟",
+          "question": "Quelle syllabe trouve-t-on dans tomate ?",
+          "arabic": "أي مقطع نجده في كلمة tomate؟",
+          "darija": "شنو المقطع اللي كاين فـ tomate؟",
           "options": [
-            "ami",
-            "moto",
-            "les"
+            "ti",
+            "to",
+            "mi"
           ],
           "correct": 1
         }
@@ -701,11 +738,11 @@
       "level": "A0",
       "number": 8,
       "title": "Lire des mots simples",
-      "objective": "À l'issue de la leçon, l'apprenant pourra lire des mots simples dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Lire des mots simples » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Lire des mots simples », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Lire des mots simples ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Lire des mots simples » ; correction et retour du formateur.",
+      "objective": "Lire et reconnaître des mots très simples construits à partir des syllabes étudiées.",
+      "discovery": "Observe papa, moto, ami, lama et tomate. Découpe oralement un mot en syllabes.",
+      "practice": "Associe chaque mot à sa lecture, puis repère les syllabes connues.",
+      "production": "Lire cinq mots simples puis choisir deux mots pour construire une courte phrase avec l'aide du formateur.",
+      "evaluation": "Lire correctement au moins 4 mots sur 5.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -713,11 +750,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Bonjour, Salma ! Au revoir, Amine !",
+      "example": "papa – moto – ami – lama – tomate.",
       "vocabulary": [
-        "moto",
         "papa",
-        "lama"
+        "moto",
+        "ami",
+        "lama",
+        "tomate",
+        "mot"
       ],
       "lessonPlan": [
         {
@@ -737,9 +777,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "moto, papa, ami, lama.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Lis papa, moto, ami, lama et tomate. Découpe chaque mot en syllabes avec des barres.",
+        "model": "pa-pa ; mo-to ; a-mi ; la-ma ; to-ma-te.",
+        "correction": "Vérifier la segmentation syllabique et la lecture globale des mots."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -750,51 +790,51 @@
       "quiz": [
         {
           "id": "A0-08-Q1",
-          "question": "Que dit-on pour saluer ?",
-          "arabic": "ماذا نقول للتحية؟",
-          "darija": "شنو كنقولو فالتحية؟",
+          "question": "Quel mot commence par « mo » ?",
+          "arabic": "أي كلمة تبدأ بـ « mo »؟",
+          "darija": "شنو الكلمة اللي كتبدا بـ « mo »؟",
           "options": [
-            "Bonjour !",
-            "Au revoir !",
-            "Merci !"
+            "moto",
+            "papa",
+            "ami"
           ],
           "correct": 0
         },
         {
           "id": "A0-08-Q2",
-          "question": "Que dit-on pour prendre congé ?",
-          "arabic": "ماذا نقول عند المغادرة؟",
-          "darija": "شنو كنقولو ملي كنمشيو؟",
+          "question": "Quel mot contient deux fois la syllabe « pa » ?",
+          "arabic": "أي كلمة تحتوي مرتين على المقطع « pa »؟",
+          "darija": "شنو الكلمة اللي فيها « pa » جوج المرات؟",
           "options": [
-            "Bonjour !",
-            "Au revoir !",
-            "Salut demain !"
+            "lama",
+            "papa",
+            "moto"
           ],
           "correct": 1
         },
         {
           "id": "A0-08-Q3",
-          "question": "Quelle formule convient au début d'une rencontre ?",
-          "arabic": "ما العبارة المناسبة في بداية اللقاء؟",
-          "darija": "شنو العبارة المناسبة فالبداية ديال اللقاء؟",
+          "question": "Quel mot commence par « la » ?",
+          "arabic": "أي كلمة تبدأ بـ « la »؟",
+          "darija": "شنو الكلمة اللي كتبدا بـ « la »؟",
           "options": [
-            "Bonjour !",
-            "Au revoir !",
-            "À demain !"
+            "ami",
+            "lama",
+            "tomate"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "id": "A0-08-Q4",
-          "question": "Quelle formule peut convenir au départ ?",
-          "arabic": "ما العبارة التي تناسب لحظة المغادرة؟",
-          "darija": "شنو العبارة اللي كتصلح ملي كنمشيو؟",
+          "question": "Quel mot peut être découpé en « to-ma-te » ?",
+          "arabic": "أي كلمة يمكن تقسيمها إلى « to-ma-te »؟",
+          "darija": "شنو الكلمة اللي كتتقسم لـ « to-ma-te »؟",
           "options": [
-            "Bonjour !",
-            "Au revoir !",
-            "Bonsoir hier !"
+            "tomate",
+            "moto",
+            "ami"
           ],
-          "correct": 1
+          "correct": 0
         }
       ]
     },
@@ -803,11 +843,11 @@
       "level": "A0",
       "number": 9,
       "title": "Saluer et prendre congé",
-      "objective": "À l'issue de la leçon, l'apprenant pourra saluer et prendre congé dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Saluer et prendre congé » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Saluer et prendre congé », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Saluer et prendre congé ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Saluer et prendre congé » ; correction et retour du formateur.",
+      "objective": "Saluer une personne et prendre congé avec une formule adaptée à la situation.",
+      "discovery": "Observe un échange entre Salma et Amine : Bonjour ! Bonjour ! À bientôt ! Au revoir !",
+      "practice": "Choisis une formule pour le début d'une rencontre et une formule pour le départ. Joue le mini-dialogue avec un camarade.",
+      "production": "Jouer deux situations : arriver en classe et quitter la classe.",
+      "evaluation": "Utiliser correctement au moins une formule de salutation et une formule de congé.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -815,12 +855,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Je m'appelle Yassine.",
+      "example": "Bonjour, Salma ! — Bonjour, Amine ! — À bientôt ! — Au revoir !",
       "vocabulary": [
-        "Bonjour",
-        "Salma",
-        "revoir",
-        "Amine"
+        "bonjour",
+        "salut",
+        "bonsoir",
+        "au revoir",
+        "à bientôt",
+        "à demain"
       ],
       "lessonPlan": [
         {
@@ -840,9 +882,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Bonjour, Salma ! Au revoir, Amine !",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète le dialogue : « ___, Salma ! » « Bonjour, Amine ! » « ___ ! » « À bientôt ! »",
+        "model": "Bonjour, Salma ! — Au revoir !",
+        "correction": "Vérifier que la formule choisie correspond au moment de l'arrivée ou du départ."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -906,11 +948,11 @@
       "level": "A0",
       "number": 10,
       "title": "Dire son prénom",
-      "objective": "À l'issue de la leçon, l'apprenant pourra dire son prénom dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Dire son prénom » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Dire son prénom », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Dire son prénom ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Dire son prénom » ; correction et retour du formateur.",
+      "objective": "Dire son prénom et demander le prénom d'une autre personne.",
+      "discovery": "Observe : « Comment tu t'appelles ? — Je m'appelle Amine. » Écoute puis répète.",
+      "practice": "Complète trois mini-dialogues avec ton prénom, celui de Salma et celui de Yassine.",
+      "production": "Demander le prénom d'un camarade et dire son propre prénom.",
+      "evaluation": "Poser correctement la question et répondre avec « Je m'appelle… ».",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -918,10 +960,13 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Bonjour, je m'appelle Amine. J'ai vingt ans.",
+      "example": "Comment tu t'appelles ? — Je m'appelle Amine.",
       "vocabulary": [
-        "m'appelle",
-        "Yassine"
+        "comment",
+        "s'appeler",
+        "prénom",
+        "je m'appelle",
+        "tu t'appelles"
       ],
       "lessonPlan": [
         {
@@ -941,9 +986,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Je m'appelle Yassine.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Joue avec un camarade : A demande « Comment tu t'appelles ? » ; B répond « Je m'appelle… ». Inversez les rôles.",
+        "model": "Comment tu t'appelles ? — Je m'appelle Amine.",
+        "correction": "Vérifier la question, la forme « je m'appelle » et la prononciation."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1007,11 +1052,11 @@
       "level": "A0",
       "number": 11,
       "title": "Dire son âge",
-      "objective": "À l'issue de la leçon, l'apprenant pourra dire son âge dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Dire son âge » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Dire son âge », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Dire son âge ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Dire son âge » ; correction et retour du formateur.",
+      "objective": "Dire son âge et demander l'âge d'une autre personne.",
+      "discovery": "Observe : « Quel âge as-tu ? — J'ai vingt ans. »",
+      "practice": "Associe 15, 18 et 20 aux phrases « J'ai … ans », puis lis-les à voix haute.",
+      "production": "Dire son âge avec un âge réel ou fictif et demander l'âge d'un personnage.",
+      "evaluation": "Utiliser correctement « avoir + nombre + ans » dans deux échanges.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1019,9 +1064,13 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "J'ai vingt ans.",
+      "example": "Quel âge as-tu ? — J'ai vingt ans.",
       "vocabulary": [
-        "J'ai",
+        "quel âge",
+        "avoir",
+        "ans",
+        "quinze",
+        "dix-huit",
         "vingt"
       ],
       "lessonPlan": [
@@ -1042,9 +1091,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "J'ai vingt ans.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète : « Quel âge as-tu ? — J'ai ___ ans. » Choisis 15, 18 ou 20.",
+        "model": "Quel âge as-tu ? — J'ai vingt ans.",
+        "correction": "Vérifier l'emploi de « avoir » et la prononciation du nombre."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1108,11 +1157,11 @@
       "level": "A0",
       "number": 12,
       "title": "Dire sa nationalité",
-      "objective": "À l'issue de la leçon, l'apprenant pourra dire sa nationalité dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Dire sa nationalité » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Dire sa nationalité », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Dire sa nationalité ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Dire sa nationalité » ; correction et retour du formateur.",
+      "objective": "Dire sa nationalité avec une formulation simple et adaptée à son genre.",
+      "discovery": "Observe : « Je suis marocain. » / « Je suis marocaine. »",
+      "practice": "Associe les formes masculin et féminin de quelques nationalités et répète les phrases.",
+      "production": "Dire une nationalité réelle ou fictive avec « Je suis… ».",
+      "evaluation": "Produire correctement une phrase avec « Je suis + nationalité ».",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1120,12 +1169,13 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Je suis marocain. Je suis marocaine.",
+      "example": "Je suis marocain. — Je suis marocaine.",
       "vocabulary": [
-        "suis",
+        "nationalité",
         "marocain",
-        "suis",
-        "marocaine"
+        "marocaine",
+        "français",
+        "française"
       ],
       "lessonPlan": [
         {
@@ -1145,9 +1195,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Je suis marocain. Je suis marocaine.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète : « Je suis marocain / marocaine. » Puis transforme la phrase pour un personnage différent.",
+        "model": "Je suis marocain. / Je suis marocaine.",
+        "correction": "Vérifier la structure « je suis » et, lorsque c'est travaillé, l'accord masculin/féminin."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1211,11 +1261,11 @@
       "level": "A0",
       "number": 13,
       "title": "Dire où l'on habite",
-      "objective": "À l'issue de la leçon, l'apprenant pourra dire où l'on habite dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Dire où l'on habite » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Dire où l'on habite », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Dire où l'on habite ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Dire où l'on habite » ; correction et retour du formateur.",
+      "objective": "Dire simplement où l'on habite avec « J'habite à… ».",
+      "discovery": "Observe : « J'habite à Casablanca. » Compare avec Rabat et Fès.",
+      "practice": "Remplace la ville dans la phrase avec Casablanca, Rabat, Fès, Marrakech ou Tanger.",
+      "production": "Dire où habite un personnage puis dire où l'on habite avec une ville réelle ou fictive.",
+      "evaluation": "Produire correctement deux phrases avec « J'habite à… ».",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1225,8 +1275,12 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "J'habite à Casablanca.",
       "vocabulary": [
-        "J'habite",
-        "Casablanca"
+        "habiter",
+        "ville",
+        "Casablanca",
+        "Rabat",
+        "Fès",
+        "Marrakech"
       ],
       "lessonPlan": [
         {
@@ -1246,9 +1300,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
+        "instruction": "Complète : « J'habite à ___ ». Choisis une ville réelle ou fictive.",
         "model": "J'habite à Casablanca.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "correction": "Vérifier « j'habite » et la préposition « à » devant la ville."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1312,11 +1366,11 @@
       "level": "A0",
       "number": 14,
       "title": "Les nombres de 0 à 20",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les nombres de 0 à 20 dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les nombres de 0 à 20 » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les nombres de 0 à 20 », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les nombres de 0 à 20 ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les nombres de 0 à 20 » ; correction et retour du formateur.",
+      "objective": "Reconnaître, lire et utiliser les nombres de 0 à 20 dans des situations simples.",
+      "discovery": "Écoute puis répète les nombres de 0 à 20. Observe leur ordre.",
+      "practice": "Compte de 0 à 20, puis complète des suites : 5, 6, 7… ; 14, 15, 16…",
+      "production": "Dire trois nombres tirés au hasard et utiliser un nombre dans une phrase avec l'âge.",
+      "evaluation": "Reconnaître et prononcer correctement au moins 16 nombres sur 21.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1324,13 +1378,15 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "zéro, un, deux, trois, quatre, cinq.",
+      "example": "zéro, un, deux, trois, quatre, cinq… vingt.",
       "vocabulary": [
         "zéro",
+        "un",
         "deux",
         "trois",
-        "quatre",
-        "cinq"
+        "dix",
+        "quinze",
+        "vingt"
       ],
       "lessonPlan": [
         {
@@ -1350,9 +1406,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "zéro, un, deux, trois, quatre, cinq.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète les suites et lis les nombres à voix haute : 0, 1, 2, … ; 10, 11, 12, … ; 18, 19, …",
+        "model": "0, 1, 2, 3, 4… ; 10, 11, 12, 13… ; 18, 19, 20.",
+        "correction": "Vérifier l'ordre des nombres et leur prononciation."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1416,11 +1472,11 @@
       "level": "A0",
       "number": 15,
       "title": "Les jours de la semaine",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les jours de la semaine dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les jours de la semaine » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les jours de la semaine », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les jours de la semaine ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les jours de la semaine » ; correction et retour du formateur.",
+      "objective": "Nommer les jours de la semaine et situer une activité sur un jour.",
+      "discovery": "Observe la suite lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.",
+      "practice": "Remets les sept jours dans l'ordre et repère aujourd'hui, demain et hier avec l'aide du formateur.",
+      "production": "Dire un jour où une activité a lieu : « Le lundi, je… ».",
+      "evaluation": "Nommer les sept jours dans l'ordre ou avec au plus une erreur.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1428,13 +1484,15 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "lundi, mardi, mercredi, jeudi, vendredi.",
+      "example": "lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.",
       "vocabulary": [
         "lundi",
         "mardi",
         "mercredi",
         "jeudi",
-        "vendredi"
+        "vendredi",
+        "samedi",
+        "dimanche"
       ],
       "lessonPlan": [
         {
@@ -1454,9 +1512,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "lundi, mardi, mercredi, jeudi, vendredi.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Remets les jours dans l'ordre puis complète : « Le ___, je vais en classe. »",
+        "model": "lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche.",
+        "correction": "Vérifier l'ordre et l'emploi du jour dans une phrase simple."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1520,11 +1578,11 @@
       "level": "A0",
       "number": 16,
       "title": "Les mois de l'année",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les mois de l'année dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les mois de l'année » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les mois de l'année », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les mois de l'année ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les mois de l'année » ; correction et retour du formateur.",
+      "objective": "Nommer les douze mois de l'année et reconnaître un mois dans une date simple.",
+      "discovery": "Observe janvier, février, mars, avril puis complète la suite jusqu'à décembre.",
+      "practice": "Remets les mois dans l'ordre et retrouve le mois d'un anniversaire fictif.",
+      "production": "Dire son mois de naissance ou celui d'un personnage.",
+      "evaluation": "Reconnaître au moins 10 mois sur 12 et les replacer globalement dans l'ordre.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1532,12 +1590,15 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "janvier, février, mars, avril.",
+      "example": "janvier, février, mars, avril… décembre.",
       "vocabulary": [
         "janvier",
         "février",
         "mars",
-        "avril"
+        "avril",
+        "mai",
+        "juin",
+        "décembre"
       ],
       "lessonPlan": [
         {
@@ -1557,9 +1618,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "janvier, février, mars, avril.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète la suite : janvier, février, ___, avril… puis indique un mois d'anniversaire fictif.",
+        "model": "janvier, février, mars, avril… décembre.",
+        "correction": "Vérifier l'ordre des mois et la prononciation des mois travaillés."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1623,11 +1684,11 @@
       "level": "A0",
       "number": 17,
       "title": "Les couleurs",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les couleurs dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les couleurs » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les couleurs », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les couleurs ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les couleurs » ; correction et retour du formateur.",
+      "objective": "Reconnaître et nommer des couleurs courantes dans des objets simples.",
+      "discovery": "Observe rouge, bleu, vert et jaune sur des objets de la classe.",
+      "practice": "Associe chaque couleur à un objet ou à une image et répète les groupes de mots.",
+      "production": "Décrire la couleur de trois objets : « un stylo bleu », par exemple.",
+      "evaluation": "Nommer correctement au moins quatre couleurs et les associer à un objet.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1640,7 +1701,9 @@
         "rouge",
         "bleu",
         "vert",
-        "jaune"
+        "jaune",
+        "couleur",
+        "objet"
       ],
       "lessonPlan": [
         {
@@ -1660,9 +1723,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "rouge, bleu, vert, jaune.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Choisis trois objets de la classe et complète : « un/une ___ rouge/bleu/vert/jaune ».",
+        "model": "un stylo bleu.",
+        "correction": "Vérifier la couleur et l'association avec le nom de l'objet."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1726,11 +1789,11 @@
       "level": "A0",
       "number": 18,
       "title": "Les objets de la classe",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les objets de la classe dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les objets de la classe » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les objets de la classe », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les objets de la classe ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les objets de la classe » ; correction et retour du formateur.",
+      "objective": "Nommer des objets de la classe et demander ou identifier un objet simple.",
+      "discovery": "Observe un cahier, un stylo et une table. Répète les noms.",
+      "practice": "Montre ou touche l'objet demandé : « le cahier », « le stylo », « la table ».",
+      "production": "Dire le nom de trois objets présents dans la classe ou sur une image.",
+      "evaluation": "Identifier et nommer correctement au moins trois objets.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1742,7 +1805,10 @@
       "vocabulary": [
         "cahier",
         "stylo",
-        "table"
+        "table",
+        "chaise",
+        "livre",
+        "sac"
       ],
       "lessonPlan": [
         {
@@ -1762,9 +1828,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "un cahier, un stylo, une table.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Associe chaque mot à l'objet correspondant, puis dis : « C'est un cahier », « C'est un stylo » ou « C'est une table ».",
+        "model": "C'est un cahier. C'est un stylo. C'est une table.",
+        "correction": "Vérifier le nom de l'objet et l'emploi de « un/une » lorsque celui-ci est travaillé."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1828,11 +1894,11 @@
       "level": "A0",
       "number": 19,
       "title": "Les membres de la famille",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les membres de la famille dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les membres de la famille » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les membres de la famille », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les membres de la famille ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les membres de la famille » ; correction et retour du formateur.",
+      "objective": "Nommer les membres proches de la famille et présenter une personne de sa famille.",
+      "discovery": "Observe : la mère, le père, la sœur, le frère.",
+      "practice": "Associe chaque mot à un personnage d'une famille dessinée et répète les mots.",
+      "production": "Présenter un personnage : « C'est ma sœur. » ou « C'est mon frère. »",
+      "evaluation": "Reconnaître au moins quatre mots de la famille et produire une phrase simple.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1845,7 +1911,10 @@
         "mère",
         "père",
         "sœur",
-        "frère"
+        "frère",
+        "famille",
+        "ma",
+        "mon"
       ],
       "lessonPlan": [
         {
@@ -1865,9 +1934,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "la mère, le père, la sœur, le frère.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Choisis un personnage et complète : « C'est ma ___ » ou « C'est mon ___ ».",
+        "model": "C'est ma sœur. / C'est mon frère.",
+        "correction": "Vérifier le vocabulaire et l'emploi de ma/mon dans les structures travaillées."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -1931,11 +2000,11 @@
       "level": "A0",
       "number": 20,
       "title": "Les parties du corps",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les parties du corps dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les parties du corps » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les parties du corps », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les parties du corps ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les parties du corps » ; correction et retour du formateur.",
+      "objective": "Nommer quelques parties du corps et les associer à une action simple.",
+      "discovery": "Observe la main, le pied et les yeux sur une image du corps.",
+      "practice": "Montre la partie demandée : « la main », « le pied », « les yeux ».",
+      "production": "Dire trois phrases simples : « J'ai deux yeux », « J'ai une main », etc.",
+      "evaluation": "Identifier au moins trois parties du corps et produire une phrase correcte.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -1947,7 +2016,10 @@
       "vocabulary": [
         "main",
         "pied",
-        "yeux"
+        "yeux",
+        "corps",
+        "tête",
+        "bouche"
       ],
       "lessonPlan": [
         {
@@ -1967,9 +2039,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "la main, le pied, les yeux.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Montre ou indique la partie demandée, puis complète : « J'ai deux ___ ».",
+        "model": "J'ai deux yeux.",
+        "correction": "Vérifier l'identification et le nombre dans la phrase."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2033,11 +2105,11 @@
       "level": "A0",
       "number": 21,
       "title": "Les aliments courants",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les aliments courants dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les aliments courants » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les aliments courants », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les aliments courants ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les aliments courants » ; correction et retour du formateur.",
+      "objective": "Nommer des aliments courants et exprimer simplement ce que l'on mange ou boit.",
+      "discovery": "Observe le pain, le lait et la pomme. Classe ce que l'on mange et ce que l'on boit.",
+      "practice": "Associe chaque aliment à « manger » ou « boire ». Répète les phrases modèles.",
+      "production": "Dire deux choses que mange ou boit un personnage.",
+      "evaluation": "Reconnaître au moins quatre aliments et utiliser correctement manger ou boire dans une phrase simple.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2045,11 +2117,14 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "le pain, le lait, la pomme.",
+      "example": "Je mange du pain. Je bois du lait. Je mange une pomme.",
       "vocabulary": [
         "pain",
         "lait",
-        "pomme"
+        "pomme",
+        "manger",
+        "boire",
+        "eau"
       ],
       "lessonPlan": [
         {
@@ -2069,9 +2144,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "le pain, le lait, la pomme.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Classe pain, lait, pomme et eau. Puis complète : « Je mange ___ » ou « Je bois ___ ».",
+        "model": "Je mange du pain. Je bois du lait.",
+        "correction": "Vérifier le choix de manger/boire et les déterminants déjà étudiés."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2135,11 +2210,11 @@
       "level": "A0",
       "number": 22,
       "title": "Les vêtements",
-      "objective": "À l'issue de la leçon, l'apprenant pourra utiliser les vêtements dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Les vêtements » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Les vêtements », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Les vêtements ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Les vêtements » ; correction et retour du formateur.",
+      "objective": "Nommer des vêtements courants et dire simplement ce qu'une personne porte.",
+      "discovery": "Observe une chemise, un pantalon et des chaussures.",
+      "practice": "Associe chaque vêtement à la partie du corps correspondante et répète les groupes de mots.",
+      "production": "Décrire trois vêtements portés par un personnage avec « Il/Elle porte… ».",
+      "evaluation": "Nommer au moins trois vêtements et construire une phrase simple.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2151,7 +2226,10 @@
       "vocabulary": [
         "chemise",
         "pantalon",
-        "chaussures"
+        "chaussures",
+        "porter",
+        "vêtement",
+        "robe"
       ],
       "lessonPlan": [
         {
@@ -2171,9 +2249,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "une chemise, un pantalon, des chaussures.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète : « Il porte un ___ » ; « Elle porte une ___ » ; « Elle porte des ___ ».",
+        "model": "Il porte un pantalon. Elle porte une chemise. Elle porte des chaussures.",
+        "correction": "Vérifier le vocabulaire et les articles un/une/des."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2237,11 +2315,11 @@
       "level": "A0",
       "number": 23,
       "title": "Être au présent",
-      "objective": "À l'issue de la leçon, l'apprenant pourra être au présent dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Être au présent » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Être au présent », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Être au présent ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Être au présent » ; correction et retour du formateur.",
+      "objective": "Utiliser les formes de base du verbe être au présent avec je, tu et elle.",
+      "discovery": "Observe : Je suis élève. Tu es élève. Elle est élève.",
+      "practice": "Complète des phrases avec suis, es ou est. Puis lis-les à voix haute.",
+      "production": "Dire trois phrases avec je suis, tu es et elle est.",
+      "evaluation": "Choisir correctement suis, es et est dans au moins 5 phrases sur 6.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2249,10 +2327,12 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Je suis élève. Tu es élève.",
+      "example": "Je suis élève. Tu es élève. Elle est élève.",
       "vocabulary": [
+        "être",
         "suis",
-        "élève",
+        "es",
+        "est",
         "élève"
       ],
       "lessonPlan": [
@@ -2273,9 +2353,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Je suis élève. Tu es élève.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète : « Je ___ élève. Tu ___ élève. Elle ___ élève. » Puis invente un personnage.",
+        "model": "Je suis élève. Tu es élève. Elle est élève.",
+        "correction": "Vérifier l'accord entre le pronom et la forme du verbe être."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2339,11 +2419,11 @@
       "level": "A0",
       "number": 24,
       "title": "Avoir au présent",
-      "objective": "À l'issue de la leçon, l'apprenant pourra avoir au présent dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Avoir au présent » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Avoir au présent », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Avoir au présent ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Avoir au présent » ; correction et retour du formateur.",
+      "objective": "Utiliser les formes de base du verbe avoir au présent avec je, tu et elle.",
+      "discovery": "Observe : J'ai un cahier. Tu as un livre. Elle a un sac.",
+      "practice": "Complète des phrases avec ai, as ou a. Puis lis-les à voix haute.",
+      "production": "Dire ce qu'un personnage a dans son sac avec deux ou trois phrases.",
+      "evaluation": "Choisir correctement ai, as et a dans au moins 5 phrases sur 6.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2351,12 +2431,15 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "J'ai un cahier. Elle a un livre.",
+      "example": "J'ai un cahier. Tu as un livre. Elle a un sac.",
       "vocabulary": [
-        "J'ai",
+        "avoir",
+        "ai",
+        "as",
+        "a",
         "cahier",
-        "Elle",
-        "livre"
+        "livre",
+        "sac"
       ],
       "lessonPlan": [
         {
@@ -2376,9 +2459,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "J'ai un cahier. Elle a un livre.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Complète : « J'___ un cahier. Tu ___ un livre. Elle ___ un sac. »",
+        "model": "J'ai un cahier. Tu as un livre. Elle a un sac.",
+        "correction": "Vérifier les formes ai, as et a et la structure « avoir + nom »."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2442,11 +2525,11 @@
       "level": "A0",
       "number": 25,
       "title": "Je, tu, il et elle",
-      "objective": "À l'issue de la leçon, l'apprenant pourra je, tu, il et elle dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Je, tu, il et elle » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Je, tu, il et elle », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Je, tu, il et elle ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Je, tu, il et elle » ; correction et retour du formateur.",
+      "objective": "Utiliser je, tu, il et elle pour parler de soi ou d'une autre personne.",
+      "discovery": "Observe : Je parle. Tu écoutes. Il lit. Elle écrit.",
+      "practice": "Associe chaque pronom à une action et complète des phrases très courtes.",
+      "production": "Produire quatre phrases : une avec je, une avec tu, une avec il et une avec elle.",
+      "evaluation": "Employer correctement les quatre pronoms dans au moins 3 phrases sur 4.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2454,11 +2537,16 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Je parle. Tu écoutes. Elle lit.",
+      "example": "Je parle. Tu écoutes. Il lit. Elle écrit.",
       "vocabulary": [
-        "parle",
-        "écoutes",
-        "Elle"
+        "je",
+        "tu",
+        "il",
+        "elle",
+        "parler",
+        "écouter",
+        "lire",
+        "écrire"
       ],
       "lessonPlan": [
         {
@@ -2478,9 +2566,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Je parle. Tu écoutes. Elle lit.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Choisis le bon pronom : « ___ parle. ___ écoutes. ___ lit. ___ écrit. »",
+        "model": "Je parle. Tu écoutes. Il lit. Elle écrit.",
+        "correction": "Vérifier le lien entre le pronom, la personne et la forme verbale."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2544,11 +2632,11 @@
       "level": "A0",
       "number": 26,
       "title": "Construire une phrase simple",
-      "objective": "À l'issue de la leçon, l'apprenant pourra construire une phrase simple dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Construire une phrase simple » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Construire une phrase simple », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Construire une phrase simple ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Construire une phrase simple » ; correction et retour du formateur.",
+      "objective": "Construire une phrase affirmative simple avec sujet, verbe et complément.",
+      "discovery": "Observe : Salma lit un livre. Repère qui fait l'action, l'action et ce qui complète la phrase.",
+      "practice": "Remets dans l'ordre des groupes de mots : « un livre / lit / Salma ».",
+      "production": "Construire trois phrases avec des prénoms, des verbes et des objets connus.",
+      "evaluation": "Construire correctement au moins 3 phrases simples sur 4.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2558,8 +2646,11 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Salma lit un livre.",
       "vocabulary": [
-        "Salma",
-        "livre"
+        "sujet",
+        "verbe",
+        "livre",
+        "lire",
+        "phrase"
       ],
       "lessonPlan": [
         {
@@ -2579,9 +2670,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Salma lit un livre.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Remets les mots dans l'ordre : « lit / Amine / un livre » ; puis crée une phrase avec « Salma / avoir / un cahier ».",
+        "model": "Amine lit un livre. Salma a un cahier.",
+        "correction": "Vérifier l'ordre sujet-verbe-complément et la forme verbale étudiée."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2645,11 +2736,11 @@
       "level": "A0",
       "number": 27,
       "title": "Poser une question simple",
-      "objective": "À l'issue de la leçon, l'apprenant pourra poser une question simple dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Poser une question simple » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Poser une question simple », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Poser une question simple ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Poser une question simple » ; correction et retour du formateur.",
+      "objective": "Poser et comprendre des questions simples sur le prénom, l'âge et le lieu.",
+      "discovery": "Observe trois questions : Comment tu t'appelles ? Quel âge as-tu ? Où habites-tu ?",
+      "practice": "Associe chaque question à sa réponse : prénom, âge ou ville.",
+      "production": "Poser deux questions à un camarade et répondre à deux questions.",
+      "evaluation": "Poser correctement au moins deux questions et identifier l'information demandée.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2657,10 +2748,13 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Comment tu t'appelles ?",
+      "example": "Comment tu t'appelles ? — Je m'appelle Amine.",
       "vocabulary": [
-        "Comment",
-        "t'appelles"
+        "comment",
+        "quel âge",
+        "où",
+        "s'appeler",
+        "habiter"
       ],
       "lessonPlan": [
         {
@@ -2680,9 +2774,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Comment tu t'appelles ?",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Relie chaque question à la bonne réponse, puis joue un mini-dialogue.",
+        "model": "Comment tu t'appelles ? — Je m'appelle Amine. / Quel âge as-tu ? — J'ai vingt ans. / Où habites-tu ? — J'habite à Casablanca.",
+        "correction": "Vérifier l'ordre des mots, le point d'interrogation et la cohérence question-réponse."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2746,11 +2840,11 @@
       "level": "A0",
       "number": 28,
       "title": "Lire une courte présentation",
-      "objective": "À l'issue de la leçon, l'apprenant pourra lire une courte présentation dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Lire une courte présentation » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Lire une courte présentation », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Lire une courte présentation ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Lire une courte présentation » ; correction et retour du formateur.",
+      "objective": "Lire et comprendre une courte présentation contenant un prénom et une ville.",
+      "discovery": "Lis : « Je m'appelle Fatima. J'habite à Rabat. » Repère le prénom et la ville.",
+      "practice": "Réponds à deux questions sur la présentation, puis lis le texte à voix haute.",
+      "production": "Remplacer Fatima et Rabat par un prénom et une ville choisis par l'élève.",
+      "evaluation": "Identifier correctement le prénom et la ville et lire les deux phrases avec une prononciation compréhensible.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2760,9 +2854,10 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je m'appelle Fatima. J'habite à Rabat.",
       "vocabulary": [
-        "m'appelle",
-        "Fatima",
-        "J'habite",
+        "présentation",
+        "s'appeler",
+        "habiter",
+        "ville",
         "Rabat"
       ],
       "lessonPlan": [
@@ -2783,9 +2878,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
+        "instruction": "Lis le texte, puis complète : « Elle s'appelle ___. Elle habite à ___. »",
         "model": "Je m'appelle Fatima. J'habite à Rabat.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "correction": "Vérifier la compréhension du prénom et du lieu et la lecture des deux phrases."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2850,10 +2945,10 @@
       "number": 29,
       "title": "Se présenter en trois phrases",
       "objective": "Se présenter oralement en donnant son prénom, son âge et sa ville.",
-      "discovery": "Lire un dialogue original entre Salma et Amine.",
-      "practice": "Compléter : Je m'appelle… J'ai … ans. J'habite à…",
-      "production": "Se présenter devant un camarade, puis devant le groupe.",
-      "evaluation": "Dire trois informations personnelles clairement, sans obligation de divulguer des données réelles.",
+      "discovery": "Lis et écoute la présentation d'Amine. Repère les trois informations.",
+      "practice": "Complète : « Je m'appelle… J'ai… ans. J'habite à… » puis répète la présentation.",
+      "production": "Faire une présentation de trois phrases à un camarade, avec des informations réelles ou fictives.",
+      "evaluation": "Donner clairement les trois informations dans l'ordre et être compréhensible à l'oral.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2863,12 +2958,12 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Bonjour ! Je m'appelle Amine. J'ai vingt ans. J'habite à Casablanca.",
       "vocabulary": [
-        "Bonjour",
-        "m'appelle",
-        "Amine",
-        "J'ai",
-        "vingt",
-        "J'habite"
+        "bonjour",
+        "s'appeler",
+        "avoir",
+        "ans",
+        "habiter",
+        "ville"
       ],
       "lessonPlan": [
         {
@@ -2888,9 +2983,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
+        "instruction": "Prépare une présentation de trois phrases. Tu peux utiliser un prénom, un âge et une ville fictifs.",
         "model": "Bonjour ! Je m'appelle Amine. J'ai vingt ans. J'habite à Casablanca.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "correction": "Vérifier les trois structures : je m'appelle…, j'ai… ans, j'habite à… ; ne pas exiger de données personnelles réelles."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -2954,11 +3049,11 @@
       "level": "A0",
       "number": 30,
       "title": "Bilan A0",
-      "objective": "À l'issue de la leçon, l'apprenant pourra bilan a0 dans une situation adaptée au niveau A0.",
-      "discovery": "Observer deux exemples de « Bilan A0 » et relever les formes ou les idées essentielles.",
-      "practice": "Réaliser une activité guidée sur « Bilan A0 », puis comparer ses réponses avec un camarade.",
-      "production": "Produire trois exemples simples en lien avec « Bilan A0 ». ",
-      "evaluation": "Évaluation : accomplir une tâche autonome liée à « Bilan A0 » ; correction et retour du formateur.",
+      "objective": "Mobiliser les compétences A0 : reconnaître des lettres, lire des syllabes et des mots simples, comprendre et produire une présentation courte.",
+      "discovery": "Reprends un exemple de chaque compétence : alphabet, syllabes, mots et présentation.",
+      "practice": "Réalise quatre mini-épreuves : reconnaître 5 lettres, lire 5 syllabes, lire 5 mots, répondre à 3 questions simples.",
+      "production": "Réaliser une présentation orale de 3 à 4 phrases et lire une courte présentation écrite.",
+      "evaluation": "Valider les compétences essentielles : lettres, lecture de syllabes et mots, questions-réponses et présentation courte.",
       "sources": [
         "Tableau de l'alphabet fourni",
         "Tableau syllabique fourni",
@@ -2968,10 +3063,11 @@
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
       "example": "Je reconnais les lettres, je lis des syllabes et je me présente.",
       "vocabulary": [
-        "reconnais",
-        "lettres",
-        "syllabes",
-        "présente"
+        "lettre",
+        "syllabe",
+        "mot",
+        "question",
+        "présentation"
       ],
       "lessonPlan": [
         {
@@ -2991,9 +3087,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Recopie puis lis l'exemple. Remplace au moins un élément si possible.",
-        "model": "Je reconnais les lettres, je lis des syllabes et je me présente.",
-        "correction": "Réponse ouverte : comparer la production au modèle, vérifier le sens, la précision et les formes étudiées."
+        "instruction": "Mission finale : 1) lis cinq lettres ; 2) lis cinq syllabes ; 3) lis cinq mots ; 4) présente-toi en trois ou quatre phrases.",
+        "model": "Bonjour ! Je m'appelle Amine. J'ai vingt ans. J'habite à Casablanca.",
+        "correction": "Vérifier la reconnaissance des lettres, la lecture, les structures je m'appelle/j'ai/j'habite et l'intelligibilité de la présentation."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -21498,5 +21594,5 @@
       ]
     }
   ],
-  "enrichment": "Quiz C2 réécrits avec questions pédagogiques contextualisées ; A0-C1 conservés ; 840 questions au total ; validation pédagogique toujours conseillée."
+  "enrichment": "A0 révisé : progression lecture → communication → vocabulaire → grammaire → présentation ; activités spécifiques par leçon ; exemples et évaluations contextualisés ; corrections des incohérences A0-06 à A0-10 et A0-23/A0-30."
 }
