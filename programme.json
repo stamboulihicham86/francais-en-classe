@@ -777,9 +777,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Lis papa, moto, ami, lama et tomate. Découpe chaque mot en syllabes avec des barres.",
+        "instruction": "Lis les cinq mots. Découpe-les en syllabes, puis relis chaque mot sans séparer les syllabes.",
         "model": "pa-pa ; mo-to ; a-mi ; la-ma ; to-ma-te.",
-        "correction": "Vérifier la segmentation syllabique et la lecture globale des mots."
+        "correction": "Vérifier la lecture des mots et leur découpage syllabique : papa, moto, ami, lama, tomate."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -843,7 +843,7 @@
       "level": "A0",
       "number": 9,
       "title": "Saluer et prendre congé",
-      "objective": "Saluer une personne et prendre congé avec une formule adaptée à la situation.",
+      "objective": "Utiliser une formule simple pour saluer quelqu’un et une formule adaptée pour prendre congé.",
       "discovery": "Observe un échange entre Salma et Amine : Bonjour ! Bonjour ! À bientôt ! Au revoir !",
       "practice": "Choisis une formule pour le début d'une rencontre et une formule pour le départ. Joue le mini-dialogue avec un camarade.",
       "production": "Jouer deux situations : arriver en classe et quitter la classe.",
@@ -855,7 +855,7 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Bonjour, Salma ! — Bonjour, Amine ! — À bientôt ! — Au revoir !",
+      "example": "Bonjour, Salma ! — Bonjour, Amine ! — Au revoir ! — À bientôt !",
       "vocabulary": [
         "bonjour",
         "salut",
@@ -882,9 +882,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Complète le dialogue : « ___, Salma ! » « Bonjour, Amine ! » « ___ ! » « À bientôt ! »",
-        "model": "Bonjour, Salma ! — Au revoir !",
-        "correction": "Vérifier que la formule choisie correspond au moment de l'arrivée ou du départ."
+        "instruction": "Complète le dialogue avec une formule de salutation et une formule de départ : « ___, Salma ! » « Bonjour, Amine ! » « ___ ! » « À demain ! » Puis joue le dialogue avec un camarade.",
+        "model": "Salma : Bonjour, Amine ! — Amine : Bonjour, Salma ! — Salma : Au revoir ! — Amine : À demain !",
+        "correction": "Vérifier que l’apprenant distingue une formule d’arrivée (bonjour, salut, bonsoir) d’une formule de départ (au revoir, à bientôt, à demain)."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -895,49 +895,49 @@
       "quiz": [
         {
           "id": "A0-09-Q1",
-          "question": "Complète : Je m'_____ Yassine.",
-          "arabic": "أكمل: Je m'_____ Yassine.",
-          "darija": "كمّل: Je m'_____ Yassine.",
+          "question": "Que peut-on dire en arrivant le matin ?",
+          "arabic": "ماذا يمكن أن نقول عند الوصول صباحًا؟",
+          "darija": "شنو نقدروا نقولو ملي كنوصلو فالصباح؟",
           "options": [
-            "appelle",
-            "habite",
-            "suis"
+            "Bonjour !",
+            "Au revoir !",
+            "À demain !"
           ],
           "correct": 0
         },
         {
           "id": "A0-09-Q2",
-          "question": "Quelle phrase donne le prénom ?",
-          "arabic": "أي جملة تعطي الاسم الأول؟",
-          "darija": "أشنو الجملة اللي كتقول السمية؟",
+          "question": "Quelle formule convient quand on quitte une personne ?",
+          "arabic": "ما العبارة المناسبة عند مغادرة شخص؟",
+          "darija": "شنو العبارة المناسبة ملي كنمشيو ونخليو شي واحد؟",
           "options": [
-            "Je m'appelle Salma.",
-            "J'habite à Rabat.",
-            "J'ai vingt ans."
+            "Bonsoir !",
+            "Au revoir !",
+            "Bonjour !"
           ],
-          "correct": 0
+          "correct": 1
         },
         {
           "id": "A0-09-Q3",
-          "question": "Quelle question correspond à la réponse « Je m'appelle Amine » ?",
-          "arabic": "ما السؤال المناسب لجواب « Je m'appelle Amine »؟",
-          "darija": "شنو السؤال المناسب لجواب « Je m'appelle Amine »؟",
+          "question": "Complète : « À ___ ! » pour dire qu’on se reverra bientôt.",
+          "arabic": "أكمل: « إلى اللقاء قريبًا! »",
+          "darija": "كمّل: « إلى ___ ! » باش نقولو غادي نتلاقاو قريب.",
           "options": [
-            "Comment tu t'appelles ?",
-            "Où habites-tu ?",
-            "Quel âge as-tu ?"
+            "bientôt",
+            "bonjour",
+            "merci"
           ],
           "correct": 0
         },
         {
           "id": "A0-09-Q4",
-          "question": "Que peux-tu dire pour te présenter ?",
-          "arabic": "ماذا يمكنك أن تقول لتقديم اسمك؟",
-          "darija": "شنو تقدر تقول باش تقدم السمية ديالك؟",
+          "question": "Salma arrive en classe le matin. Que peut-elle dire à Amine ?",
+          "arabic": "وصلت سلمى إلى القسم صباحًا. ماذا يمكن أن تقول لأمين؟",
+          "darija": "سلمى وصلات للقسم فالصباح. شنو تقدر تقول لأمين؟",
           "options": [
-            "Je m'appelle Fatima.",
-            "Au revoir Fatima.",
-            "Merci beaucoup."
+            "Bonjour, Amine !",
+            "Au revoir, Amine !",
+            "À demain, Amine !"
           ],
           "correct": 0
         }
@@ -948,7 +948,7 @@
       "level": "A0",
       "number": 10,
       "title": "Dire son prénom",
-      "objective": "Dire son prénom et demander le prénom d'une autre personne.",
+      "objective": "Demander le prénom d’une personne et donner son propre prénom.",
       "discovery": "Observe : « Comment tu t'appelles ? — Je m'appelle Amine. » Écoute puis répète.",
       "practice": "Complète trois mini-dialogues avec ton prénom, celui de Salma et celui de Yassine.",
       "production": "Demander le prénom d'un camarade et dire son propre prénom.",
@@ -960,7 +960,7 @@
         "Vocabulaire grands débutants : thèmes de base"
       ],
       "status": "Quiz interactif prêt — validation pédagogique conseillée",
-      "example": "Comment tu t'appelles ? — Je m'appelle Amine.",
+      "example": "Comment tu t’appelles ? — Je m’appelle Amine.",
       "vocabulary": [
         "comment",
         "s'appeler",
@@ -986,9 +986,9 @@
         }
       ],
       "exercise": {
-        "instruction": "Joue avec un camarade : A demande « Comment tu t'appelles ? » ; B répond « Je m'appelle… ». Inversez les rôles.",
-        "model": "Comment tu t'appelles ? — Je m'appelle Amine.",
-        "correction": "Vérifier la question, la forme « je m'appelle » et la prononciation."
+        "instruction": "Avec un camarade, joue les deux rôles. A demande le prénom ; B répond. Inversez ensuite les rôles. Tu peux inventer un prénom.",
+        "model": "— Comment tu t’appelles ? — Je m’appelle Amine. — Et toi ? — Je m’appelle Salma.",
+        "correction": "Vérifier la question « Comment tu t’appelles ? » et la réponse « Je m’appelle… », sans exiger que l’élève partage son vrai prénom."
       },
       "teacherChecklist": [
         "L'objectif est-il adapté au groupe ?",
@@ -999,51 +999,51 @@
       "quiz": [
         {
           "id": "A0-10-Q1",
-          "question": "Quelle phrase donne le nom ?",
-          "arabic": "أي جملة تعطي الاسم؟",
-          "darija": "شنو الجملة اللي كتقول السمية؟",
+          "question": "Quelle question permet de demander le prénom ?",
+          "arabic": "أي سؤال نستخدمه لمعرفة الاسم؟",
+          "darija": "شنو السؤال اللي كنستعملو باش نعرفو السمية؟",
           "options": [
-            "Je m'appelle Amine.",
-            "J'ai vingt ans.",
-            "Bonjour."
-          ],
-          "correct": 0
-        },
-        {
-          "id": "A0-10-Q2",
-          "question": "Quelle phrase donne l'âge ?",
-          "arabic": "أي جملة تعطي العمر؟",
-          "darija": "شنو الجملة اللي كتقول العمر؟",
-          "options": [
-            "Je m'appelle Amine.",
-            "J'ai vingt ans.",
-            "Au revoir."
-          ],
-          "correct": 1
-        },
-        {
-          "id": "A0-10-Q3",
-          "question": "Comment demander le prénom ?",
-          "arabic": "كيف نسأل عن الاسم؟",
-          "darija": "كيفاش نسولو على السمية؟",
-          "options": [
-            "Comment tu t'appelles ?",
+            "Comment tu t’appelles ?",
             "Quel âge as-tu ?",
             "Où habites-tu ?"
           ],
           "correct": 0
         },
         {
-          "id": "A0-10-Q4",
-          "question": "Quelle réponse convient à « Comment tu t'appelles ? » ?",
-          "arabic": "ما الجواب المناسب؟",
-          "darija": "شنو الجواب المناسب؟",
+          "id": "A0-10-Q2",
+          "question": "Complète : « Je m’___ Salma. »",
+          "arabic": "أكمل: « اسمي سلمى ». ",
+          "darija": "كمّل: « Je m’___ Salma ». ",
           "options": [
-            "J'ai vingt ans.",
-            "Je m'appelle Salma.",
-            "J'habite à Fès."
+            "appelle",
+            "habite",
+            "ai"
           ],
-          "correct": 1
+          "correct": 0
+        },
+        {
+          "id": "A0-10-Q3",
+          "question": "Quelle réponse convient à « Comment tu t’appelles ? » ?",
+          "arabic": "ما الجواب المناسب لسؤال « ما اسمك؟ »؟",
+          "darija": "شنو الجواب المناسب للسؤال على السمية؟",
+          "options": [
+            "Je m’appelle Yassine.",
+            "J’ai vingt ans.",
+            "J’habite à Fès."
+          ],
+          "correct": 0
+        },
+        {
+          "id": "A0-10-Q4",
+          "question": "Quelle phrase donne un prénom ?",
+          "arabic": "أي جملة تذكر الاسم؟",
+          "darija": "شنو الجملة اللي كتقول السمية؟",
+          "options": [
+            "Je m’appelle Fatima.",
+            "À bientôt !",
+            "J’ai quinze ans."
+          ],
+          "correct": 0
         }
       ]
     },
@@ -21594,5 +21594,5 @@
       ]
     }
   ],
-  "enrichment": "A0 révisé : progression lecture → communication → vocabulaire → grammaire → présentation ; activités spécifiques par leçon ; exemples et évaluations contextualisés ; corrections des incohérences A0-06 à A0-10 et A0-23/A0-30."
+  "enrichment": "Audit A0 : exemples et activités de lecture harmonisés ; A0-09 corrigé sur les salutations et prises de congé avec quiz cohérent ; A0-10 recentré sur le prénom avec quiz cohérent. 210 leçons et 840 questions conservées."
 }
